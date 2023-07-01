@@ -7,7 +7,8 @@ I am testing Selenium on a Map-based website. Here I used DKV Maps (https://www.
      Link: (https://chromedriver.chromium.org/)
 3. Run requirements.txt
      pip install -r requirements.txt
-4. Change LOCATION_AREA to your desired location
+4. Change LOCATION to your desired location
+5. Change AREA to change the search range
 
 # Result
-The script will perform live scrapping and save data to a CSV file automatically.
+The script will perform live scrapping and save data to CSV & JSON files automatically.
