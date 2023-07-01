@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 LINK = 'https://www.dkv-euroservice.com/DKVMaps/'
-LOCATION = "Frankfurt"
-AREA = 'Range: 50 km'
+LOCATION = "Paderborn"
+AREA = 'Range: 5 km'
 
 coordinates_list = []
 coordinates_list_2 = []
@@ -73,7 +73,7 @@ for index in range(1, result_count+1):
         WebDriverWait(scrollbar, 40).until(EC.presence_of_all_elements_located((By.TAG_NAME, "img")))[2].click()
 
 
-file_name = 'DKV Coords' + f'-{LOCATION}-{AREA.split(" ")[1]}km'
+file_name = './Scrapped Data/DKV Coords' + f'-{LOCATION}-{AREA.split(" ")[1]}km'
 df = pd.DataFrame(coordinates_list, columns=['Number', 'Latitude', 'Longitude', 'Address'])
 df.to_csv(file_name + '.csv')
 
