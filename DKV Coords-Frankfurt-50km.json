@@ -1,0 +1,3770 @@
+[
+    {
+        "Number": "1",
+        "Latitude": "50.112838",
+        "Longitude": "8.700014",
+        "Address": "ARAL Station\nDKV-Nr: 3475609\nHanauer Landstr. 34 - 40\nDE-60314 Frankfurt\nTel.: 069 491523"
+    },
+    {
+        "Number": "2",
+        "Latitude": "50.102321",
+        "Longitude": "8.696065",
+        "Address": "ARAL Station\nDKV-Nr: 3475614\nSiemensstr. 37\nDE-60594 Frankfurt\nTel.: 069 622953"
+    },
+    {
+        "Number": "3",
+        "Latitude": "50.121871",
+        "Longitude": "8.669023",
+        "Address": "ARAL Station\nDKV-Nr: 3475610\nGrueneburgweg 67\nDE-60323 Frankfurt\nTel.: 069 723810"
+    },
+    {
+        "Number": "4",
+        "Latitude": "50.098674",
+        "Longitude": "8.668948",
+        "Address": "ESSO Station\nDKV-Nr: 0003913\nStresemannallee 10\nDE-60596 Frankfurt am Main\nTel.: 069 637745"
+    },
+    {
+        "Number": "5",
+        "Latitude": "50.089805",
+        "Longitude": "8.69092",
+        "Address": "ARAL Station\nDKV-Nr: 0070130\nDarmstaedter Landstr. 304\nDE-60598 Frankfurt am Main\nTel.: 069 6809040"
+    },
+    {
+        "Number": "6",
+        "Latitude": "50.125228",
+        "Longitude": "8.70968",
+        "Address": "ESSO Station\nDKV-Nr: 0003180\nSpessartstr. 22 - 24\nDE-60385 Frankfurt am Main\nTel.: 069 434317"
+    },
+    {
+        "Number": "7",
+        "Latitude": "50.090965",
+        "Longitude": "8.662414",
+        "Address": "SHELL Station\nDKV-Nr: 0004536\nKennedyallee 120\nDE-60596 Frankfurt am Main\nTel.: 069 671071"
+    },
+    {
+        "Number": "8",
+        "Latitude": "50.133557",
+        "Longitude": "8.696076",
+        "Address": "ARAL Station\nDKV-Nr: 3470098\nFriedberger Landstr. 300\nDE-60389 Frankfurt am Main\nTel.: 069 95510710"
+    },
+    {
+        "Number": "9",
+        "Latitude": "50.114153",
+        "Longitude": "8.720939",
+        "Address": "ESSO Station\nDKV-Nr: 0003044\nHanauer Landstr. 178\nDE-60314 Frankfurt am Main\nTel.: 069 441320"
+    },
+    {
+        "Number": "10",
+        "Latitude": "50.133877",
+        "Longitude": "8.705941",
+        "Address": "AGIP Station\nDKV-Nr: 0006338\nDortelweiler Str. 49\nDE-60389 Frankfurt am Main\nTel.: 069 461333"
+    },
+    {
+        "Number": "11",
+        "Latitude": "50.123361",
+        "Longitude": "8.723601",
+        "Address": "ARAL Station\nDKV-Nr: 0070722\nRatsweg 12\nDE-60386 Frankfurt am Main\nTel.: 069 413968"
+    },
+    {
+        "Number": "12",
+        "Latitude": "50.14042",
+        "Longitude": "8.698238",
+        "Address": "ARAL Station\nDKV-Nr: 0010176\nFriedberger Landstr. 325\nDE-60389 Frankfurt am Main\nTel.: 069 13025453"
+    },
+    {
+        "Number": "13",
+        "Latitude": "50.122931",
+        "Longitude": "8.729281",
+        "Address": "METRO C&C Station\nDKV-Nr: 0018252\nAm Riederbruch 10\nDE-60386 Frankfurt am Main\nTel.: 069 40143669"
+    },
+    {
+        "Number": "14",
+        "Latitude": "50.143023",
+        "Longitude": "8.69645",
+        "Address": "ARAL Station\nDKV-Nr: 3475612\nHomburger Landstr. 42\nDE-60435 Frankfurt\nTel.: 069 541237"
+    },
+    {
+        "Number": "15",
+        "Latitude": "50.144009",
+        "Longitude": "8.668844",
+        "Address": "SHELL Station\nDKV-Nr: 0004937\nEschersheimer Landstr. 328\nDE-60320 Frankfurt\nTel.: +49 6995630431"
+    },
+    {
+        "Number": "16",
+        "Latitude": "50.079844",
+        "Longitude": "8.655097",
+        "Address": "ARAL Station\nDKV-Nr: 0070109\nForsthausstr. 50\nDE-60596 Frankfurt am Main\nTel.: 069 671026"
+    },
+    {
+        "Number": "17",
+        "Latitude": "50.120668",
+        "Longitude": "8.735397",
+        "Address": "Mr. Wash Station\nDKV-Nr: 9984242\nHanauer Landstr. 419\nDE-60314 Frankfurt\nTel.: 069 411059"
+    },
+    {
+        "Number": "18",
+        "Latitude": "50.101602",
+        "Longitude": "8.626649",
+        "Address": "ESSO Station\nDKV-Nr: 0003577\nMainzer Landstr. 378\nDE-60326 Frankfurt am Main\nTel.: 069 733399"
+    },
+    {
+        "Number": "19",
+        "Latitude": "50.088521",
+        "Longitude": "8.635994",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493022\nNiederr\u00e4der Ufer 51\nDE-60528 Frankfurt a. M."
+    },
+    {
+        "Number": "20",
+        "Latitude": "50.088528",
+        "Longitude": "8.635865",
+        "Address": "SHELL Station\nDKV-Nr: 0004429\nNiederr\u00e4der Ufer 51\nDE-60528 Frankfurt am Main\nTel.: 069 675070"
+    },
+    {
+        "Number": "21",
+        "Latitude": "50.075538",
+        "Longitude": "8.654099",
+        "Address": "SHELL Station\nDKV-Nr: 3433311\nM\u00f6rfelder Landstr. 377\nDE-60528 Frankfurt am Main\nTel.: 069 679705"
+    },
+    {
+        "Number": "22",
+        "Latitude": "50.122903",
+        "Longitude": "8.742274",
+        "Address": "SHELL Station\nDKV-Nr: 3404442\nHanauer Landstr. 334 b\nDE-60314 Frankfurt am Main\nTel.: 069 423098"
+    },
+    {
+        "Number": "23",
+        "Latitude": "50.147928",
+        "Longitude": "8.656465",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045372\nKurhessenstr. 111\nDE-60431 Frankfurt am Main\nTel.: 069 512131"
+    },
+    {
+        "Number": "24",
+        "Latitude": "50.12296",
+        "Longitude": "8.74257",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493021\nHanauer Landstr. 334\nDE-60314 Frankfurt a. M."
+    },
+    {
+        "Number": "25",
+        "Latitude": "50.119698",
+        "Longitude": "8.744082",
+        "Address": "ROTH Station\nDKV-Nr: 3498038\nDieselstr. 25\nDE-60314 Frankfurt am Main"
+    },
+    {
+        "Number": "26",
+        "Latitude": "50.120176",
+        "Longitude": "8.744323",
+        "Address": "TP24Automat\nDKV-Nr: 0081401\nDieselstr. 25\nDE-60314 Frankfurt am Main"
+    },
+    {
+        "Number": "27",
+        "Latitude": "50.128949",
+        "Longitude": "8.624166",
+        "Address": "ARAL Station\nDKV-Nr: 0070601\nAm Industriehof 11\nDE-60487 Frankfurt am Main\nTel.: 069 776451"
+    },
+    {
+        "Number": "28",
+        "Latitude": "50.114507",
+        "Longitude": "8.617154",
+        "Address": "ESSO Station\nWiesbadener Stra\u00dfe S\u00fcd\nDKV-Nr: 0003894\nA 648\nDE-60486 Frankfurt am Main\nTel.: 069 776366"
+    },
+    {
+        "Number": "29",
+        "Latitude": "50.151601",
+        "Longitude": "8.662195",
+        "Address": "ARAL Station\nDKV-Nr: 3475611\nEschersheimer Landstr. 523\nDE-60431 Frankfurt am Main\nTel.: 069 525947"
+    },
+    {
+        "Number": "30",
+        "Latitude": "50.151888",
+        "Longitude": "8.662698",
+        "Address": "OIL! Station\nDKV-Nr: 0074054\nEschersheimer Landstr. 458\nDE-60433 Frankfurt am Main\nTel.: 069 520234"
+    },
+    {
+        "Number": "31",
+        "Latitude": "50.12151",
+        "Longitude": "8.749044",
+        "Address": "ARAL Station\nDKV-Nr: 3475166\nCarl-Benz-Str. 10\nDE-60386 Frankfurt am Main\nTel.: 069 6809040"
+    },
+    {
+        "Number": "32",
+        "Latitude": "50.115649",
+        "Longitude": "8.612444",
+        "Address": "ESSO Station\nWiesbadener Stra\u00dfe Nord\nDKV-Nr: 0003218\nA 648\nDE-60486 Frankfurt am Main\nTel.: 069 78703758"
+    },
+    {
+        "Number": "33",
+        "Latitude": "50.078116",
+        "Longitude": "8.63395",
+        "Address": "ARAL Station\nDKV-Nr: 0010407\nLyoner Str. 70\nDE-60528 Frankfurt am Main\nTel.: 069 6661885"
+    },
+    {
+        "Number": "34",
+        "Latitude": "50.131863",
+        "Longitude": "8.61984",
+        "Address": "ESSO Station\nDKV-Nr: 0003010\nLudwig-Landmann-Str. 339\nDE-60488 Frankfurt am Main\nTel.: 069 786077"
+    },
+    {
+        "Number": "35",
+        "Latitude": "50.084182",
+        "Longitude": "8.62449",
+        "Address": "T Station\nDKV-Nr: 0021085\nGoldsteinstr. 221\nDE-60528 Frankfurt am Main\nTel.: 069 6661285"
+    },
+    {
+        "Number": "36",
+        "Latitude": "50.094369",
+        "Longitude": "8.752793",
+        "Address": "ESSO Station\nDKV-Nr: 0003105\nSprendlinger Landstr. 43\nDE-63069 Offenbach am Main\nTel.: 069 83837332"
+    },
+    {
+        "Number": "37",
+        "Latitude": "50.085183",
+        "Longitude": "8.745992",
+        "Address": "OIL! Station\nDKV-Nr: 0074025\nSprendlinger Landstr. 173\nDE-63069 Offenbach am Main\nTel.: 069 83837077"
+    },
+    {
+        "Number": "38",
+        "Latitude": "50.138488",
+        "Longitude": "8.744237",
+        "Address": "JET Station\nDKV-Nr: 0018180\nBorsigallee 29\nDE-60388 Frankfurt am Main\nTel.: 069 40143723"
+    },
+    {
+        "Number": "39",
+        "Latitude": "50.100002",
+        "Longitude": "8.607429",
+        "Address": "FREIE Station\nDKV-Nr: 3498506\nMainzer Landstr. 529\nDE-65933 Frankfurt"
+    },
+    {
+        "Number": "40",
+        "Latitude": "50.139072",
+        "Longitude": "8.745471",
+        "Address": "ROTH Station\nDKV-Nr: 3498031\nBorsigallee 31\nDE-60388 Frankfurt am Main"
+    },
+    {
+        "Number": "41",
+        "Latitude": "50.139076",
+        "Longitude": "8.745477",
+        "Address": "TP24Automat\nDKV-Nr: 0081402\nBorsigallee 31\nDE-60388 Frankfurt am Main"
+    },
+    {
+        "Number": "42",
+        "Latitude": "50.099998",
+        "Longitude": "8.604811",
+        "Address": "ARAL Station\nDKV-Nr: 0070423\nMainzer Landstr. 545\nDE-65933 Frankfurt am Main\nTel.: 069 394954"
+    },
+    {
+        "Number": "43",
+        "Latitude": "50.05803",
+        "Longitude": "8.69538",
+        "Address": "OMV Station\nDKV-Nr: 0071519\nFrankfurter Str. 6\nDE-63263 Neu-Isenburg\nTel.: 0610239036"
+    },
+    {
+        "Number": "44",
+        "Latitude": "50.0889928",
+        "Longitude": "8.7595796",
+        "Address": "JET Station\nDKV-Nr: 3418412\nOdenwaldring 84\nDE-63069 Offenbach am Main\nTel.: 069 83005883"
+    },
+    {
+        "Number": "45",
+        "Latitude": "50.141328",
+        "Longitude": "8.6098",
+        "Address": "ARAL Station\nDKV-Nr: 0010868\nLudwig-Landmann-Str. 88\nDE-60488 Frankfurt am Main\nTel.: 069 764309"
+    },
+    {
+        "Number": "46",
+        "Latitude": "50.144319",
+        "Longitude": "8.752971",
+        "Address": "FREIE Station\nDKV-Nr: 0045205\nVilbeler Landstr. 96\nDE-60388 Frankfurt am Main\nTel.: 06109 32340"
+    },
+    {
+        "Number": "47",
+        "Latitude": "50.122907",
+        "Longitude": "8.596002",
+        "Address": "CALPAM Station\nDKV-Nr: 0047024\nWesterbacher Str. 60\nDE-60489 Frankfurt am Main\nTel.: 069 788400"
+    },
+    {
+        "Number": "48",
+        "Latitude": "50.087503",
+        "Longitude": "8.763603",
+        "Address": "PROFI GETR\u00c4NKEMARKT Station\nDKV-Nr: 3499535\nSenefelderstr. 170\nDE-63069 Offenbach am Main"
+    },
+    {
+        "Number": "49",
+        "Latitude": "50.146973",
+        "Longitude": "8.612171",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051005\nHeerstr. 78\nDE-60488 Frankfurt am Main\nTel.: 069 762965"
+    },
+    {
+        "Number": "50",
+        "Latitude": "50.134722",
+        "Longitude": "8.599444",
+        "Address": "METRO C&C Station\nDKV-Nr: 0018272\nG\u00fcrickestr 8\nDE-60488 Frankfurt am Main\nTel.: 069 394807"
+    },
+    {
+        "Number": "51",
+        "Latitude": "50.165058",
+        "Longitude": "8.724285",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051182\nAlte Frankfurter Str. 92\nDE-61118 Bad Vilbel\nTel.: 06101 85770"
+    },
+    {
+        "Number": "52",
+        "Latitude": "50.156099",
+        "Longitude": "8.746051",
+        "Address": "HEM Station\nDKV-Nr: 0058325\nVilbeler Landstr. 237 - 239\nDE-60388 Frankfurt am Main\nTel.: 06109 248473"
+    },
+    {
+        "Number": "53",
+        "Latitude": "50.157412",
+        "Longitude": "8.744549",
+        "Address": "AGIP Station\nDKV-Nr: 0006328\nVilbeler Landstr. 248\nDE-60388 Frankfurt am Main\nTel.: 06109 27602762"
+    },
+    {
+        "Number": "54",
+        "Latitude": "50.086711",
+        "Longitude": "8.770276",
+        "Address": "ARAL Station\nDKV-Nr: 0010880\nWaldstr. 215\nDE-63071 Offenbach am Main\nTel.: 069 83071423"
+    },
+    {
+        "Number": "55",
+        "Latitude": "50.047949",
+        "Longitude": "8.697503",
+        "Address": "ARAL Station\nDKV-Nr: 3470058\nFriedhofstr. 11\nDE-63263 Neu-Isenburg\nTel.: 06102 39307"
+    },
+    {
+        "Number": "56",
+        "Latitude": "50.06022",
+        "Longitude": "8.743766",
+        "Address": "ESSO Station\nDKV-Nr: 0003938\nAm Forsthaus Gravenbruch 1\nDE-63263 Neu-Isenburg\nTel.: 06102 52137"
+    },
+    {
+        "Number": "57",
+        "Latitude": "50.084291",
+        "Longitude": "8.77364",
+        "Address": "CALPAM Station\nDKV-Nr: 0047025\nWaldstr. 268\nDE-63071 Offenbach am Main\nTel.: 069 9854320"
+    },
+    {
+        "Number": "58",
+        "Latitude": "50.08278",
+        "Longitude": "8.77511",
+        "Address": "OMV Station\nDKV-Nr: 0071547\nWaldstr. 255\nDE-63071 Offenbach am Main\nTel.: 06983071274"
+    },
+    {
+        "Number": "59",
+        "Latitude": "50.083554",
+        "Longitude": "8.588408",
+        "Address": "ESSO Station\nDKV-Nr: 0003383\nRheinlandstr. 45\nDE-60529 Frankfurt am Main\nTel.: 069 355618"
+    },
+    {
+        "Number": "60",
+        "Latitude": "50.105607",
+        "Longitude": "8.785994",
+        "Address": "HESSOL Station\nDKV-Nr: 3470065\nM\u00fchlheimer Str. 113\nDE-63075 Offenbach am Main\nTel.: 069 86781191"
+    },
+    {
+        "Number": "61",
+        "Latitude": "50.099813",
+        "Longitude": "8.784894",
+        "Address": "ESSO Station\nDKV-Nr: 0003236\nBieberer Str. 172\nDE-63071 Offenbach\nTel.: 069 853170"
+    },
+    {
+        "Number": "62",
+        "Latitude": "50.123787",
+        "Longitude": "8.579357",
+        "Address": "SHELL Station\nDKV-Nr: 0004450\nWesterbachstr. 204\nDE-65936 Frankfurt am Main\nTel.: 069 341298"
+    },
+    {
+        "Number": "63",
+        "Latitude": "50.0991692",
+        "Longitude": "8.7857084",
+        "Address": "ARAL Station\nDKV-Nr: 0010673\nBieberer Str. 157\nDE-63071 Offenbach am Main\nTel.: 069 85703117"
+    },
+    {
+        "Number": "64",
+        "Latitude": "50.15547",
+        "Longitude": "8.601303",
+        "Address": "SHELL Station\nTaunusblick\nDKV-Nr: 0004225\nA 5\nDE-65760 Eschborn\nTel.: 069 742299810"
+    },
+    {
+        "Number": "65",
+        "Latitude": "50.122958",
+        "Longitude": "8.789776",
+        "Address": "BFT Station\nDKV-Nr: 0097997\nRumpenheimer Str. 79\nDE-63075 Offenbach am Main\nTel.: 06986 781128"
+    },
+    {
+        "Number": "66",
+        "Latitude": "50.096413",
+        "Longitude": "8.792303",
+        "Address": "JET Station\nDKV-Nr: 3418156\nBieberer Str. 255\nDE-63071 Offenbach am Main\nTel.: 069 851455"
+    },
+    {
+        "Number": "67",
+        "Latitude": "50.142885",
+        "Longitude": "8.579936",
+        "Address": "GLOBUS Automatenstation\nDKV-Nr: 0040135\nGinnheimer Str. 18\nDE-65767 Eschborn"
+    },
+    {
+        "Number": "68",
+        "Latitude": "50.18326",
+        "Longitude": "8.659621",
+        "Address": "ARAL Station\nDKV-Nr: 0010059\nOberer Kalbacher Weg 35\nDE-60437 Frankfurt am Main\nTel.: 069 95059127"
+    },
+    {
+        "Number": "69",
+        "Latitude": "50.034585",
+        "Longitude": "8.694745",
+        "Address": "ARAL Station\nDKV-Nr: 0010276\nKurt-Schumacher-Ring 182\nDE-63303 Dreieich\nTel.: 06103 373437"
+    },
+    {
+        "Number": "70",
+        "Latitude": "50.111786",
+        "Longitude": "8.802533",
+        "Address": "SHELL Station\nDKV-Nr: 3404611\nM\u00fchlheimer Str. 333\nDE-63075 Offenbach am Main\nTel.: 069 869494"
+    },
+    {
+        "Number": "71",
+        "Latitude": "50.091787",
+        "Longitude": "8.801068",
+        "Address": "T Station\nDKV-Nr: 0045507\nAschaffenburger Str. 96\nDE-63073 Offenbach am Main\nTel.: 069 891179"
+    },
+    {
+        "Number": "72",
+        "Latitude": "50.057686",
+        "Longitude": "8.587055",
+        "Address": "ESSO Station\nDKV-Nr: 0003884\nUnterschweinstiege 2\nDE-60549 Frankfurt am Main\nTel.: 069 693333"
+    },
+    {
+        "Number": "73",
+        "Latitude": "50.037441",
+        "Longitude": "8.624648",
+        "Address": "SHELL Station\nDKV-Nr: 3404628\nB 44\nDE-63263 Neu-Isenburg\nTel.: 069 692955"
+    },
+    {
+        "Number": "74",
+        "Latitude": "50.036942",
+        "Longitude": "8.625126",
+        "Address": "AVIA Station\nDKV-Nr: 0034032\nAn der B44\nDE-63263 Neu-Isenburg\nTel.: 0661 83910"
+    },
+    {
+        "Number": "75",
+        "Latitude": "50.110881",
+        "Longitude": "8.551896",
+        "Address": "BFT Station\nDKV-Nr: 3499567\nKurmainzer Str. 65\nDE-65936 Frankfurt\nTel.: 069 307530"
+    },
+    {
+        "Number": "76",
+        "Latitude": "50.180456",
+        "Longitude": "8.605365",
+        "Address": "ARAL Station\nDKV-Nr: 0070097\nFrankfurter Landstr. 200\nDE-61440 Oberursel\nTel.: 06171 73993"
+    },
+    {
+        "Number": "77",
+        "Latitude": "50.196404",
+        "Longitude": "8.666915",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051331\nAn der Bornhohl 56\nDE-60437 Frankfurt am Main\nTel.: 069 5071584"
+    },
+    {
+        "Number": "78",
+        "Latitude": "50.058709",
+        "Longitude": "8.788912",
+        "Address": "ARAL Station\nDKV-Nr: 3470042\nIsenburger Str. 20\nDE-63150 Heusenstamm\nTel.: 06104 5123"
+    },
+    {
+        "Number": "79",
+        "Latitude": "50.194636",
+        "Longitude": "8.648901",
+        "Address": "TP24Automat\nDKV-Nr: 3481008\nJosef-Eicher-Str. 8\nDE-60437 Frankfurt\nTel.: 00800 31761700"
+    },
+    {
+        "Number": "80",
+        "Latitude": "50.194725",
+        "Longitude": "8.649019",
+        "Address": "RHV Station\nDKV-Nr: 0099931\nJosef Eicher Str. 8\nDE-60437 Frankfurt am Main\nTel.: 06659 96440"
+    },
+    {
+        "Number": "81",
+        "Latitude": "50.194061",
+        "Longitude": "8.724318",
+        "Address": "HESSOL Station\nDKV-Nr: 3475615\nZeppelinstr. 9 - 11\nDE-61118 Bad Vilbel"
+    },
+    {
+        "Number": "82",
+        "Latitude": "50.171167",
+        "Longitude": "8.58286",
+        "Address": "FREIE Station\nDKV-Nr: 3498969\nIndustriestr. 2\nDE-61449 Steinbach\nTel.: 06171 50770"
+    },
+    {
+        "Number": "83",
+        "Latitude": "50.120296",
+        "Longitude": "8.817928",
+        "Address": "JET Station\nDKV-Nr: 3418442\nOffenbacher Str. 109\nDE-63165 M\u00fchlheim\nTel.: 06108 795373"
+    },
+    {
+        "Number": "84",
+        "Latitude": "50.146041",
+        "Longitude": "8.8074199",
+        "Address": "SHELL Station\nDKV-Nr: 0004400\nAm Kreuzstein 75\nDE-63477 Maintal\nTel.: 06109 63260"
+    },
+    {
+        "Number": "85",
+        "Latitude": "50.190301",
+        "Longitude": "8.742403",
+        "Address": "ARAL Station\nDKV-Nr: 0070785\nFriedberger Str. 89\nDE-61118 Bad Vilbel\nTel.: 06101 307498"
+    },
+    {
+        "Number": "86",
+        "Latitude": "50.147729",
+        "Longitude": "8.80794",
+        "Address": "AGIP Station\nDKV-Nr: 0006326\nAm Kreuzstein 55\nDE-63477 Maintal\nTel.: 06109 61637"
+    },
+    {
+        "Number": "87",
+        "Latitude": "50.1196489",
+        "Longitude": "8.5438648",
+        "Address": "ARAL Station\nFrankfurt Nord\nDKV-Nr: 0070842\nA 66\nDE-65929 Frankfurt am Main\nTel.: 069 30852981"
+    },
+    {
+        "Number": "88",
+        "Latitude": "50.0584066",
+        "Longitude": "8.7944615",
+        "Address": "AGIP Station\nDKV-Nr: 0006339\nFrankfurter Str. 110\nDE-63150 Heusenstamm\nTel.: 06104 61820"
+    },
+    {
+        "Number": "89",
+        "Latitude": "50.164688",
+        "Longitude": "8.570847",
+        "Address": "ESSO Station\nDKV-Nr: 0003013\nEschborner Str. 34\nDE-61449 Steinbach\nTel.: 06171 72716"
+    },
+    {
+        "Number": "90",
+        "Latitude": "50.118094",
+        "Longitude": "8.541719",
+        "Address": "ARAL Station\nFrankfurt S\u00fcd\nDKV-Nr: 0070847\nA 66\nDE-65929 Frankfurt am Main\nTel.: 069 30850810"
+    },
+    {
+        "Number": "91",
+        "Latitude": "50.018944",
+        "Longitude": "8.672681",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045016\nEisenbahnstr. 210\nDE-63303 Dreieich\nTel.: 06103 697906"
+    },
+    {
+        "Number": "92",
+        "Latitude": "50.119666",
+        "Longitude": "8.825336",
+        "Address": "AGIP Station\nDKV-Nr: 0006343\nFriedensstr. 104\nDE-63165 M\u00fchlheim\nTel.: 06108 72806"
+    },
+    {
+        "Number": "93",
+        "Latitude": "50.080291",
+        "Longitude": "8.545083",
+        "Address": "AGIP Station\nDKV-Nr: 0006524\nIndustriepark Hoechst Tor S\u00fcd K525\nDE-65929 Frankfurt am Main\nTel.: 069 30092826"
+    },
+    {
+        "Number": "94",
+        "Latitude": "50.112484",
+        "Longitude": "8.536892",
+        "Address": "ESSO Station\nDKV-Nr: 0003700\nK\u00f6nigsteiner Str. 144\nDE-65929 Frankfurt am Main\nTel.: 069 315483"
+    },
+    {
+        "Number": "95",
+        "Latitude": "50.0133293",
+        "Longitude": "8.6923889",
+        "Address": "ARAL Station\nDKV-Nr: 0010413\nDarmstaedter Str. 43\nDE-63303 Dreieich\nTel.: 06103 65671"
+    },
+    {
+        "Number": "96",
+        "Latitude": "50.047849",
+        "Longitude": "8.800231",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049211\nWerner-von-Siemens-Str. 2\nDE-63150 Heusenstamm"
+    },
+    {
+        "Number": "97",
+        "Latitude": "50.0490563",
+        "Longitude": "8.561337",
+        "Address": "SHELL Station\nDKV-Nr: 0004081\nAirportring\nDE-60549 Frankfurt am Main"
+    },
+    {
+        "Number": "98",
+        "Latitude": "50.210581",
+        "Longitude": "8.65715",
+        "Address": "HESSOL Station\nDKV-Nr: 3475209\nOber-Eschbacher Str. 142\nDE-61352 Bad Homburg"
+    },
+    {
+        "Number": "99",
+        "Latitude": "50.2109",
+        "Longitude": "8.65731",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493002\nOber-Eschbacher Str. 142\nDE-61352 Bad Homburg"
+    },
+    {
+        "Number": "100",
+        "Latitude": "50.120272",
+        "Longitude": "8.523803",
+        "Address": "JET Station\nDKV-Nr: 0018251\nAm Main-Taunus-Zentrum\nDE-65843 Sulzbach\nTel.: 069 319502"
+    },
+    {
+        "Number": "101",
+        "Latitude": "50.008739",
+        "Longitude": "8.689408",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051167\nDarmst\u00e4dter Str. 92\nDE-63303 Dreieich\nTel.: 06103 697050"
+    },
+    {
+        "Number": "102",
+        "Latitude": "50.11051",
+        "Longitude": "8.842363",
+        "Address": "CALPAM Station\nDKV-Nr: 0047014\nL\u00e4mmerspieler Str. 103\nDE-63165 M\u00fchlheim\nTel.: 06108 77599"
+    },
+    {
+        "Number": "103",
+        "Latitude": "50.066017",
+        "Longitude": "8.53731",
+        "Address": "ACCESS Station\nDKV-Nr: 0051368\nRossertstr. 2\nDE-65451 Kelsterbach\nTel.: 06107 3013911"
+    },
+    {
+        "Number": "104",
+        "Latitude": "50.124557",
+        "Longitude": "8.842186",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082070\nDietesheimer Str. 74\nDE-63165 M\u00fchlheim\nTel.: 06108 77014"
+    },
+    {
+        "Number": "105",
+        "Latitude": "50.02985",
+        "Longitude": "8.787265",
+        "Address": "ESSO Station\nDKV-Nr: 0003844\nHauptstr. 7\nDE-63128 Dietzenbach\nTel.: 06074 31124"
+    },
+    {
+        "Number": "106",
+        "Latitude": "50.199502",
+        "Longitude": "8.59244",
+        "Address": "BFT Station\nDKV-Nr: 0050401\nHomburger Landstr. 36\nDE-61440 Oberursel\nTel.: 06171 3720"
+    },
+    {
+        "Number": "107",
+        "Latitude": "50.208438",
+        "Longitude": "8.615238",
+        "Address": "ARAL Station\nBad Homburg S\u00fcd\nDKV-Nr: 0070979\nA 661\nDE-61352 Bad Homburg vor der H\u00f6he\nTel.: 06172 690835"
+    },
+    {
+        "Number": "108",
+        "Latitude": "50.208853",
+        "Longitude": "8.616707",
+        "Address": "ARAL Station\nBad Homburg Nord\nDKV-Nr: 0070978\nA 661\nDE-61352 Bad Homburg vor der H\u00f6he\nTel.: 06172 903410"
+    },
+    {
+        "Number": "109",
+        "Latitude": "50.062532",
+        "Longitude": "8.829886",
+        "Address": "ARAL Station\nDKV-Nr: 3470101\nIm Birkengrund 5\nDE-63179 Obertshausen\nTel.: 06104 4052680"
+    },
+    {
+        "Number": "110",
+        "Latitude": "50.137741",
+        "Longitude": "8.5193468",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045045\nHauptstr. 103\nDE-65843 Sulzbach\nTel.: 06196 71144"
+    },
+    {
+        "Number": "111",
+        "Latitude": "50.1546452",
+        "Longitude": "8.5267097",
+        "Address": "SHELL Station\nDKV-Nr: 0004668\nWestring 1 A\nDE-65824 Schwalbach\nTel.: 06196 85186"
+    },
+    {
+        "Number": "112",
+        "Latitude": "50.132271",
+        "Longitude": "8.849927",
+        "Address": "ARAL Station\nDKV-Nr: 3475620\nKennedystr. 2 b\nDE-63477 Maintal\nTel.: 06181 441748"
+    },
+    {
+        "Number": "113",
+        "Latitude": "50.086818",
+        "Longitude": "8.513916",
+        "Address": "SHELL Station\nDKV-Nr: 3404416\nHoechster Farbenstr. 5\nDE-65931 Frankfurt\nTel.: 069 372900"
+    },
+    {
+        "Number": "114",
+        "Latitude": "50.084439",
+        "Longitude": "8.513997",
+        "Address": "ESSO Station\nDKV-Nr: 0003971\nHoechster Farbenstr. 2\nDE-65931 Frankfurt am Main\nTel.: 069 370010"
+    },
+    {
+        "Number": "115",
+        "Latitude": "50.068293",
+        "Longitude": "8.845904",
+        "Address": "ESSO Station\nDKV-Nr: 0003770\nHeusenstammer Str. 43\nDE-63179 Obertshausen\nTel.: 06104 41810"
+    },
+    {
+        "Number": "116",
+        "Latitude": "50.225336",
+        "Longitude": "8.677301",
+        "Address": "ARAL Station\nDKV-Nr: 3475617\nKleine Br\u00fcckenstr. 34\nDE-61352 Bad Homburg\nTel.: 06172 1854076"
+    },
+    {
+        "Number": "117",
+        "Latitude": "49.998133",
+        "Longitude": "8.651631",
+        "Address": "ARAL Station\nDKV-Nr: 3475246\nAmperestr. 2\nDE-63225 Langen"
+    },
+    {
+        "Number": "118",
+        "Latitude": "50.180039",
+        "Longitude": "8.53882",
+        "Address": "ARAL Station\nDKV-Nr: 3475618\nSodener Str. 29\nDE-61476 Kronberg\nTel.: 06173 64545"
+    },
+    {
+        "Number": "119",
+        "Latitude": "50.221738",
+        "Longitude": "8.628559",
+        "Address": "ARAL Station\nDKV-Nr: 0010678\nLouisenstr. 146\nDE-61348 Bad Homburg vor der H\u00f6he\nTel.: 06172 450201"
+    },
+    {
+        "Number": "120",
+        "Latitude": "50.193648",
+        "Longitude": "8.808814",
+        "Address": "ESSO Station\nDKV-Nr: 0003869\nOberdorfelder Str. 50\nDE-61138 Niederdorfelden\nTel.: 06101 326523255"
+    },
+    {
+        "Number": "121",
+        "Latitude": "50.138687",
+        "Longitude": "8.506637",
+        "Address": "FREIE Station\nDKV-Nr: 3498507\nK\u00f6nigsteiner Str. 11\nDE-65812 Bad Soden"
+    },
+    {
+        "Number": "122",
+        "Latitude": "49.998964",
+        "Longitude": "8.731497",
+        "Address": "AGIP Station\nDKV-Nr: 0006323\nBleiswijker Str. 200\nDE-63303 Dreieich\nTel.: 06103 84685"
+    },
+    {
+        "Number": "123",
+        "Latitude": "50.012665",
+        "Longitude": "8.584838",
+        "Address": "ESSO Station\nDKV-Nr: 0003314\nAschaffenburger Str. 1\nDE-64546 M\u00f6rfelden-Walldorf\nTel.: 06105 404058"
+    },
+    {
+        "Number": "124",
+        "Latitude": "50.139997",
+        "Longitude": "8.505414",
+        "Address": "ARAL Station\nDKV-Nr: 3475118\nK\u00f6nigsteiner Str. 21\nDE-65812 Bad Soden\nTel.: 06196 671777"
+    },
+    {
+        "Number": "125",
+        "Latitude": "50.140265",
+        "Longitude": "8.50507",
+        "Address": "ESSO Station\nDKV-Nr: 0003688\nK\u00f6nigsteiner Str. 25\nDE-65812 Bad Soden am Taunus\nTel.: 06196 527737"
+    },
+    {
+        "Number": "126",
+        "Latitude": "49.991841",
+        "Longitude": "8.680908",
+        "Address": "ARAL Station\nDKV-Nr: 3475701\nFrankfurter Str. 19\nDE-63225 Langen\nTel.: 0610321524"
+    },
+    {
+        "Number": "127",
+        "Latitude": "50.088699",
+        "Longitude": "8.8640457",
+        "Address": "ARAL Station\nDKV-Nr: 0010366\nL\u00e4mmerspieler Str. 50\nDE-63179 Obertshausen\nTel.: 06104 71150"
+    },
+    {
+        "Number": "128",
+        "Latitude": "49.992933",
+        "Longitude": "8.652189",
+        "Address": "SHELL Station\nDKV-Nr: 0004038\nM\u00f6rfelder Landstr. 27\nDE-63225 Langen\nTel.: 06103 71116"
+    },
+    {
+        "Number": "129",
+        "Latitude": "49.995333",
+        "Longitude": "8.730966",
+        "Address": "CALPAM Station\nDKV-Nr: 0047165\nLangener Str. 48\nDE-63303 Dreieich\nTel.: 06103 84097"
+    },
+    {
+        "Number": "130",
+        "Latitude": "50.1739",
+        "Longitude": "8.523459",
+        "Address": "ARAL Station\nDKV-Nr: 3475346\nFrankfurter Str. 52 - 54\nDE-61476 Kronberg\nTel.: 06173 79124"
+    },
+    {
+        "Number": "131",
+        "Latitude": "50.2090124",
+        "Longitude": "8.5731395",
+        "Address": "JET Station\nDKV-Nr: 3418347\nHohemarkstr. 41\nDE-61440 Oberursel\nTel.: 06171 910199"
+    },
+    {
+        "Number": "132",
+        "Latitude": "49.9922437",
+        "Longitude": "8.6494786",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045508\nBerliner Allee 12\nDE-63225 Langen\nTel.: 06103 71010"
+    },
+    {
+        "Number": "133",
+        "Latitude": "50.132065",
+        "Longitude": "8.866686",
+        "Address": "GLOBUS Station\nDKV-Nr: 0040093\nIndustriestr. 6\nDE-63477 Maintal\nTel.: 06181 42840"
+    },
+    {
+        "Number": "134",
+        "Latitude": "50.2214881",
+        "Longitude": "8.6072807",
+        "Address": "ARAL Station\nDKV-Nr: 0010311\nUrseler Str. 38\nDE-61348 Bad Homburg vor der H\u00f6he\nTel.: 06172 301300"
+    },
+    {
+        "Number": "135",
+        "Latitude": "50.13201",
+        "Longitude": "8.866814",
+        "Address": "JET Waschstation\nDKV-Nr: 3418568\nAm Spitzen Sand 1\nDE-63477 Maintal\nTel.: 06181 497121"
+    },
+    {
+        "Number": "136",
+        "Latitude": "50.22378",
+        "Longitude": "8.615541",
+        "Address": "ESSO Station\nDKV-Nr: 0003358\nHessenring 99 a\nDE-61348 Bad Homburg vor der H\u00f6he\nTel.: 06172 26343"
+    },
+    {
+        "Number": "137",
+        "Latitude": "50.012797",
+        "Longitude": "8.793055",
+        "Address": "JET Station\nDKV-Nr: 3418037\nAlbert-Einstein-Str. 28 - 30\nDE-63322 R\u00f6dermark\nTel.: 06074 9171154"
+    },
+    {
+        "Number": "138",
+        "Latitude": "50.012762",
+        "Longitude": "8.793172",
+        "Address": "JET Station\nDKV-Nr: 3418419\nElisabeth-Selbert-Str. 1\nDE-63128 Dietzenbach\nTel.: 06074 374740"
+    },
+    {
+        "Number": "139",
+        "Latitude": "50.013317",
+        "Longitude": "8.794481",
+        "Address": "ARAL Station\nDKV-Nr: 0070604\nElisabeth-Selbert-Str. 4\nDE-63128 Dietzenbach\nTel.: 06074 8511300"
+    },
+    {
+        "Number": "140",
+        "Latitude": "50.054532",
+        "Longitude": "8.51442",
+        "Address": "JET Station\nDKV-Nr: 3418500\nDr.-Max-Fremery-Str. 15\nDE-65451 Kelsterbach\nTel.: 06107 4078857"
+    },
+    {
+        "Number": "141",
+        "Latitude": "50.22732",
+        "Longitude": "8.60544",
+        "Address": "OMV Station\nDKV-Nr: 0071554\nHindenburgring 40\nDE-61348 Bad Homburg vor der H\u00f6he\nTel.: 06172934712"
+    },
+    {
+        "Number": "142",
+        "Latitude": "50.179097",
+        "Longitude": "8.5139",
+        "Address": "ESSO Station\nDKV-Nr: 3403087\nFrankfurter Str. 15\nDE-61476 Kronberg im Taunus\nTel.: 06173 922940"
+    },
+    {
+        "Number": "143",
+        "Latitude": "50.121441",
+        "Longitude": "8.481762",
+        "Address": "CALPAM Station\nDKV-Nr: 0047019\nH\u00f6chster Str. 2\nDE-65835 Liederbach am Taunus\nTel.: 06196 650850"
+    },
+    {
+        "Number": "144",
+        "Latitude": "50.002588",
+        "Longitude": "8.793713",
+        "Address": "SHELL Station\nDKV-Nr: 3404541\nJustus-von-Liebig-Str. 25\nDE-63128 Dietzenbach\nTel.: 06074 45099"
+    },
+    {
+        "Number": "145",
+        "Latitude": "50.224054",
+        "Longitude": "8.580553",
+        "Address": "HEM Station\nDKV-Nr: 0058326\nHans-Mess-Str. 2\nDE-61440 Oberursel\nTel.: 06172-1374857"
+    },
+    {
+        "Number": "146",
+        "Latitude": "50.231967",
+        "Longitude": "8.7668242",
+        "Address": "ARAL Station\nDKV-Nr: 0010000\nHomburger Str. 66\nDE-61184 Karben\nTel.: 06039 3472"
+    },
+    {
+        "Number": "147",
+        "Latitude": "50.23089",
+        "Longitude": "8.77047",
+        "Address": "ACCESS Station\nDKV-Nr: 3451321\nHomburgstr. 50\nDE-61184 Karben\nTel.: 060347707"
+    },
+    {
+        "Number": "148",
+        "Latitude": "50.069371",
+        "Longitude": "8.878584",
+        "Address": "ARAL Station\nDKV-Nr: 0070223\nAn der B 448\nDE-63110 Rodgau\nTel.: 06104 4657"
+    },
+    {
+        "Number": "149",
+        "Latitude": "50.088735",
+        "Longitude": "8.477599",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045098\nFrankfurter Str. 92\nDE-65830 Kriftel\nTel.: 06192 46296"
+    },
+    {
+        "Number": "150",
+        "Latitude": "50.237973",
+        "Longitude": "8.748749",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049209\nAm Warthweg 1 - 5\nDE-61184 Karben"
+    },
+    {
+        "Number": "151",
+        "Latitude": "49.98034",
+        "Longitude": "8.736362",
+        "Address": "ARAL Station\nDKV-Nr: 3475022\nIn der Quelle 74\nDE-63303 Dreieich\nTel.: 06074 8035221"
+    },
+    {
+        "Number": "152",
+        "Latitude": "50.00429",
+        "Longitude": "8.8129",
+        "Address": "OMV Station\nDKV-Nr: 0071542\nHauptstr. 89\nDE-63322 R\u00f6dermark\nTel.: 06074 90585"
+    },
+    {
+        "Number": "153",
+        "Latitude": "50.200277",
+        "Longitude": "8.844286",
+        "Address": "CALPAM Station\nDKV-Nr: 0047167\nB\u00fcdesheimer Str. 1\nDE-61137 Sch\u00f6neck\nTel.: 06187 92250"
+    },
+    {
+        "Number": "154",
+        "Latitude": "50.071867",
+        "Longitude": "8.477218",
+        "Address": "GLOBUS Station\nDKV-Nr: 0040084\nHeddingheimer Str. 2 / 4\nDE-65795 Hattersheim am Main\nTel.: 06190 9183-591"
+    },
+    {
+        "Number": "155",
+        "Latitude": "50.11182",
+        "Longitude": "8.895943",
+        "Address": "AVIA XPRESS Station\nDKV-Nr: 3434042\nOtto-Hahn-Str. 31\nDE-63456 Hanau\nTel.: 0661 83910"
+    },
+    {
+        "Number": "156",
+        "Latitude": "50.2371395",
+        "Longitude": "8.5924942",
+        "Address": "ARAL Station\nDKV-Nr: 0010441\nSaalburgstr. 114\nDE-61350 Bad Homburg vor der H\u00f6he\nTel.: 06172 37205"
+    },
+    {
+        "Number": "157",
+        "Latitude": "50.243074",
+        "Longitude": "8.748288",
+        "Address": "SHELL Station\nDKV-Nr: 0004465\nAm Spitzacker 2\nDE-61184 Karben\nTel.: 06039 41777"
+    },
+    {
+        "Number": "158",
+        "Latitude": "50.122552",
+        "Longitude": "8.903872",
+        "Address": "SHELL Station\nDKV-Nr: 0004326\nOffenbacher Landstr. 25\nDE-63456 Hanau\nTel.: 06181 659810"
+    },
+    {
+        "Number": "159",
+        "Latitude": "49.983582",
+        "Longitude": "8.579335",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051152\nIndustriestr. 19\nDE-64546 M\u00f6rfelden-Walldorf\nTel.: 06105 21069"
+    },
+    {
+        "Number": "160",
+        "Latitude": "50.252882",
+        "Longitude": "8.635061",
+        "Address": "ARAL Station\nDKV-Nr: 0010758\nH\u00f6henstr. 1\nDE-61381 Friedrichsdorf\nTel.: 06172 2663645"
+    },
+    {
+        "Number": "161",
+        "Latitude": "50.147481",
+        "Longitude": "8.901259",
+        "Address": "ARAL Station\nDKV-Nr: 0070859\nMaintaler Str. 20 A\nDE-63452 Hanau\nTel.: 06181 9839891"
+    },
+    {
+        "Number": "162",
+        "Latitude": "50.087934",
+        "Longitude": "8.4585571",
+        "Address": "ARAL Station\nDKV-Nr: 0070903\nZeilsheimer Str. 62\nDE-65719 Hofheim am Taunus\nTel.: 06192 6791"
+    },
+    {
+        "Number": "163",
+        "Latitude": "49.979212",
+        "Longitude": "8.581588",
+        "Address": "ARAL Station\nDKV-Nr: 0010321\nIndustriestr. 1\nDE-64546 M\u00f6rfelden-Walldorf\nTel.: 06105 921766"
+    },
+    {
+        "Number": "164",
+        "Latitude": "50.088446",
+        "Longitude": "8.454409",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051350\nZeilsheimer Str. 37\nDE-65719 Hofheim am Taunus\nTel.: 06192 6776"
+    },
+    {
+        "Number": "165",
+        "Latitude": "50.1790939",
+        "Longitude": "8.4760527",
+        "Address": "ARAL Station\nDKV-Nr: 3470041\nMammolshainer Weg 1 a\nDE-61462 K\u00f6nigstein im Taunus\nTel.: 06174 209242"
+    },
+    {
+        "Number": "166",
+        "Latitude": "50.12421",
+        "Longitude": "8.914112",
+        "Address": "JET Station\nDKV-Nr: 0018462\nWesterburgstr. 7\nDE-63450 Hanau\nTel.: 06181 6756519"
+    },
+    {
+        "Number": "167",
+        "Latitude": "50.1459893",
+        "Longitude": "8.908906",
+        "Address": "AGIP Station\nDKV-Nr: 0006279\nBruchk\u00f6beler Landstr. 53\nDE-63452 Hanau\nTel.: 06181 81155"
+    },
+    {
+        "Number": "168",
+        "Latitude": "49.961094",
+        "Longitude": "8.671453",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049214\nKurt-Schuhmacher-Ring 4\nDE-63329 Egelsbach"
+    },
+    {
+        "Number": "169",
+        "Latitude": "50.035694",
+        "Longitude": "8.884476",
+        "Address": "JET Station\nDKV-Nr: 3418186\nWeiskircher Str. 126\nDE-63110 Rodgau\nTel.: 06106 3750"
+    },
+    {
+        "Number": "170",
+        "Latitude": "50.034072",
+        "Longitude": "8.480871",
+        "Address": "SHELL Station\nDKV-Nr: 0004798\nM\u00f6nchhofallee 8\nDE-65479 Raunheim\nTel.: 06142 8349951"
+    },
+    {
+        "Number": "171",
+        "Latitude": "50.138068",
+        "Longitude": "8.913194",
+        "Address": "ESSO Station\nDKV-Nr: 0003645\nKleine Hainstr. 4\nDE-63450 Hanau\nTel.: 06181 256619"
+    },
+    {
+        "Number": "172",
+        "Latitude": "50.180862",
+        "Longitude": "8.473086",
+        "Address": "ESSO Station\nDKV-Nr: 0003284\nFrankfurter Str. 21\nDE-61462 K\u00f6nigstein im Taunus\nTel.: 06174 1535"
+    },
+    {
+        "Number": "173",
+        "Latitude": "50.127825",
+        "Longitude": "8.917605",
+        "Address": "BFT Station\nDKV-Nr: 0098930\nBr\u00fcder-Grimm-Str. 22 - 24\nDE-63450 Hanau\nTel.: 06181 24410"
+    },
+    {
+        "Number": "174",
+        "Latitude": "50.127807",
+        "Longitude": "8.91761",
+        "Address": "BFT Waschstation\nDKV-Nr: 0097613\nBr\u00fcder-Grimm-Str. 22 - 24\nDE-63450 Hanau\nTel.: 06181 923560"
+    },
+    {
+        "Number": "175",
+        "Latitude": "49.974306",
+        "Longitude": "8.7895418",
+        "Address": "AGIP Station\nDKV-Nr: 0006342\nKonrad-Adenauer-Str. 71\nDE-63322 R\u00f6dermark\nTel.: 06074 861818"
+    },
+    {
+        "Number": "176",
+        "Latitude": "50.084719",
+        "Longitude": "8.447004",
+        "Address": "ESSO Station\nDKV-Nr: 0003493\nElisabethenstr. 2\nDE-65719 Hofheim am Taunus\nTel.: 06192 21088"
+    },
+    {
+        "Number": "177",
+        "Latitude": "50.10313",
+        "Longitude": "8.921574",
+        "Address": "STAR Station\nDKV-Nr: 0002478\nGeleitstr. 33\nDE-63456 Hanau\nTel.: 06181 60474"
+    },
+    {
+        "Number": "178",
+        "Latitude": "50.055479",
+        "Longitude": "8.906388",
+        "Address": "SHELL Station\nWeiskirchen S\u00fcd\nDKV-Nr: 3404685\nA 3\nDE-63110 Rodgau\nTel.: 06182 95840"
+    },
+    {
+        "Number": "179",
+        "Latitude": "50.129673",
+        "Longitude": "8.921827",
+        "Address": "ARAL Station\nDKV-Nr: 0071437\nFriedrich-Ebert-Anlage 7\nDE-63450 Hanau\nTel.: 06181 9698409"
+    },
+    {
+        "Number": "180",
+        "Latitude": "50.055489",
+        "Longitude": "8.910438",
+        "Address": "SHELL Station\nWeiskirchen Nord\nDKV-Nr: 0004647\nA 3\nDE-63110 Rodgau\nTel.: 06182 68041"
+    },
+    {
+        "Number": "181",
+        "Latitude": "49.982732",
+        "Longitude": "8.823751",
+        "Address": "SHELL Station\nDKV-Nr: 0004406\nFrankfurter Str. 70\nDE-63322 R\u00f6dermark\nTel.: 06074 2112381"
+    },
+    {
+        "Number": "182",
+        "Latitude": "50.120413",
+        "Longitude": "8.927105",
+        "Address": "HEM Station\nDKV-Nr: 0058050\nAuheimer Str. 12\nDE-63450 Hanau\nTel.: 06181 6751266"
+    },
+    {
+        "Number": "183",
+        "Latitude": "50.057478",
+        "Longitude": "8.449894",
+        "Address": "ESSO Station\nWeilbach Nord\nDKV-Nr: 0003596\nA 66\nDE-65439 Fl\u00f6rsheim\nTel.: 06190 4057/2432"
+    },
+    {
+        "Number": "184",
+        "Latitude": "50.05665",
+        "Longitude": "8.450332",
+        "Address": "ESSO Station\nWeilbach S\u00fcd\nDKV-Nr: 0003597\nA 66\nDE-65439 Fl\u00f6rsheim\nTel.: 06190 5481/2432"
+    },
+    {
+        "Number": "185",
+        "Latitude": "50.11655",
+        "Longitude": "8.928897",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051286\nRodgaustr. 6\nDE-63457 Hanau\nTel.: 06181 399572"
+    },
+    {
+        "Number": "186",
+        "Latitude": "50.034172",
+        "Longitude": "8.464527",
+        "Address": "ESSO Station\nDKV-Nr: 3403017\nFl\u00f6rsheimer Str. 21\nDE-65795 Hattersheim\nTel.: 06145 5907838"
+    },
+    {
+        "Number": "187",
+        "Latitude": "49.972864",
+        "Longitude": "8.553742",
+        "Address": "ELAN Station\nDKV-Nr: 0051200\nR\u00fcsselsheimer Str. 60\nDE-64546 M\u00f6rfelden-Walldorf\nTel.: 06105 21054"
+    },
+    {
+        "Number": "188",
+        "Latitude": "50.179378",
+        "Longitude": "8.909252",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051225\nR\u00f6merstr. 16\nDE-63486 Bruchk\u00f6bel\nTel.: 06181 576095"
+    },
+    {
+        "Number": "189",
+        "Latitude": "50.141379",
+        "Longitude": "8.928897",
+        "Address": "CALPAM Station\nDKV-Nr: 0047005\nLamboystr. 10\nDE-63452 Hanau\nTel.: 06181 1809300"
+    },
+    {
+        "Number": "190",
+        "Latitude": "49.968413",
+        "Longitude": "8.801841",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082080\nTraminer Str. 45\nDE-63322 R\u00f6dermark\nTel.: 06074 87490"
+    },
+    {
+        "Number": "191",
+        "Latitude": "50.128337",
+        "Longitude": "8.93321",
+        "Address": "FREIE Station\nDKV-Nr: 0045259\nLeipziger Str. 52\nDE-63450 Hanau\nTel.: 06181 31938"
+    },
+    {
+        "Number": "192",
+        "Latitude": "50.072039",
+        "Longitude": "8.928752",
+        "Address": "AVIA Station\nDKV-Nr: 3434070\nOffenbacher Landstr. 111 A\nDE-63512 Hainburg"
+    },
+    {
+        "Number": "193",
+        "Latitude": "50.178015",
+        "Longitude": "8.914456",
+        "Address": "ARAL Station\nDKV-Nr: 0010362\nHauptstr. 8\nDE-63486 Bruchk\u00f6bel\nTel.: 06181 77724"
+    },
+    {
+        "Number": "194",
+        "Latitude": "50.112226",
+        "Longitude": "8.426396",
+        "Address": "AGIP Station\nDKV-Nr: 0006040\nHofheimer Str. 61\nDE-65719 Hofheim am Taunus\nTel.: 06192 901957"
+    },
+    {
+        "Number": "195",
+        "Latitude": "50.170628",
+        "Longitude": "8.92232",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082049\nKirleweg 60 a\nDE-63486 Bruchk\u00f6bel\nTel.: 06181 71407"
+    },
+    {
+        "Number": "196",
+        "Latitude": "50.145861",
+        "Longitude": "8.429821",
+        "Address": "ARAL Station\nDKV-Nr: 3470122\nKelkheimer Str. 43\nDE-65779 Kelkheim (Taunus)\nTel.: 06195 61301"
+    },
+    {
+        "Number": "197",
+        "Latitude": "50.145188",
+        "Longitude": "8.936101",
+        "Address": "BFT Station\nDKV-Nr: 0009999\nLuise-Kiesselbach-Str. 3\nDE-63452 Hanau\nTel.: 06181 3048850"
+    },
+    {
+        "Number": "198",
+        "Latitude": "50.278106",
+        "Longitude": "8.653917",
+        "Address": "Q1 Station\nDKV-Nr: 0049140\nFriedberger Str. 9\nDE-61381 Friedrichsdorf\nTel.: 06175 277"
+    },
+    {
+        "Number": "199",
+        "Latitude": "50.278302",
+        "Longitude": "8.654898",
+        "Address": "AGIP Station\nDKV-Nr: 0006162\nFriedberger Str. 10\nDE-61381 Friedrichsdorf\nTel.: 06175 7067"
+    },
+    {
+        "Number": "200",
+        "Latitude": "50.233763",
+        "Longitude": "8.862941",
+        "Address": "ARAL Station\nDKV-Nr: 0070702\nKonrad-Adenauer-Allee 1 - 3\nDE-61130 Nidderau\nTel.: 06187 22133"
+    },
+    {
+        "Number": "201",
+        "Latitude": "49.998833",
+        "Longitude": "8.879254",
+        "Address": "BFT Station\nDKV-Nr: 3498331\nHainburgstr. 42\nDE-63110 Rodgau\nTel.: 06106 21753"
+    },
+    {
+        "Number": "202",
+        "Latitude": "50.002947",
+        "Longitude": "8.885134",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049208\nTaunusstr. 46\nDE-63110 Rodgau"
+    },
+    {
+        "Number": "203",
+        "Latitude": "49.999472",
+        "Longitude": "8.881031",
+        "Address": "TANKCENTER Station\nDKV-Nr: 0045040\nHainburgstr. 51\nDE-63110 Rodgau\nTel.: 06106 771247"
+    },
+    {
+        "Number": "204",
+        "Latitude": "49.97089",
+        "Longitude": "8.831184",
+        "Address": "AGIP Station\nDKV-Nr: 0006340\nDieburger Str. 115\nDE-63322 R\u00f6dermark\nTel.: 06074 881616"
+    },
+    {
+        "Number": "205",
+        "Latitude": "49.94705",
+        "Longitude": "8.609284",
+        "Address": "ESSO Station\nGr\u00e4fenhausen West\nDKV-Nr: 3403141\nA 5\nDE-64331 Weiterstadt\nTel.: 06150 50060"
+    },
+    {
+        "Number": "206",
+        "Latitude": "50.047833",
+        "Longitude": "8.434449",
+        "Address": "ARAL Station\nDKV-Nr: 3475624\nHofheimer Str. 24\nDE-65439 Fl\u00f6rsheim\nTel.: 06145 31103"
+    },
+    {
+        "Number": "207",
+        "Latitude": "49.945492",
+        "Longitude": "8.61107",
+        "Address": "SHELL Station\nGr\u00e4fenhausen Ost\nDKV-Nr: 0004824\nA 5\nDE-64331 Weiterstadt\nTel.: 06150 134933"
+    },
+    {
+        "Number": "208",
+        "Latitude": "50.154793",
+        "Longitude": "8.422533",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082076\nEppsteiner Str. 27\nDE-65779 Kelkheim (Taunus)\nTel.: 06195 65806"
+    },
+    {
+        "Number": "209",
+        "Latitude": "50.094809",
+        "Longitude": "8.949641",
+        "Address": "SHELL Station\nDKV-Nr: 0004430\nBrown-Boveri-Str. 22\nDE-63457 Hanau\nTel.: 06181 571671"
+    },
+    {
+        "Number": "210",
+        "Latitude": "50.015625",
+        "Longitude": "8.456411",
+        "Address": "JET Station\nDKV-Nr: 3418267\nKelsterbacher Str. 8\nDE-65479 Raunheim\nTel.: 06142 926095"
+    },
+    {
+        "Number": "211",
+        "Latitude": "50.015423",
+        "Longitude": "8.454714",
+        "Address": "STAR Station\nDKV-Nr: 0002475\nFrankfurter Str. 25\nDE-65479 Raunheim\nTel.: 06142 926974"
+    },
+    {
+        "Number": "212",
+        "Latitude": "50.24253257529",
+        "Longitude": "8.868755277166",
+        "Address": "HEM Station\nDKV-Nr: 3458333\nSiemensstr. 37\nDE-61130 Nidderau\nTel.: 0176 47687959"
+    },
+    {
+        "Number": "213",
+        "Latitude": "50.27368",
+        "Longitude": "8.806744",
+        "Address": "JET Station\nDKV-Nr: 3418492\nAm Steinacker 2\nDE-61194 Niddatal\nTel.: 06034 9027934"
+    },
+    {
+        "Number": "214",
+        "Latitude": "50.135273",
+        "Longitude": "8.400427",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045505\nLorsbacher Str. 14\nDE-65817 Eppstein\nTel.: 06198 349178"
+    },
+    {
+        "Number": "215",
+        "Latitude": "50.293791",
+        "Longitude": "8.694949",
+        "Address": "ARAL Station\nDKV-Nr: 3470131\nCarl-Benz-Str. 1\nDE-61191 Rosbach vor der H\u00f6he\nTel.: 06003 8269661"
+    },
+    {
+        "Number": "216",
+        "Latitude": "50.108242",
+        "Longitude": "8.968937",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045039\nVosswaldestr. 1\nDE-63457 Hanau\nTel.: 06181 5206287"
+    },
+    {
+        "Number": "217",
+        "Latitude": "50.295398",
+        "Longitude": "8.685883",
+        "Address": "SHELL Station\nDKV-Nr: 0004318\nRaiffeisenstr. 2\nDE-61191 Rosbach vor der H\u00f6he\nTel.: 06003 930770"
+    },
+    {
+        "Number": "218",
+        "Latitude": "50.29775238",
+        "Longitude": "8.690401077",
+        "Address": "IDS Station\nDKV-Nr: 0087028\nRobert-Bosch-Str. 3\nDE-61191 Rosbach"
+    },
+    {
+        "Number": "219",
+        "Latitude": "50.298716",
+        "Longitude": "8.700743",
+        "Address": "FREIE Station\nDKV-Nr: 0099249\nAm Bahnhof 8\nDE-61191 Rosbach vor der H\u00f6he\nTel.: 06003 1364"
+    },
+    {
+        "Number": "220",
+        "Latitude": "49.950351",
+        "Longitude": "8.840411",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045038\nKettelerstr. 2\nDE-64859 Eppertshausen\nTel.: 06071 31359"
+    },
+    {
+        "Number": "221",
+        "Latitude": "50.045062",
+        "Longitude": "8.961266",
+        "Address": "ARAL Station\nDKV-Nr: 0010874\nFrankfurter Str. 102 a\nDE-63500 Seligenstadt\nTel.: 06182 8206288"
+    },
+    {
+        "Number": "222",
+        "Latitude": "49.926455",
+        "Longitude": "8.602724",
+        "Address": "ARAL Station\nDKV-Nr: 3475742\nDarmst\u00e4dter Landstrasse 63\nDE-64331 Weiterstadt\nTel.: 061505457360"
+    },
+    {
+        "Number": "223",
+        "Latitude": "50.036969",
+        "Longitude": "8.957076",
+        "Address": "AVIA Station\nDKV-Nr: 0034074\nDudenh\u00f6fer Str. 34\nDE-63500 Seligenstadt\nTel.: 06182 8435700"
+    },
+    {
+        "Number": "224",
+        "Latitude": "49.918169",
+        "Longitude": "8.65485",
+        "Address": "ARAL Station\nDKV-Nr: 0010725\nFrankfurter Landstr. 257\nDE-64291 Darmstadt\nTel.: 06151 371223"
+    },
+    {
+        "Number": "225",
+        "Latitude": "50.307014",
+        "Longitude": "8.697293",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045044\nTaunusstr. 1\nDE-61191 Rosbach vor der H\u00f6he\nTel.: 06003 1203"
+    },
+    {
+        "Number": "226",
+        "Latitude": "50.027414",
+        "Longitude": "8.40592",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082078\nKirschgartenstr. 21\nDE-65439 Fl\u00f6rsheim\nTel.: 06145 971067"
+    },
+    {
+        "Number": "227",
+        "Latitude": "50.05409525634",
+        "Longitude": "8.976295115057",
+        "Address": "BFT Station\nDKV-Nr: 3499763\nSteinheimerstr. 111\nDE-63500 Seligenstadt\nTel.: 06182 899571"
+    },
+    {
+        "Number": "228",
+        "Latitude": "50.081834",
+        "Longitude": "8.986401",
+        "Address": "ARAL Station\nDKV-Nr: 3475155\nLindenstr. 31\nDE-63538 Gro\u00dfkrotzenburg\nTel.: 06186 9158160"
+    },
+    {
+        "Number": "229",
+        "Latitude": "50.165006",
+        "Longitude": "8.978652",
+        "Address": "AVIA Station\nDKV-Nr: 0090385\nHanauer Str. 33\nDE-63526 Erlensee\nTel.: 06813 911190"
+    },
+    {
+        "Number": "230",
+        "Latitude": "50.295121",
+        "Longitude": "8.568215",
+        "Address": "AVIA Station\nDKV-Nr: 0099678\nIndustriestr. 4a\nDE-61273 Wehrheim\nTel.: 06081 981245"
+    },
+    {
+        "Number": "231",
+        "Latitude": "50.070021",
+        "Longitude": "8.380675",
+        "Address": "TP24Automat\nDKV-Nr: 0081387\nHessenstr. 28\nDE-65719 Hofheim am Taunus"
+    },
+    {
+        "Number": "232",
+        "Latitude": "49.982496",
+        "Longitude": "8.447092",
+        "Address": "BFT Station\nDKV-Nr: 3499572\nHessenring 50\nDE-65428 R\u00fcsselsheim\nTel.: 06142 51101"
+    },
+    {
+        "Number": "233",
+        "Latitude": "49.996998",
+        "Longitude": "8.424153",
+        "Address": "SHELL Station\nDKV-Nr: 0004458\nRugbyring 98 / 102\nDE-65428 R\u00fcsselsheim am Main\nTel.: 06142 62118"
+    },
+    {
+        "Number": "234",
+        "Latitude": "49.996364",
+        "Longitude": "8.417099",
+        "Address": "UNITOL Station\nDKV-Nr: 0049136\nFrankfurter Str. 45\nDE-65428 R\u00fcsselsheim\nTel.: 06142 67593"
+    },
+    {
+        "Number": "235",
+        "Latitude": "49.988553",
+        "Longitude": "8.425596",
+        "Address": "T Station\nDKV-Nr: 0051145\nHa\u00dflocher Str. 149\nDE-65428 R\u00fcsselsheim am Main\nTel.: 06142 162670"
+    },
+    {
+        "Number": "236",
+        "Latitude": "50.159938",
+        "Longitude": "8.994455",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082002\nLeipziger Str. 3\nDE-63526 Erlensee\nTel.: 06183 3981"
+    },
+    {
+        "Number": "237",
+        "Latitude": "50.160542",
+        "Longitude": "8.994986",
+        "Address": "BFT Station\nDKV-Nr: 3499577\nLeipziger Str. 2\nDE-63526 Erlensee\nTel.: 06183 4510"
+    },
+    {
+        "Number": "238",
+        "Latitude": "50.0604643",
+        "Longitude": "8.3697101",
+        "Address": "SHELL Station\nDKV-Nr: 3404410\nWiesbadener Str. 21\nDE-65719 Hofheim am Taunus\nTel.: 06122 530222"
+    },
+    {
+        "Number": "239",
+        "Latitude": "50.075255",
+        "Longitude": "9.001418",
+        "Address": "ARAL Station\nDKV-Nr: 0010065\nForststr. 5\nDE-63796 Kahl am Main\nTel.: 06188 900819"
+    },
+    {
+        "Number": "240",
+        "Latitude": "50.220574",
+        "Longitude": "8.404976",
+        "Address": "ESSO Station\nDKV-Nr: 0003749\nLimburger Str. 59\nDE-61479 Glash\u00fctten\nTel.: 06174 61571"
+    },
+    {
+        "Number": "241",
+        "Latitude": "50.289899",
+        "Longitude": "8.512562",
+        "Address": "ARAL Station\nDKV-Nr: 3475616\nSaalburgstr. 30\nDE-61267 Neu-Anspach"
+    },
+    {
+        "Number": "242",
+        "Latitude": "49.938044",
+        "Longitude": "8.496188",
+        "Address": "SHELL Station\nDKV-Nr: 3404784\nFrankfurter Str. 175\nDE-64521 Gro\u00df-Gerau\nTel.: 06152 80132"
+    },
+    {
+        "Number": "243",
+        "Latitude": "49.986669",
+        "Longitude": "8.416744",
+        "Address": "ARAL Station\nDKV-Nr: 3475149\nFriedrich-Ebert-Str. 54\nDE-65428 R\u00fcsselsheim\nTel.: 06142 15334"
+    },
+    {
+        "Number": "244",
+        "Latitude": "49.978436",
+        "Longitude": "8.426235",
+        "Address": "TP24Automat\nDKV-Nr: 0081466\nUranstr. 1\nDE-65428 R\u00fcsselsheim am Main"
+    },
+    {
+        "Number": "245",
+        "Latitude": "50.095287",
+        "Longitude": "8.353869",
+        "Address": "SHELL Station\nMedenbach Ost\nDKV-Nr: 3404663\nA 3\nDE-65207 Wiesbaden\nTel.: 06122 507985"
+    },
+    {
+        "Number": "246",
+        "Latitude": "50.096322",
+        "Longitude": "8.351786",
+        "Address": "ESSO Station\nMedenbach West\nDKV-Nr: 0003119\nA 3\nDE-65207 Wiesbaden\nTel.: 06122 534548"
+    },
+    {
+        "Number": "247",
+        "Latitude": "50.040342",
+        "Longitude": "8.994589",
+        "Address": "CALPAM Station\nDKV-Nr: 0047037\nHauptstr. 153\nDE-63500 Seligenstadt\nTel.: 06182 21284"
+    },
+    {
+        "Number": "248",
+        "Latitude": "49.929176",
+        "Longitude": "8.857499",
+        "Address": "AGIP Station\nDKV-Nr: 0006331\nFrankfurter Str. 50\nDE-64839 M\u00fcnster\nTel.: 06071 305451"
+    },
+    {
+        "Number": "249",
+        "Latitude": "49.895868",
+        "Longitude": "8.680841",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051422\nSiemensstr. 2\nDE-64289 Darmstadt\nTel.: 06151 4929866"
+    },
+    {
+        "Number": "250",
+        "Latitude": "49.902397",
+        "Longitude": "8.594829",
+        "Address": "ARAL Station\nDKV-Nr: 0010915\nDarmst\u00e4dter Str. 122\nDE-64331 Weiterstadt\nTel.: 06150 2190"
+    },
+    {
+        "Number": "251",
+        "Latitude": "49.898501",
+        "Longitude": "8.618565",
+        "Address": "TP24Automat\nDKV-Nr: 0081403\nLagerstr. 8\nDE-64331 Weiterstadt"
+    },
+    {
+        "Number": "252",
+        "Latitude": "49.898508",
+        "Longitude": "8.618302",
+        "Address": "ROTH Station\nDKV-Nr: 3498033\nLagerstr. (Industriegebiet Nord) 8\nDE-64331 Weiterstadt"
+    },
+    {
+        "Number": "253",
+        "Latitude": "50.139423",
+        "Longitude": "8.346198",
+        "Address": "SHELL Station\nDKV-Nr: 0050449\nValterweg 31\nDE-65817 Eppstein\nTel.: 06198 8335"
+    },
+    {
+        "Number": "254",
+        "Latitude": "49.896839",
+        "Longitude": "8.611656",
+        "Address": "SHELL Station\nDKV-Nr: 0004245\nRobert-Koch-Str. 1c\nDE-64331 Weiterstadt\nTel.: 06151 9067769"
+    },
+    {
+        "Number": "255",
+        "Latitude": "49.896846",
+        "Longitude": "8.611189",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493070\nRobert-Koch-Str. 1\nDE-64331 Weiterstadt"
+    },
+    {
+        "Number": "256",
+        "Latitude": "50.18134",
+        "Longitude": "9.005345",
+        "Address": "BAYWA LNG Station\nDKV-Nr: 3499315\nR\u00f6ntgenstr. 1\nDE-63526 Erlensee\nTel.: 0800 5054500"
+    },
+    {
+        "Number": "257",
+        "Latitude": "50.182429",
+        "Longitude": "9.007266",
+        "Address": "TotalEnergies Station\nErlensee Neuberg\nDKV-Nr: 0051273\nR\u00f6ntgenstr. 1\nDE-63526 Erlensee\nTel.: 06183 8007810"
+    },
+    {
+        "Number": "258",
+        "Latitude": "50.01704",
+        "Longitude": "8.99371",
+        "Address": "ENI Station\nDKV-Nr: 3406384\nIndustrie Str. 2\nDE-63533 Mainhausen"
+    },
+    {
+        "Number": "259",
+        "Latitude": "49.895",
+        "Longitude": "8.600278",
+        "Address": "METRO C&C Station\nDKV-Nr: 0018406\nIm R\u00f6dling 8 a\nDE-64331 Weiterstadt\nTel.: 06150 541306"
+    },
+    {
+        "Number": "260",
+        "Latitude": "50.3291173",
+        "Longitude": "8.7500268",
+        "Address": "HEM Station\nDKV-Nr: 0058406\nHomburger Str. 2\nDE-61169 Friedberg\nTel.: 06031 1613470"
+    },
+    {
+        "Number": "261",
+        "Latitude": "49.969835",
+        "Longitude": "8.949485",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445102\nBouxwiller Str. 1A\nDE-64832 Babenhausen\nTel.: 06073 723376"
+    },
+    {
+        "Number": "262",
+        "Latitude": "49.917909",
+        "Longitude": "8.855343",
+        "Address": "ESSO Station\nDKV-Nr: 0003327\nDarmst\u00e4dter Str. 88\nDE-64839 M\u00fcnster (Hessen)\nTel.: 06071 394715"
+    },
+    {
+        "Number": "263",
+        "Latitude": "50.14733",
+        "Longitude": "9.025279",
+        "Address": "AGIP Station\nDKV-Nr: 0006325\nGelnh\u00e4user Str. 8\nDE-63517 Rodenbach\nTel.: 06184 50507"
+    },
+    {
+        "Number": "264",
+        "Latitude": "49.99305",
+        "Longitude": "8.386758",
+        "Address": "ARAL Station\nDKV-Nr: 0070498\nMainzer Str. 95\nDE-65428 R\u00fcsselsheim\nTel.: 06142 910910"
+    },
+    {
+        "Number": "265",
+        "Latitude": "50.308268",
+        "Longitude": "8.516035",
+        "Address": "SHELL Station\nDKV-Nr: 3404046\nZeppelinstr. 3\nDE-61267 Neu-Anspach\nTel.: 06081 6886350"
+    },
+    {
+        "Number": "266",
+        "Latitude": "50.05739",
+        "Longitude": "8.341777",
+        "Address": "GLOBUS Station\nDKV-Nr: 0040091\nOstring 2\nDE-65205 Wiesbaden\nTel.: 0612 250560"
+    },
+    {
+        "Number": "267",
+        "Latitude": "49.886748",
+        "Longitude": "8.638473",
+        "Address": "JET Station\nDKV-Nr: 0018423\nLeydheckerstr. 18\nDE-64293 Darmstadt\nTel.: 06151 3971883"
+    },
+    {
+        "Number": "268",
+        "Latitude": "49.889492",
+        "Longitude": "8.610894",
+        "Address": "ROTH Station\nDKV-Nr: 3498032\nWaldstr. 18\nDE-64331 Weiterstadt"
+    },
+    {
+        "Number": "269",
+        "Latitude": "49.884812",
+        "Longitude": "8.652232",
+        "Address": "ESSO Station\nDKV-Nr: 0003633\nFrankfurter Str. 65\nDE-64293 Darmstadt\nTel.: 06151 981486"
+    },
+    {
+        "Number": "270",
+        "Latitude": "50.056853",
+        "Longitude": "8.339342",
+        "Address": "SHELL Station\nDKV-Nr: 0004133\nBorsigstr. 1\nDE-65205 Wiesbaden\nTel.: 06122 2677"
+    },
+    {
+        "Number": "271",
+        "Latitude": "50.05699",
+        "Longitude": "8.33925",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493072\nBorsigstra\u00dfe 1\nDE-65205 Wiesbaden"
+    },
+    {
+        "Number": "272",
+        "Latitude": "50.289192",
+        "Longitude": "8.461184",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3451303\nWeilroder Str. 3\nDE-61389 Schmitten\nTel.: 060842377"
+    },
+    {
+        "Number": "273",
+        "Latitude": "50.01412",
+        "Longitude": "8.361765",
+        "Address": "OIL! Station\nDKV-Nr: 0074041\nFrankfurter Str. 65\nDE-65239 Hochheim am Main\nTel.: 06146 837531"
+    },
+    {
+        "Number": "274",
+        "Latitude": "49.939068",
+        "Longitude": "8.44891",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051153\nDarmst\u00e4dter Landstr. 2\nDE-64569 Nauheim\nTel.: 06152 64953"
+    },
+    {
+        "Number": "275",
+        "Latitude": "50.179921",
+        "Longitude": "9.02073",
+        "Address": "SHELL Station\nDKV-Nr: 0050179\nAm Nesselbusch 2\nDE-63505 Langenselbold\nTel.: 06184 9096420"
+    },
+    {
+        "Number": "276",
+        "Latitude": "49.909046",
+        "Longitude": "8.849096",
+        "Address": "SHELL Station\nDKV-Nr: 3404578\nFrankfurter Str. 105\nDE-64807 Dieburg\nTel.: 06071 823231"
+    },
+    {
+        "Number": "277",
+        "Latitude": "49.908324",
+        "Longitude": "8.847674",
+        "Address": "JET Station\nDKV-Nr: 0018441\nFrankfurter Str. 62\nDE-64807 Dieburg\nTel.: 06071 9288063"
+    },
+    {
+        "Number": "278",
+        "Latitude": "49.90761",
+        "Longitude": "8.8513",
+        "Address": "BFT Station\nDKV-Nr: 3499813\nIndustriestr. 30\nDE-64807 Dieburg\nTel.: 06204 9776440"
+    },
+    {
+        "Number": "279",
+        "Latitude": "49.903536",
+        "Longitude": "8.523663",
+        "Address": "SHELL Station\nDKV-Nr: 3404742\nIm Mehlsee 5\nDE-64572 B\u00fcttelborn\nTel.: 06152 18170"
+    },
+    {
+        "Number": "280",
+        "Latitude": "49.921848",
+        "Longitude": "8.472117",
+        "Address": "ARAL Station\nDKV-Nr: 0070720\nOppenheimer Str. 7\nDE-64521 Gro\u00df-Gerau\nTel.: 06152 7854"
+    },
+    {
+        "Number": "281",
+        "Latitude": "49.879639",
+        "Longitude": "8.644409",
+        "Address": "JET Station\nDKV-Nr: 3418301\nKasinostr. 75\nDE-64293 Darmstadt\nTel.: 06151 292637"
+    },
+    {
+        "Number": "282",
+        "Latitude": "49.87923",
+        "Longitude": "8.643537",
+        "Address": "CALPAM Station\nDKV-Nr: 0047035\nKasinostr. 60\nDE-64293 Darmstadt\nTel.: 06151 891515"
+    },
+    {
+        "Number": "283",
+        "Latitude": "49.954858",
+        "Longitude": "8.953224",
+        "Address": "ESSO Station\nDKV-Nr: 0003360\nDarmst\u00e4dter Str. 19\nDE-64832 Babenhausen\nTel.: 06073 4224"
+    },
+    {
+        "Number": "284",
+        "Latitude": "49.9065745",
+        "Longitude": "8.5033157",
+        "Address": "ARAL Station\nDKV-Nr: 0010468\nMainzer Str. 116 a\nDE-64572 B\u00fcttelborn\nTel.: 06152 9879262"
+    },
+    {
+        "Number": "285",
+        "Latitude": "50.026811",
+        "Longitude": "9.022844",
+        "Address": "CALPAM Station\nDKV-Nr: 0047026\nKettelerstr. 21\nDE-63533 Mainhausen\nTel.: 06021 402648"
+    },
+    {
+        "Number": "286",
+        "Latitude": "49.9573535",
+        "Longitude": "8.9584766",
+        "Address": "ARAL Station\nDKV-Nr: 0070275\nAschaffenburger Str. 3\nDE-64832 Babenhausen\nTel.: 06073 62912"
+    },
+    {
+        "Number": "287",
+        "Latitude": "49.8930662",
+        "Longitude": "8.5436105",
+        "Address": "SHELL Station\nB\u00fcttelborn S\u00fcd\nDKV-Nr: 0050164\nA 67\nDE-64572 B\u00fcttelborn\nTel.: 06152 5080"
+    },
+    {
+        "Number": "288",
+        "Latitude": "50.09186",
+        "Longitude": "9.048716",
+        "Address": "SHELL Station\nDKV-Nr: 3404755\nIndustriestr. 9\nDE-63755 Alzenau\nTel.: 06023 1827"
+    },
+    {
+        "Number": "289",
+        "Latitude": "49.87446",
+        "Longitude": "8.669398",
+        "Address": "JET Station\nDKV-Nr: 3418166\nLandgraf-Georg-Str. 128\nDE-64287 Darmstadt\nTel.: 06151 43501"
+    },
+    {
+        "Number": "290",
+        "Latitude": "49.898937",
+        "Longitude": "8.846859",
+        "Address": "ARAL Station\nDKV-Nr: 0010757\nAltstadt 37\nDE-64807 Dieburg\nTel.: 06071 499697"
+    },
+    {
+        "Number": "291",
+        "Latitude": "49.898646",
+        "Longitude": "8.847116",
+        "Address": "BFT Station\nDKV-Nr: 0098426\nGro\u00df-Umst\u00e4dter Str. 3\nDE-64807 Dieburg\nTel.: 06071 207501"
+    },
+    {
+        "Number": "292",
+        "Latitude": "49.976121",
+        "Longitude": "8.377655",
+        "Address": "JET Station\nDKV-Nr: 3418404\nAm Schindberg 1\nDE-65474 Bischofsheim\nTel.: 06144 970166"
+    },
+    {
+        "Number": "293",
+        "Latitude": "50.09176",
+        "Longitude": "9.05237",
+        "Address": "ORANGEGAS CNG Station\nDKV-Nr: 3499862\nIndustriestr. 12\nDE-63755 Alzenau\nTel.: 04231 9713720"
+    },
+    {
+        "Number": "294",
+        "Latitude": "50.037066",
+        "Longitude": "9.035992",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0021121\nHanauer Landstr. 114\nDE-63791 Karlstein am Main\nTel.: 06188 990599/98"
+    },
+    {
+        "Number": "295",
+        "Latitude": "50.2848888",
+        "Longitude": "8.940651",
+        "Address": "ARAL Station\nDKV-Nr: 0070677\nR\u00f6merbrunnen 1 b\nDE-63674 Altenstadt\nTel.: 06047 962915"
+    },
+    {
+        "Number": "296",
+        "Latitude": "50.259851",
+        "Longitude": "8.976619",
+        "Address": "ESSO Station\nDKV-Nr: 0003274\nHimbacher Str. 24\nDE-63694 Limeshain\nTel.: 06047 6999"
+    },
+    {
+        "Number": "297",
+        "Latitude": "49.871357",
+        "Longitude": "8.6392469",
+        "Address": "ARAL Station\nDKV-Nr: 0070975\nRheinstr. 69\nDE-64295 Darmstadt\nTel.: 06151 891309"
+    },
+    {
+        "Number": "298",
+        "Latitude": "50.088005",
+        "Longitude": "9.055733",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082085\nHanauer Str. 121\nDE-63755 Alzenau\nTel.: 04251 812 25"
+    },
+    {
+        "Number": "299",
+        "Latitude": "50.329841",
+        "Longitude": "8.521496",
+        "Address": "AVIA Station\nDKV-Nr: 3499022\nAm Dornbusch 2 - 6\nDE-61250 Usingen\nTel.: 06081 5511"
+    },
+    {
+        "Number": "300",
+        "Latitude": "50.2432723",
+        "Longitude": "8.9977455",
+        "Address": "ARAL Station\nDKV-Nr: 0010634\nAm Lachbach 1\nDE-63546 Hammersbach\nTel.: 06185 893027"
+    },
+    {
+        "Number": "301",
+        "Latitude": "50.049063",
+        "Longitude": "9.046059",
+        "Address": "TP24Automat\nDKV-Nr: 0081408\nIndustriegebiet S\u00fcd B 3\nDE-63755 Alzenau"
+    },
+    {
+        "Number": "302",
+        "Latitude": "50.08806",
+        "Longitude": "9.0571934",
+        "Address": "FREIE Station\nDKV-Nr: 0047022\nHanauer Str. 120\nDE-63755 Alzenau\nTel.: 06023 970777"
+    },
+    {
+        "Number": "303",
+        "Latitude": "49.895067",
+        "Longitude": "8.854645",
+        "Address": "JET Station\nDKV-Nr: 3418165\nGro\u00df-Umst\u00e4dter Str. 70\nDE-64807 Dieburg\nTel.: 06071 24275"
+    },
+    {
+        "Number": "304",
+        "Latitude": "50.1758207",
+        "Longitude": "9.0464728",
+        "Address": "ARAL Station\nDKV-Nr: 0010063\nGelnhaeuser Str. 17\nDE-63505 Langenselbold\nTel.: 06184 2103"
+    },
+    {
+        "Number": "305",
+        "Latitude": "50.164378",
+        "Longitude": "9.051206",
+        "Address": "FREIE Station\nDKV-Nr: 0098583\nIndustriestr. 1\nDE-63505 Langenselbold\nTel.: 06184 613409005"
+    },
+    {
+        "Number": "306",
+        "Latitude": "49.867714",
+        "Longitude": "8.681774",
+        "Address": "ARAL Station\nDKV-Nr: 0010726\nHeinrichstr. 241\nDE-64287 Darmstadt\nTel.: 06151 47843"
+    },
+    {
+        "Number": "307",
+        "Latitude": "50.249838",
+        "Longitude": "8.993114",
+        "Address": "AGIP Station\nLangen Bergheim West\nDKV-Nr: 3406427\nA 45\nDE-63546 Hammersbach\nTel.: 0172 6706386"
+    },
+    {
+        "Number": "308",
+        "Latitude": "50.176101",
+        "Longitude": "9.046839",
+        "Address": "ESSO Station\nDKV-Nr: 0003122\nGelnh\u00e4user Str. 36\nDE-63505 Langenselbold\nTel.: 06184 61495"
+    },
+    {
+        "Number": "309",
+        "Latitude": "50.164323",
+        "Longitude": "8.312563",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051220\nIdsteiner Str. 50\nDE-65527 Niedernhausen\nTel.: 06127 903620"
+    },
+    {
+        "Number": "310",
+        "Latitude": "50.047388",
+        "Longitude": "9.047456",
+        "Address": "SHELL Station\nDKV-Nr: 3404647\nIndustriegebiet S\u00fcd A 5\nDE-63755 Alzenau\nTel.: 06188 990213"
+    },
+    {
+        "Number": "311",
+        "Latitude": "49.868537",
+        "Longitude": "8.645559",
+        "Address": "ARAL Station\nDKV-Nr: 3475621\nNeckarstr. 19\nDE-64283 Darmstadt\nTel.: 06151315733"
+    },
+    {
+        "Number": "312",
+        "Latitude": "50.2494",
+        "Longitude": "8.995131",
+        "Address": "ESSO Station\nLangen Bergheim Ost\nDKV-Nr: 3403151\nA 45\nDE-63546 Hammersbach\nTel.: 06185 7313"
+    },
+    {
+        "Number": "313",
+        "Latitude": "50.055282",
+        "Longitude": "8.311805",
+        "Address": "ARAL Station\nErbenheim Nord\nDKV-Nr: 0070181\nA 66\nDE-65205 Wiesbaden\nTel.: 0611 718300"
+    },
+    {
+        "Number": "314",
+        "Latitude": "49.881518",
+        "Longitude": "8.814297",
+        "Address": "REAL Station\nDKV-Nr: 0018350\nR\u00f6ntgenstr. 3\nDE-64846 Gro\u00df-Zimmern\nTel.: 06071 749382"
+    },
+    {
+        "Number": "315",
+        "Latitude": "50.355675",
+        "Longitude": "8.694627",
+        "Address": "ARAL Station\nWetterau Ost\nDKV-Nr: 0010958\nA 5\nDE-61239 Ober-M\u00f6rlen\nTel.: 06002 7915"
+    },
+    {
+        "Number": "316",
+        "Latitude": "50.05452",
+        "Longitude": "8.311572",
+        "Address": "ARAL Station\nErbenheim S\u00fcd\nDKV-Nr: 0070287\nA 66\nDE-65205 Wiesbaden\nTel.: 0611 700710"
+    },
+    {
+        "Number": "317",
+        "Latitude": "49.892786",
+        "Longitude": "8.855458",
+        "Address": "BFT Station\nDKV-Nr: 3498397\nGro\u00df-Umst\u00e4dter Str. 89 B\nDE-64807 Dieburg\nTel.: 0171 2207078"
+    },
+    {
+        "Number": "318",
+        "Latitude": "50.357617",
+        "Longitude": "8.694157",
+        "Address": "AGIP Station\nDKV-Nr: 3406406\nA 5\nDE-61239 Ober-M\u00f6rlen\nTel.: 06002 939786"
+    },
+    {
+        "Number": "319",
+        "Latitude": "50.340096",
+        "Longitude": "8.534918",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051151\nWeilburger Str. 30\nDE-61250 Usingen\nTel.: 06081 2680"
+    },
+    {
+        "Number": "320",
+        "Latitude": "50.357512",
+        "Longitude": "8.739039",
+        "Address": "ESSO Station\nDKV-Nr: 0003299\nSchwalheimer Str. 19\nDE-61231 Bad Nauheim\nTel.: 06032 921212"
+    },
+    {
+        "Number": "321",
+        "Latitude": "49.868575",
+        "Longitude": "8.780308",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082075\nHauptstr. 107\nDE-64380 Ro\u00dfdorf\nTel.: 06071 74366"
+    },
+    {
+        "Number": "322",
+        "Latitude": "49.861433",
+        "Longitude": "8.646804",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051298\nHeidelberger Str. 55\nDE-64285 Darmstadt\nTel.: 06151 316459"
+    },
+    {
+        "Number": "323",
+        "Latitude": "49.862046",
+        "Longitude": "8.74442",
+        "Address": "ESSO Station\nDKV-Nr: 0003037\nDarmst\u00e4dter Str. 80\nDE-64380 Ro\u00dfdorf\nTel.: 06154 82133"
+    },
+    {
+        "Number": "324",
+        "Latitude": "49.870417",
+        "Longitude": "8.564513",
+        "Address": "HEM Station\nDKV-Nr: 0058036\nBunsenstr. 1\nDE-64347 Griesheim\nTel.: 06155 605775"
+    },
+    {
+        "Number": "325",
+        "Latitude": "49.9302382",
+        "Longitude": "8.4071169",
+        "Address": "ARAL Station\nDKV-Nr: 0010363\nVordere Oderstr. 2 a\nDE-65468 Trebur\nTel.: 06147 3139"
+    },
+    {
+        "Number": "326",
+        "Latitude": "50.34186",
+        "Longitude": "8.84545",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499471\nLeidhecker Weg 19\nDE-61203 Reichelsheim\nTel.: 06051 972720"
+    },
+    {
+        "Number": "327",
+        "Latitude": "50.354954",
+        "Longitude": "8.791837",
+        "Address": "ESSO Station\nDKV-Nr: 3403077\nWetteraustr. 98\nDE-61169 Friedberg\nTel.: 06031 930 09"
+    },
+    {
+        "Number": "328",
+        "Latitude": "49.8729698",
+        "Longitude": "8.8208685",
+        "Address": "ARAL Station\nDKV-Nr: 0010533\nDarmst\u00e4dter Str. 49a\nDE-64846 Gro\u00df-Zimmern\nTel.: 06071 951360"
+    },
+    {
+        "Number": "329",
+        "Latitude": "49.856413",
+        "Longitude": "8.669339",
+        "Address": "ARAL Station\nDKV-Nr: 0010522\nNieder-Ramst\u00e4dter Str. 174\nDE-64285 Darmstadt\nTel.: 06151 48696"
+    },
+    {
+        "Number": "330",
+        "Latitude": "50.362697",
+        "Longitude": "8.749682",
+        "Address": "JET Station\nDKV-Nr: 3418286\nFrankfurter Landstr. 1\nDE-61231 Bad Nauheim\nTel.: 06032 921268"
+    },
+    {
+        "Number": "331",
+        "Latitude": "49.868813",
+        "Longitude": "8.553962",
+        "Address": "SHELL Station\nDKV-Nr: 3404415\nNordring 19\nDE-64347 Griesheim\nTel.: 06155 4265"
+    },
+    {
+        "Number": "332",
+        "Latitude": "49.861714",
+        "Longitude": "8.587226",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049213\nFlughafenstr. 7\nDE-64347 Griesheim"
+    },
+    {
+        "Number": "333",
+        "Latitude": "50.365062",
+        "Longitude": "8.748749",
+        "Address": "AVIA Station\nDKV-Nr: 0098979\nFrankfurter Str. 13\nDE-61231 Bad Nauheim\nTel.: 06032 306023"
+    },
+    {
+        "Number": "334",
+        "Latitude": "50.366392",
+        "Longitude": "8.624139",
+        "Address": "ARAL Station\nDKV-Nr: 3475739\nUsingerstr. 154\nDE-61239 Ober-M\u00f6rlen\nTel.: 0600 2868"
+    },
+    {
+        "Number": "335",
+        "Latitude": "49.854037",
+        "Longitude": "8.64197",
+        "Address": "ARAL Station\nDKV-Nr: 3475622\nR\u00fcdesheimer Str. 114\nDE-64295 Darmstadt\nTel.: 06151 63545"
+    },
+    {
+        "Number": "336",
+        "Latitude": "49.853172",
+        "Longitude": "8.644497",
+        "Address": "SHELL Station\nDKV-Nr: 0004687\nR\u00fcdesheimer Str. 123 A\nDE-64285 Darmstadt\nTel.: 06151 2783219"
+    },
+    {
+        "Number": "337",
+        "Latitude": "50.369863",
+        "Longitude": "8.686227",
+        "Address": "MTB Station\nDKV-Nr: 0098378\nEgerl\u00e4nder Str. 11\nDE-61239 Ober-M\u00f6rlen\nTel.: 06002 7074"
+    },
+    {
+        "Number": "338",
+        "Latitude": "49.987545",
+        "Longitude": "8.327858",
+        "Address": "ARAL Station\nDKV-Nr: 3475713\nAm Flurgraben 1 - 11\nDE-65462 Ginsheim-Gustavsburg\nTel.: 06134 2853500"
+    },
+    {
+        "Number": "339",
+        "Latitude": "49.987373",
+        "Longitude": "8.324182",
+        "Address": "AVIA Station\nDKV-Nr: 0099784\nGr\u00e4fin-D\u00f6nhoff-Str. 2\nDE-65462 Ginsheim-Gustavsburg\nTel.: 06134 29600"
+    },
+    {
+        "Number": "340",
+        "Latitude": "49.996803",
+        "Longitude": "8.314057",
+        "Address": "STAR Station\nDKV-Nr: 0002476\nDarmst\u00e4dter Landstr. 11\nDE-65462 Ginsheim-Gustavsburg\nTel.: 06134 750355"
+    },
+    {
+        "Number": "341",
+        "Latitude": "50.080271",
+        "Longitude": "8.275084",
+        "Address": "ESSO Station\nDKV-Nr: 0003635\nB 455 101\nDE-65191 Wiesbaden\nTel.: 0611 2043899"
+    },
+    {
+        "Number": "342",
+        "Latitude": "50.080863",
+        "Longitude": "8.274878",
+        "Address": "ESSO Station\nDKV-Nr: 0003008\nAn Der B455 100\nDE-65191 Wiesbaden\nTel.: 0611 561762"
+    },
+    {
+        "Number": "343",
+        "Latitude": "50.004322",
+        "Longitude": "9.058136",
+        "Address": "BFT Station\nDKV-Nr: 0098920\nHanauer Str. 64\nDE-63801 Kleinostheim\nTel.: 06027 9909150"
+    },
+    {
+        "Number": "344",
+        "Latitude": "50.330029",
+        "Longitude": "8.914459",
+        "Address": "HESSOL Station\nDKV-Nr: 0010852\nMockst\u00e4dter Str. 2\nDE-61197 Florstadt\nTel.: 06035 7114"
+    },
+    {
+        "Number": "345",
+        "Latitude": "50.297986",
+        "Longitude": "8.388743",
+        "Address": "ED Station\nDKV-Nr: 0068077\nLangstr. 54 a\nDE-61276 Weilrod\nTel.: 06083 940359"
+    },
+    {
+        "Number": "346",
+        "Latitude": "50.378057",
+        "Longitude": "8.694295",
+        "Address": "BFT Station\nDKV-Nr: 3499570\nFrankfurter Str. 51 - 53\nDE-61239 Ober-M\u00f6rlen\nTel.: 06002 939603"
+    },
+    {
+        "Number": "347",
+        "Latitude": "50.375911",
+        "Longitude": "8.740048",
+        "Address": "SHELL Station\nDKV-Nr: 3404151\nFrankfurter Str. 135\nDE-61231 Bad Nauheim\nTel.: +49 60329281955"
+    },
+    {
+        "Number": "348",
+        "Latitude": "50.020259",
+        "Longitude": "8.289839",
+        "Address": "METRO C&C Station\nDKV-Nr: 0018273\nBoelckestr. 78\nDE-55252 Mainz-Kastel\nTel.: 06134 24234"
+    },
+    {
+        "Number": "349",
+        "Latitude": "50.098784",
+        "Longitude": "9.10007",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045513\nK\u00e4lberauer Str. 12 a\nDE-63755 Alzenau\nTel.: 06023 1829"
+    },
+    {
+        "Number": "350",
+        "Latitude": "50.007873",
+        "Longitude": "8.295981",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082077\nHochheimer Str. 47\nDE-55246 Mainz-Kostheim\nTel.: 06134 61018"
+    },
+    {
+        "Number": "351",
+        "Latitude": "50.066358",
+        "Longitude": "8.269207",
+        "Address": "ARAL Station\nDKV-Nr: 0070003\nAbraham-Lincoln-Str. 9\nDE-65189 Wiesbaden\nTel.: 0611 701141"
+    },
+    {
+        "Number": "352",
+        "Latitude": "50.017667",
+        "Longitude": "8.286695",
+        "Address": "SHELL Station\nDKV-Nr: 0004281\nBoelckestr. 58\nDE-55252 Mainz-Kastel\nTel.: 06134 22350"
+    },
+    {
+        "Number": "353",
+        "Latitude": "50.0077512",
+        "Longitude": "8.2921238",
+        "Address": "ARAL Station\nDKV-Nr: 0070027\nHochheimer Str. 25\nDE-55246 Mainz-Kostheim\nTel.: 06134 63241"
+    },
+    {
+        "Number": "354",
+        "Latitude": "50.083376",
+        "Longitude": "8.262244",
+        "Address": "ARAL Station\nDKV-Nr: 0070944\nBierstadter Str. 51\nDE-65189 Wiesbaden\nTel.: 0611 565373"
+    },
+    {
+        "Number": "355",
+        "Latitude": "50.381118",
+        "Longitude": "8.728032",
+        "Address": "TANKCENTER Station\nDKV-Nr: 3445345\nFrankfurter Str. 245\nDE-61231 Bad Nauheim\nTel.: 06032 7861843"
+    },
+    {
+        "Number": "356",
+        "Latitude": "49.9973042",
+        "Longitude": "9.0657127",
+        "Address": "CALPAM Station\nDKV-Nr: 0047159\nAschaffenburger Str. 58\nDE-63801 Kleinostheim\nTel.: 06027 8492"
+    },
+    {
+        "Number": "357",
+        "Latitude": "49.9561966",
+        "Longitude": "8.3335747",
+        "Address": "AGIP Station\nDKV-Nr: 0006126\nSchnellstr. Ost\nDE-55130 Mainz\nTel.: 06131 698267"
+    },
+    {
+        "Number": "358",
+        "Latitude": "50.330263",
+        "Longitude": "8.9348674",
+        "Address": "SHELL Station\nDKV-Nr: 3404645\nIn der Grobach 1\nDE-61197 Florstadt\nTel.: 06041 821160"
+    },
+    {
+        "Number": "359",
+        "Latitude": "49.994385",
+        "Longitude": "9.06533",
+        "Address": "ROTH Station\nDKV-Nr: 3499093\nStockst\u00e4dter Str. 6\nDE-63801 Kleinostheim\nTel.: 049641 602199"
+    },
+    {
+        "Number": "360",
+        "Latitude": "49.9558336",
+        "Longitude": "8.3329205",
+        "Address": "AGIP Station\nDKV-Nr: 0006127\nSchnellstr. West\nDE-55130 Mainz\nTel.: 06131 86481"
+    },
+    {
+        "Number": "361",
+        "Latitude": "50.015806",
+        "Longitude": "8.284003",
+        "Address": "ESSO Station\nDKV-Nr: 0003915\nBoelckestr. 27\nDE-55252 Mainz-Kastel\nTel.: 06134 714722"
+    },
+    {
+        "Number": "362",
+        "Latitude": "49.995233",
+        "Longitude": "9.068388",
+        "Address": "ARAL Station\nDKV-Nr: 0070646\nAschaffenburger Str. 86\nDE-63801 Kleinostheim\nTel.: 06027 9026"
+    },
+    {
+        "Number": "363",
+        "Latitude": "49.982109",
+        "Longitude": "8.306013",
+        "Address": "JET Station\nDKV-Nr: 0018420\nWormser Str. 135\nDE-55130 Mainz\nTel.: 06131 2778955"
+    },
+    {
+        "Number": "364",
+        "Latitude": "49.993871",
+        "Longitude": "9.068146",
+        "Address": "VERBIO LNG Station\nDKV-Nr: 3499670\nMainparkstr. 18\nDE-63801 Kleinostheim"
+    },
+    {
+        "Number": "365",
+        "Latitude": "50.0703",
+        "Longitude": "8.25909",
+        "Address": "JET Station\nDKV-Nr: 3418134\nBerliner Str. 11 a\nDE-65189 Wiesbaden\nTel.: 0611 74525"
+    },
+    {
+        "Number": "366",
+        "Latitude": "49.986849",
+        "Longitude": "8.296974",
+        "Address": "ESSO Station\nDKV-Nr: 0003053\nWormser Str. 7\nDE-55130 Mainz\nTel.: 06131 6194698"
+    },
+    {
+        "Number": "367",
+        "Latitude": "50.018253",
+        "Longitude": "8.274357",
+        "Address": "AGIP Station\nDKV-Nr: 0006395\nWiesbadener Str. 68\nDE-55252 Mainz-Kastel\nTel.: 06134 230483"
+    },
+    {
+        "Number": "368",
+        "Latitude": "50.147041",
+        "Longitude": "9.111823",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045506\nHanauer Str. 61\nDE-63579 Freigericht\nTel.: 06055 915217"
+    },
+    {
+        "Number": "369",
+        "Latitude": "49.963624",
+        "Longitude": "8.314451",
+        "Address": "OIL! Station\nDKV-Nr: 0074047\nOppenheimer Str. 59\nDE-55130 Mainz\nTel.: 06131 986910"
+    },
+    {
+        "Number": "370",
+        "Latitude": "49.855085",
+        "Longitude": "8.506878",
+        "Address": "AGIP Station\nDKV-Nr: 0006066\nGriesheimer Str. 31\nDE-64560 Riedstadt\nTel.: 06158 975280"
+    },
+    {
+        "Number": "371",
+        "Latitude": "49.924341",
+        "Longitude": "9.00623",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082073\nGro\u00dfostheimer Str. 1 a\nDE-64850 Schaafheim\nTel.: 06073 7447075"
+    },
+    {
+        "Number": "372",
+        "Latitude": "50.061932",
+        "Longitude": "8.25276",
+        "Address": "ARAL Station\nDKV-Nr: 0010579\nMainzer Str. 103\nDE-65189 Wiesbaden\nTel.: 0611 74478"
+    },
+    {
+        "Number": "373",
+        "Latitude": "49.830668",
+        "Longitude": "8.704825",
+        "Address": "JET Station\nDKV-Nr: 0018457\nOdenwaldstr. 19\nDE-64367 M\u00fchltal\nTel.: 06151 1369665"
+    },
+    {
+        "Number": "374",
+        "Latitude": "50.02433",
+        "Longitude": "8.267271",
+        "Address": "STAR Station\nDKV-Nr: 0002481\nWiesbadener Str. 89\nDE-55252 Mainz-Kastel\nTel.: 06134 298318"
+    },
+    {
+        "Number": "375",
+        "Latitude": "50.06248",
+        "Longitude": "8.251966",
+        "Address": "Mr. Wash Waschstation\nDKV-Nr: 9984121\nMainzer Str. 10a\nDE-65189 Wiesbaden\nTel.: 0611 713512"
+    },
+    {
+        "Number": "376",
+        "Latitude": "49.830118",
+        "Longitude": "8.706059",
+        "Address": "ARAL Station\nDKV-Nr: 0010110\nOdenwaldstr. 13\nDE-64367 M\u00fchltal\nTel.: 06151 14269"
+    },
+    {
+        "Number": "377",
+        "Latitude": "49.871915",
+        "Longitude": "8.914568",
+        "Address": "JET Station\nDKV-Nr: 3418423\nGeorg-August-Zinn-Str. 100\nDE-64823 Gro\u00df-Umstadt\nTel.: 06078 969326"
+    },
+    {
+        "Number": "378",
+        "Latitude": "49.87207",
+        "Longitude": "8.915749",
+        "Address": "SHELL Station\nDKV-Nr: 3404556\nGeorg-August-Zinn-Str. 81\nDE-64823 Gro\u00df-Umstadt\nTel.: 06078 75070"
+    },
+    {
+        "Number": "379",
+        "Latitude": "49.830595",
+        "Longitude": "8.737832",
+        "Address": "CALPAM Station\nDKV-Nr: 0047030\nNieder-Ramst\u00e4dter Str. 61\nDE-64372 Ober-Ramstadt\nTel.: 06154 53363"
+    },
+    {
+        "Number": "380",
+        "Latitude": "50.0713823",
+        "Longitude": "8.2452317",
+        "Address": "ARAL Station\nDKV-Nr: 0010417\nBahnhofsplatz 2\nDE-65189 Wiesbaden\nTel.: 0611 719188"
+    },
+    {
+        "Number": "381",
+        "Latitude": "50.293024",
+        "Longitude": "9.02374",
+        "Address": "SHELL Station\nDKV-Nr: 0050091\nHauptstr. 74\nDE-63654 B\u00fcdingen\nTel.: 06041 821744"
+    },
+    {
+        "Number": "382",
+        "Latitude": "49.854676",
+        "Longitude": "8.4873",
+        "Address": "JET Station\nDKV-Nr: 3418514\nOppenheimer Str. 49\nDE-64560 Riedstadt"
+    },
+    {
+        "Number": "383",
+        "Latitude": "49.97063",
+        "Longitude": "9.07073",
+        "Address": "SB Station\nDKV-Nr: 0050214\nObernburger Str. 82\nDE-63811 Stockstadt\nTel.: 06027 1651"
+    },
+    {
+        "Number": "384",
+        "Latitude": "49.9826717",
+        "Longitude": "8.2800308",
+        "Address": "ARAL Station\nDKV-Nr: 0070455\nHechtsheimerstr. 4\nDE-55131 Mainz\nTel.: 06131 985789"
+    },
+    {
+        "Number": "385",
+        "Latitude": "50.048541",
+        "Longitude": "8.241462",
+        "Address": "ARAL Station\nDKV-Nr: 3475754\nBiebricher Alle 186\nDE-65203 Wiesbaden\nTel.: 0611 694289"
+    },
+    {
+        "Number": "386",
+        "Latitude": "49.819663",
+        "Longitude": "8.686189",
+        "Address": "HEM Station\nDKV-Nr: 0058096\nRheinstr. 32\nDE-64367 M\u00fchltal"
+    },
+    {
+        "Number": "387",
+        "Latitude": "50.131974",
+        "Longitude": "9.134606",
+        "Address": "STAR Station\nDKV-Nr: 0065094\nHanauer Landstr. 39\nDE-63579 Freigericht\nTel.: 06055 9398871"
+    },
+    {
+        "Number": "388",
+        "Latitude": "49.9650593",
+        "Longitude": "9.075621",
+        "Address": "ARAL Station\nDKV-Nr: 0010222\nObernburger Str. 127\nDE-63811 Stockstadt a.Main\nTel.: 06027 401675"
+    },
+    {
+        "Number": "389",
+        "Latitude": "50.017436",
+        "Longitude": "8.251387",
+        "Address": "AVIA Station\nDKV-Nr: 3498757\nRheinallee 90 a\nDE-55120 Mainz\nTel.: 06131 212080"
+    },
+    {
+        "Number": "390",
+        "Latitude": "49.8654528",
+        "Longitude": "8.930479",
+        "Address": "FREIE Station\nDKV-Nr: 0045090\nM\u00f6rsweg 40\nDE-64823 Gro\u00df-Umstadt\nTel.: 06078 75712"
+    },
+    {
+        "Number": "391",
+        "Latitude": "50.213328",
+        "Longitude": "8.254568",
+        "Address": "SHELL Station\nDKV-Nr: 0050065\nBlack & Decker Str. 9\nDE-65510 Idstein\nTel.: 06126 6071"
+    },
+    {
+        "Number": "392",
+        "Latitude": "50.05735",
+        "Longitude": "9.13182",
+        "Address": "ESSO Station\nDKV-Nr: 3403050\nHofackerstr. 17\nDE-63776 M\u00f6mbris\nTel.: 06029 995500"
+    },
+    {
+        "Number": "393",
+        "Latitude": "50.092586",
+        "Longitude": "8.225327",
+        "Address": "BFT Station\nDKV-Nr: 3499568\nPlatter Str. 130\nDE-65193 Wiesbaden\nTel.: 0611 1851035"
+    },
+    {
+        "Number": "394",
+        "Latitude": "49.9876216",
+        "Longitude": "8.2669314",
+        "Address": "ARAL Station\nDKV-Nr: 0070010\nPariser Str. 2\nDE-55131 Mainz\nTel.: 06131 573110"
+    },
+    {
+        "Number": "395",
+        "Latitude": "50.216812",
+        "Longitude": "8.253978",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051008\nWiesbadener Str. 77\nDE-65510 Idstein\nTel.: 06126 953888"
+    },
+    {
+        "Number": "396",
+        "Latitude": "49.987739",
+        "Longitude": "8.266144",
+        "Address": "ESSO Station\nDKV-Nr: 0003038\nPariser Str. 1\nDE-55131 Mainz\nTel.: 06131 52523"
+    },
+    {
+        "Number": "397",
+        "Latitude": "50.070066",
+        "Longitude": "8.227395",
+        "Address": "JET Station\nDKV-Nr: 0018427\nSchiersteiner Str. 54\nDE-65187 Wiesbaden\nTel.: 0611 17449976"
+    },
+    {
+        "Number": "398",
+        "Latitude": "49.980619",
+        "Longitude": "8.269937",
+        "Address": "SHELL Station\nDKV-Nr: 0004449\nGeschwister-Scholl-Str. 10\nDE-55131 Mainz\nTel.: 06131 51765"
+    },
+    {
+        "Number": "399",
+        "Latitude": "49.831794",
+        "Longitude": "8.833873",
+        "Address": "JET Station\nDKV-Nr: 3418339\nDarmst\u00e4dter Str. 53\nDE-64354 Reinheim\nTel.: 06162 85314"
+    },
+    {
+        "Number": "400",
+        "Latitude": "49.831786",
+        "Longitude": "8.833936",
+        "Address": "ESSO Station\nDKV-Nr: 0003976\nDarmst\u00e4dter Str. 60\nDE-64354 Reinheim\nTel.: 06162 2487"
+    },
+    {
+        "Number": "401",
+        "Latitude": "49.997698",
+        "Longitude": "8.256555",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051406\nBingerstr. 27\nDE-55131 Mainz\nTel.: 06131 1432888"
+    },
+    {
+        "Number": "402",
+        "Latitude": "49.83823",
+        "Longitude": "8.50118",
+        "Address": "ESSO Station\nDKV-Nr: 3403281\nStarkenburger Str. 1\nDE-64560 Riedstadt Goddelau\nTel.: 06158 916934"
+    },
+    {
+        "Number": "403",
+        "Latitude": "50.047215",
+        "Longitude": "8.231957",
+        "Address": "SHELL Station\nDKV-Nr: 3404549\n\u00c4ppelallee 44\nDE-65203 Wiesbaden\nTel.: 0611 607377"
+    },
+    {
+        "Number": "404",
+        "Latitude": "50.224003",
+        "Longitude": "8.254632",
+        "Address": "ED Station\nDKV-Nr: 0068069\nRudolfstr. 7\nDE-65510 Idstein\nTel.: 06126 953325"
+    },
+    {
+        "Number": "405",
+        "Latitude": "50.047588",
+        "Longitude": "8.231258",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3451309\n\u00c4ppelallee 39\nDE-65203 Wiesbaden\nTel.: 0611 6010537"
+    },
+    {
+        "Number": "406",
+        "Latitude": "49.960854",
+        "Longitude": "9.080667",
+        "Address": "ACCESS Station\nDKV-Nr: 3451304\nTaunusstr. 1\nDE-63811 Stockstadt\nTel.: 060279795656"
+    },
+    {
+        "Number": "407",
+        "Latitude": "49.859159",
+        "Longitude": "8.436599",
+        "Address": "CALPAM Station\nDKV-Nr: 0047170\nGeinsheimer Str. 2\nDE-64560 Riedstadt\nTel.: 06158 72967"
+    },
+    {
+        "Number": "408",
+        "Latitude": "49.997823",
+        "Longitude": "8.253458",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045454\nSaarstr. 6\nDE-55122 Mainz\nTel.: 06131 381434"
+    },
+    {
+        "Number": "409",
+        "Latitude": "50.077671",
+        "Longitude": "8.221315",
+        "Address": "ARAL Station\nDKV-Nr: 3475044\nDotzheimer Str. 93\nDE-65197 Wiesbaden\nTel.: 0611 47027"
+    },
+    {
+        "Number": "410",
+        "Latitude": "49.815156",
+        "Longitude": "8.620931",
+        "Address": "TAMOIL Station\nDKV-Nr: 0058030\nWerner-von-Siemens-Str. 1\nDE-64319 Pfungstadt\nTel.: 06157 911085"
+    },
+    {
+        "Number": "411",
+        "Latitude": "49.971722",
+        "Longitude": "8.271439",
+        "Address": "ESSO Station\nDKV-Nr: 0003892\nNeue Mainzer Str. 131\nDE-55129 Mainz\nTel.: 06131 59566"
+    },
+    {
+        "Number": "412",
+        "Latitude": "50.066681",
+        "Longitude": "8.222526",
+        "Address": "ESSO Station\nDKV-Nr: 0003864\nSchiersteiner Str. 92\nDE-65187 Wiesbaden\nTel.: 0611 812974"
+    },
+    {
+        "Number": "413",
+        "Latitude": "49.935454",
+        "Longitude": "8.305466",
+        "Address": "STAR Station\nDKV-Nr: 0002477\nMainzer Str. 91\nDE-55294 Bodenheim\nTel.: 06135 704002"
+    },
+    {
+        "Number": "414",
+        "Latitude": "50.059825",
+        "Longitude": "8.221791",
+        "Address": "TANKCENTER Station\nDKV-Nr: 0045421\nErich-Ollenhauer-Str. 145\nDE-65187 Wiesbaden\nTel.: 0611 843707"
+    },
+    {
+        "Number": "415",
+        "Latitude": "50.082136",
+        "Longitude": "8.216389",
+        "Address": "FREIE Station\nDKV-Nr: 0051002\nKlarenthaler Str. 44\nDE-65197 Wiesbaden\nTel.: 0611 440787"
+    },
+    {
+        "Number": "416",
+        "Latitude": "50.182659",
+        "Longitude": "9.13709",
+        "Address": "AGIP Station\nDKV-Nr: 0006324\nHanauer Landstr. 68\nDE-63571 Gelnhausen\nTel.: 06051 68669"
+    },
+    {
+        "Number": "417",
+        "Latitude": "50.383516",
+        "Longitude": "8.8828",
+        "Address": "ARAL Station\nDKV-Nr: 0070322\nHauptstr. 27\nDE-61209 Echzell\nTel.: 06008 424"
+    },
+    {
+        "Number": "418",
+        "Latitude": "50.02433",
+        "Longitude": "8.232209",
+        "Address": "HEM Station\nDKV-Nr: 0058016\nRheinallee 187\nDE-55120 Mainz\nTel.: 06131 687124"
+    },
+    {
+        "Number": "419",
+        "Latitude": "50.208625",
+        "Longitude": "9.12836",
+        "Address": "HEM Station\nDKV-Nr: 3498307\nAm Dachberg 1\nDE-63584 Gr\u00fcndau"
+    },
+    {
+        "Number": "420",
+        "Latitude": "50.025829",
+        "Longitude": "8.229602",
+        "Address": "AVIA XPRESS Station\nDKV-Nr: 0090394\nRheinallee 120\nDE-55120 Mainz\nTel.: 07441 539350"
+    },
+    {
+        "Number": "421",
+        "Latitude": "50.062918",
+        "Longitude": "8.215917",
+        "Address": "JET Station\nDKV-Nr: 3418356\nErich-Ollenhauer-Str. 195\nDE-65199 Wiesbaden\nTel.: 0611 809132"
+    },
+    {
+        "Number": "422",
+        "Latitude": "50.06259",
+        "Longitude": "8.215885",
+        "Address": "STAR Station\nDKV-Nr: 0002471\nSaarstr. 230\nDE-65199 Wiesbaden\nTel.: 0611 9854440"
+    },
+    {
+        "Number": "423",
+        "Latitude": "49.834727",
+        "Longitude": "8.484074",
+        "Address": "ACCESS Station\nDKV-Nr: 0051125\nR\u00f6merstr. 1\nDE-64560 Riedstadt\nTel.: 06158 184056"
+    },
+    {
+        "Number": "424",
+        "Latitude": "49.81399",
+        "Longitude": "8.578506",
+        "Address": "ARAL Station\nPfungstadt West\nDKV-Nr: 3475085\nA 67\nDE-64319 Pfungstadt\nTel.: 06157 2912"
+    },
+    {
+        "Number": "425",
+        "Latitude": "50.4026055",
+        "Longitude": "8.8198844",
+        "Address": "ARAL Station\nDKV-Nr: 0070782\nSeestr. 34\nDE-61200 W\u00f6lfersheim\nTel.: 06036 5204"
+    },
+    {
+        "Number": "426",
+        "Latitude": "49.96431",
+        "Longitude": "9.097753",
+        "Address": "TP24Automat\nDKV-Nr: 0081448\nStockstadter Weg 2\nDE-63741 Aschaffenburg"
+    },
+    {
+        "Number": "427",
+        "Latitude": "49.964179",
+        "Longitude": "9.097817",
+        "Address": "ROTH Station\nDKV-Nr: 3498037\nStockst\u00e4dter Weg 2-4\nDE-63741 Aschaffenburg"
+    },
+    {
+        "Number": "428",
+        "Latitude": "50.083359",
+        "Longitude": "9.155787",
+        "Address": "ESSO Station\nDKV-Nr: 0003955\nAlzenauer Str. 16 a\nDE-63776 M\u00f6mbris\nTel.: 06029 1427"
+    },
+    {
+        "Number": "429",
+        "Latitude": "50.3827171",
+        "Longitude": "8.461024",
+        "Address": "ESSO Station\nDKV-Nr: 3403898\nFrankfurter Str. 65\nDE-61279 Gr\u00e4venwiesbach\nTel.: 06086 9698833"
+    },
+    {
+        "Number": "430",
+        "Latitude": "50.07605",
+        "Longitude": "8.208573",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045449\nDotzheimer Str. 184\nDE-65197 Wiesbaden\nTel.: 0611 420626"
+    },
+    {
+        "Number": "431",
+        "Latitude": "50.027176",
+        "Longitude": "8.223084",
+        "Address": "ARAL Station\nDKV-Nr: 0070641\nRheinallee 207\nDE-55120 Mainz\nTel.: 06131 687011"
+    },
+    {
+        "Number": "432",
+        "Latitude": "49.810635",
+        "Longitude": "8.577683",
+        "Address": "SHELL Station\nPfungstadt Ost\nDKV-Nr: 0050316\nA 67\nDE-64319 Pfungstadt\nTel.: 06157 3201"
+    },
+    {
+        "Number": "433",
+        "Latitude": "50.170475",
+        "Longitude": "8.211639",
+        "Address": "ARAL Station\nDKV-Nr: 3475663\nLimburger Str. 34\nDE-65232 Taunusstein\nTel.: 06128 72462"
+    },
+    {
+        "Number": "434",
+        "Latitude": "50.206576",
+        "Longitude": "9.13837",
+        "Address": "SHELL Station\nDKV-Nr: 0004835\nLeipziger Str. 18\nDE-63584 Gr\u00fcndau\nTel.: 06051 4003"
+    },
+    {
+        "Number": "435",
+        "Latitude": "49.806156",
+        "Longitude": "8.60922",
+        "Address": "AGIP Station\nDKV-Nr: 0006335\nEberst\u00e4dter Str. 115\nDE-64319 Pfungstadt\nTel.: 06157 86567"
+    },
+    {
+        "Number": "436",
+        "Latitude": "49.980498",
+        "Longitude": "9.116088",
+        "Address": "REAL Station\nDKV-Nr: 0018330\nHorchstr. 120\nDE-63741 Aschaffenburg\nTel.: 06021 26743"
+    },
+    {
+        "Number": "437",
+        "Latitude": "50.41972",
+        "Longitude": "8.683625",
+        "Address": "FREIE Station\nCardtank 24\nDKV-Nr: 3498750\nB\u00fcchnerstr. 1\nDE-35510 Butzbach\nTel.: 06033 950900"
+    },
+    {
+        "Number": "438",
+        "Latitude": "50.04363",
+        "Longitude": "8.21156",
+        "Address": "CleanCar Station\nDKV-Nr: 3498171\n\u00c4ppelallee 112\nDE-65203 Wiesbaden\nTel.: 0611 3354940"
+    },
+    {
+        "Number": "439",
+        "Latitude": "50.020066",
+        "Longitude": "8.220558",
+        "Address": "BFT Station\nDKV-Nr: 3499573\nKreuzstr. 63\nDE-55120 Mainz\nTel.: 06131 970959"
+    },
+    {
+        "Number": "440",
+        "Latitude": "50.079332",
+        "Longitude": "8.200156",
+        "Address": "ESSO Station\nDKV-Nr: 0003632\nSch\u00f6nbergstr. 44a\nDE-65199 Wiesbaden\nTel.: 0611 420428"
+    },
+    {
+        "Number": "441",
+        "Latitude": "49.963789",
+        "Longitude": "8.253441",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051226\nDekan-Laist-Str. 56\nDE-55129 Mainz\nTel.: 06131 9728871"
+    },
+    {
+        "Number": "442",
+        "Latitude": "50.151634",
+        "Longitude": "8.199545",
+        "Address": "STAR Station\nDKV-Nr: 0002470\nPlatter Str. 86\nDE-65232 Taunusstein\nTel.: 06128 85550"
+    },
+    {
+        "Number": "443",
+        "Latitude": "49.807288",
+        "Longitude": "8.5640715",
+        "Address": "ARAL Station\nDKV-Nr: 0070209\nDarmst\u00e4dter Str. 2\nDE-64319 Pfungstadt\nTel.: 06157 1587168"
+    },
+    {
+        "Number": "444",
+        "Latitude": "49.980764",
+        "Longitude": "9.124446",
+        "Address": "ESSO Station\nDKV-Nr: 0003830\nHanauer Str. 98\nDE-63741 Aschaffenburg\nTel.: 06021 23128"
+    },
+    {
+        "Number": "445",
+        "Latitude": "49.804169",
+        "Longitude": "8.583348",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445380\nEschollbr\u00fccker Str. 47\nDE-64319 Pfungstadt\nTel.: 061579390703"
+    },
+    {
+        "Number": "446",
+        "Latitude": "49.92654",
+        "Longitude": "9.079691",
+        "Address": "ARAL Station\nDKV-Nr: 0010353\nAschaffenburger Str. 33\nDE-63762 Gro\u00dfostheim\nTel.: 06026 9779501"
+    },
+    {
+        "Number": "447",
+        "Latitude": "50.056526",
+        "Longitude": "8.198403",
+        "Address": "AVIA Station\nDKV-Nr: 0098981\nSch\u00f6naustr. 78\nDE-65201 Wiesbaden\nTel.: 0611 21693"
+    },
+    {
+        "Number": "448",
+        "Latitude": "49.948238",
+        "Longitude": "8.260603",
+        "Address": "JET Station\nDKV-Nr: 0018475\nBarcelona Allee 2\nDE-55129 Mainz\nTel.: 06131 2758197"
+    },
+    {
+        "Number": "449",
+        "Latitude": "50.425895",
+        "Longitude": "8.73751",
+        "Address": "MENGIN Station\nDKV-Nr: 0098941\nSiemensstr. 8\nDE-35519 Rockenberg\nTel.: 06403 7785999"
+    },
+    {
+        "Number": "450",
+        "Latitude": "49.807275",
+        "Longitude": "8.825232",
+        "Address": "ARAL Station\nDKV-Nr: 3475351\nBahnhofstr. 80\nDE-64401 Gro\u00df-Bieberau\nTel.: 06162 940614"
+    },
+    {
+        "Number": "451",
+        "Latitude": "49.985738",
+        "Longitude": "9.135169",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045036\nSchillerstr. 80\nDE-63741 Aschaffenburg\nTel.: 06021 423279"
+    },
+    {
+        "Number": "452",
+        "Latitude": "50.428428",
+        "Longitude": "8.673191",
+        "Address": "ESSO Station\nDKV-Nr: 0003630\nWeiseler Str. 73\nDE-35510 Butzbach\nTel.: 06033 2465"
+    },
+    {
+        "Number": "453",
+        "Latitude": "50.1868815",
+        "Longitude": "9.1622433",
+        "Address": "ARAL Station\nDKV-Nr: 0010361\nGelnh\u00e4user Str. 1\nDE-63571 Gelnhausen\nTel.: 06051 68801"
+    },
+    {
+        "Number": "454",
+        "Latitude": "49.980392",
+        "Longitude": "9.132106",
+        "Address": "ARAL Station\nDKV-Nr: 0070472\nHanauer Str. 64\nDE-63739 Aschaffenburg\nTel.: 06021 27874"
+    },
+    {
+        "Number": "455",
+        "Latitude": "50.00174",
+        "Longitude": "8.217521",
+        "Address": "ESSO Station\nDKV-Nr: 0003686\nKurt-Schumacher Str. 1 - 7\nDE-55124 Mainz\nTel.: 06131 6007456"
+    },
+    {
+        "Number": "456",
+        "Latitude": "50.2071472",
+        "Longitude": "9.1556755",
+        "Address": "ELAN Station\nDKV-Nr: 0051118\nHochstr. 23\nDE-63571 Gelnhausen\nTel.: 06051 3323"
+    },
+    {
+        "Number": "457",
+        "Latitude": "50.43008",
+        "Longitude": "8.68735",
+        "Address": "TP24Automat\nDKV-Nr: 0081111\nOtto-Hahn-Str. 18\nDE-35510 Butzbach"
+    },
+    {
+        "Number": "458",
+        "Latitude": "49.987273",
+        "Longitude": "9.139997",
+        "Address": "SHELL Station\nDKV-Nr: 0004651\nSchillerstr. 58\nDE-63741 Aschaffenburg\nTel.: 06021 413658"
+    },
+    {
+        "Number": "459",
+        "Latitude": "50.341236",
+        "Longitude": "9.030091",
+        "Address": "ROTH Station\nDKV-Nr: 3498027\nKlosterstr. 2\nDE-63683 Ortenberg"
+    },
+    {
+        "Number": "460",
+        "Latitude": "50.2937603",
+        "Longitude": "8.2714229",
+        "Address": "JET Station\nDKV-Nr: 0018090\nFrankfurter Str. 25\nDE-65520 Bad Camberg\nTel.: 06434 903799"
+    },
+    {
+        "Number": "461",
+        "Latitude": "50.367081",
+        "Longitude": "8.380675",
+        "Address": "FREIE Station\nCardtank 24\nDKV-Nr: 3498749\nWeilburger Str. 20\nDE-61276 Weilrod\nTel.: 06033 950900"
+    },
+    {
+        "Number": "462",
+        "Latitude": "49.956768",
+        "Longitude": "9.121018",
+        "Address": "ESSO Station\nDKV-Nr: 3403007\nGro\u00dfostheimer Str. 183\nDE-63741 Aschaffenburg\nTel.: 06021/4447439"
+    },
+    {
+        "Number": "463",
+        "Latitude": "49.961481",
+        "Longitude": "9.126947",
+        "Address": "AGIP Station\nDKV-Nr: 3406357\nPappelweg 12\nDE-63741 Aschaffenburg\nTel.: 06021 5840014"
+    },
+    {
+        "Number": "464",
+        "Latitude": "50.282851",
+        "Longitude": "9.10846",
+        "Address": "BFT Station\nDKV-Nr: 3499566\nAn der Saline 16\nDE-63654 B\u00fcdingen\nTel.: 06042 956435"
+    },
+    {
+        "Number": "465",
+        "Latitude": "50.20594",
+        "Longitude": "9.163622",
+        "Address": "ROTH Station\nDKV-Nr: 3498020\nAm Spitalacker 14\nDE-63571 Gelnhausen"
+    },
+    {
+        "Number": "466",
+        "Latitude": "50.284458",
+        "Longitude": "9.108401",
+        "Address": "ESSO Station\nDKV-Nr: 0003144\nAn der Saline 13\nDE-63654 B\u00fcdingen\nTel.: 06042 2258"
+    },
+    {
+        "Number": "467",
+        "Latitude": "50.284057",
+        "Longitude": "9.108884",
+        "Address": "SHELL Station\nDKV-Nr: 0004402\nAn der Saline 10\nDE-63654 B\u00fcdingen\nTel.: 06042 68746"
+    },
+    {
+        "Number": "468",
+        "Latitude": "49.868205",
+        "Longitude": "8.348553",
+        "Address": "HEM Station\nDKV-Nr: 0058081\nRheinallee 53\nDE-55283 Nierstein\nTel.: 06133 5099994"
+    },
+    {
+        "Number": "469",
+        "Latitude": "50.435231",
+        "Longitude": "8.68436",
+        "Address": "BFT Station\nDKV-Nr: 3498047\nPhilip-Reiss-Str. 6\nDE-35510 Butzbach\nTel.: 06033 64767"
+    },
+    {
+        "Number": "470",
+        "Latitude": "50.152779",
+        "Longitude": "8.180444",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0021120\nAarstr. 212\nDE-65232 Taunusstein\nTel.: 06128 982542"
+    },
+    {
+        "Number": "471",
+        "Latitude": "49.9690824",
+        "Longitude": "8.2274079",
+        "Address": "JET Station\nDKV-Nr: 3418304\nHaifa-Allee 1\nDE-55128 Mainz\nTel.: 06131 363270"
+    },
+    {
+        "Number": "472",
+        "Latitude": "50.436482",
+        "Longitude": "8.680959",
+        "Address": "ARAL Station\nDKV-Nr: 0010761\nGriedeler Str. 70\nDE-35510 Butzbach\nTel.: 06033 970722"
+    },
+    {
+        "Number": "473",
+        "Latitude": "50.436509",
+        "Longitude": "8.681495",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051138\nGriedeler Str. 72\nDE-35510 Butzbach\nTel.: 06033 60763"
+    },
+    {
+        "Number": "474",
+        "Latitude": "50.374464",
+        "Longitude": "8.38347",
+        "Address": "FREIE Station\nDKV-Nr: 3499730\nIndustriestr. 4-6\nDE-65582 Diez\nTel.: 0643 260236"
+    },
+    {
+        "Number": "475",
+        "Latitude": "49.813792",
+        "Longitude": "8.470014",
+        "Address": "CALPAM Station\nDKV-Nr: 0047043\nVorderstr. 44\nDE-64589 Stockstadt\nTel.: 06158 84330"
+    },
+    {
+        "Number": "476",
+        "Latitude": "50.001729",
+        "Longitude": "8.202903",
+        "Address": "AVIA Station\nDKV-Nr: 0099711\nLennebergstr. 1\nDE-55124 Mainz\nTel.: 06131 5540960"
+    },
+    {
+        "Number": "477",
+        "Latitude": "49.922203",
+        "Longitude": "8.265839",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051378\nAm Kesseltal 4\nDE-55129 Mainz\nTel.: 06136 954195"
+    },
+    {
+        "Number": "478",
+        "Latitude": "50.296721",
+        "Longitude": "8.260104",
+        "Address": "ELAN Station\nDKV-Nr: 0021022\nBahnhofstr. 31 a\nDE-65520 Bad Camberg\nTel.: 06434 8253"
+    },
+    {
+        "Number": "479",
+        "Latitude": "49.85654",
+        "Longitude": "8.359263",
+        "Address": "JET Station\nDKV-Nr: 3418206\nHafenstr. 1\nDE-55276 Oppenheim\nTel.: 06133 925139"
+    },
+    {
+        "Number": "480",
+        "Latitude": "49.856501",
+        "Longitude": "8.359184",
+        "Address": "ACCESS Station\nDKV-Nr: 0021002\nHafenstr. 41\nDE-55276 Oppenheim\nTel.: 06133 9427"
+    },
+    {
+        "Number": "481",
+        "Latitude": "50.226635",
+        "Longitude": "8.200795",
+        "Address": "SHELL Station\nDKV-Nr: 3404044\nNeukirchner Str. 32\nDE-65510 H\u00fcnstetten\nTel.: 06126 9596052"
+    },
+    {
+        "Number": "482",
+        "Latitude": "50.200412",
+        "Longitude": "9.177318",
+        "Address": "SHELL Station\nDKV-Nr: 0004553\nFreigerichter Str. 6\nDE-63571 Gelnhausen\nTel.: 06051 12817"
+    },
+    {
+        "Number": "483",
+        "Latitude": "49.9769073",
+        "Longitude": "9.1530085",
+        "Address": "AGIP Station\nDKV-Nr: 0006054\nPlatanenallee 13\nDE-63739 Aschaffenburg\nTel.: 06021 453208"
+    },
+    {
+        "Number": "484",
+        "Latitude": "49.791644",
+        "Longitude": "8.821217",
+        "Address": "ARAL Station\nDKV-Nr: 0010302\nLichtenberger Str. 66\nDE-64401 Gro\u00df-Bieberau\nTel.: 06162 931427"
+    },
+    {
+        "Number": "485",
+        "Latitude": "49.987135",
+        "Longitude": "9.160023",
+        "Address": "HESSOL Station\nDKV-Nr: 0070488\nSch\u00f6nbornstr. 11\nDE-63741 Aschaffenburg\nTel.: 06021 410332"
+    },
+    {
+        "Number": "486",
+        "Latitude": "49.987228",
+        "Longitude": "9.161696",
+        "Address": "SHELL Station\nDKV-Nr: 3404582\nSch\u00f6nbornstr. 36\nDE-63741 Aschaffenburg\nTel.: 06021 48323"
+    },
+    {
+        "Number": "487",
+        "Latitude": "50.188515",
+        "Longitude": "9.185858",
+        "Address": "HEM Station\nDKV-Nr: 0058106\nL\u00fctzelh\u00e4user Weg 13\nDE-63571 Gelnhausen\nTel.: 06051 888724"
+    },
+    {
+        "Number": "488",
+        "Latitude": "50.054594",
+        "Longitude": "9.194242",
+        "Address": "ARAL Station\nDKV-Nr: 0010891\nKahlgrundstr. 137\nDE-63776 M\u00f6mbris\nTel.: 06029 1654"
+    },
+    {
+        "Number": "489",
+        "Latitude": "49.863284",
+        "Longitude": "8.332953",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051091\nBoschstr. 2\nDE-55283 Nierstein\nTel.: 06133 491802"
+    },
+    {
+        "Number": "490",
+        "Latitude": "50.298589",
+        "Longitude": "8.248753",
+        "Address": "HOYER Station\nDKV-Nr: 0099127\nOtto-Hahn-Str. 3\nDE-65520 Bad Camberg\nTel.: 04262 799274"
+    },
+    {
+        "Number": "491",
+        "Latitude": "49.96477",
+        "Longitude": "9.15119",
+        "Address": "OMV Station\nDKV-Nr: 0071536\nSpessartstr. 74\nDE-63743 Aschaffenburg\nTel.: 0602191724"
+    },
+    {
+        "Number": "492",
+        "Latitude": "50.1410302",
+        "Longitude": "8.1605184",
+        "Address": "SHELL Station\nDKV-Nr: 3404490\nWiesbadener Str. 10\nDE-65232 Taunusstein\nTel.: 06128 3229"
+    },
+    {
+        "Number": "493",
+        "Latitude": "49.845234",
+        "Longitude": "8.36081",
+        "Address": "ARAL Station\nDKV-Nr: 3475340\nAm Wattengraben 2\nDE-55276 Oppenheim\nTel.: 0151 53873826"
+    },
+    {
+        "Number": "494",
+        "Latitude": "50.427208",
+        "Longitude": "8.869947",
+        "Address": "AVIA Station\nDKV-Nr: 3434062\nNiddaer Str. 1\nDE-61200 W\u00f6lfersheim\nTel.: 0661 83910"
+    },
+    {
+        "Number": "495",
+        "Latitude": "50.19535",
+        "Longitude": "9.193025",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 0099261\nLagerhausstr. 4\nDE-63589 Linsengericht\nTel.: 06051 972720"
+    },
+    {
+        "Number": "496",
+        "Latitude": "50.195089",
+        "Longitude": "9.19369",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 0099260\nGelnh\u00e4user Str. 93\nDE-63589 Linsengericht\nTel.: 06051 972722"
+    },
+    {
+        "Number": "497",
+        "Latitude": "49.9698871",
+        "Longitude": "9.1629522",
+        "Address": "ARAL Station\nDKV-Nr: 0010367\nW\u00fcrzburger Str. 59\nDE-63743 Aschaffenburg\nTel.: 06121 930563"
+    },
+    {
+        "Number": "498",
+        "Latitude": "50.310452",
+        "Longitude": "8.252569",
+        "Address": "SHELL Station\nDKV-Nr: 0050567\nLimburger Str. 185 - 187\nDE-65520 Bad Camberg\nTel.: 06434 900075"
+    },
+    {
+        "Number": "499",
+        "Latitude": "49.770993",
+        "Longitude": "8.645688",
+        "Address": "AGIP Station\nDKV-Nr: 0006334\nHeidelberger Str. 35\nDE-64342 Seeheim-Jugenheim\nTel.: 06257 962909"
+    },
+    {
+        "Number": "500",
+        "Latitude": "50.140035",
+        "Longitude": "8.153417",
+        "Address": "SB Station am Supermarkt\nDKV-Nr: 0049207\nKleiststr. 2\nDE-65232 Taunusstein-Hahn"
+    },
+    {
+        "Number": "501",
+        "Latitude": "50.248309",
+        "Longitude": "8.194551",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082109\nAuf der Langwies 5\nDE-65510 H\u00fcnstetten\nTel.: 04251 812235"
+    },
+    {
+        "Number": "502",
+        "Latitude": "50.019198",
+        "Longitude": "8.169113",
+        "Address": "ESSO Station\nDKV-Nr: 0003484\nBinger Str. 74\nDE-55257 Budenheim\nTel.: 06139 6110"
+    },
+    {
+        "Number": "503",
+        "Latitude": "50.300319",
+        "Longitude": "8.236586",
+        "Address": "ARAL Station\nBad Camberg Ost\nDKV-Nr: 0070567\nA 3\nDE-65520 Bad Camberg\nTel.: 06434 6568"
+    },
+    {
+        "Number": "504",
+        "Latitude": "50.433345",
+        "Longitude": "8.494218",
+        "Address": "BFT Station\nDKV-Nr: 3498975\nWeiperfeldener Str. 4\nDE-35647 Waldsolms\nTel.: 0172 7687877"
+    },
+    {
+        "Number": "505",
+        "Latitude": "50.301382",
+        "Longitude": "8.234843",
+        "Address": "SHELL Station\nBad Camberg West\nDKV-Nr: 0004566\nA 3\nDE-65520 Bad Camberg\nTel.: 06434 7039"
+    },
+    {
+        "Number": "506",
+        "Latitude": "49.959196",
+        "Longitude": "8.200484",
+        "Address": "AGIP Station\nDKV-Nr: 0006327\nHindemithstr. 6\nDE-55127 Mainz\nTel.: 06131 71522"
+    },
+    {
+        "Number": "507",
+        "Latitude": "49.913768",
+        "Longitude": "9.12288",
+        "Address": "ARAL Station\nDKV-Nr: 0010719\nAm Kn\u00fcckel 1\nDE-63843 Niedernberg\nTel.: 06027 401675"
+    },
+    {
+        "Number": "508",
+        "Latitude": "50.455841",
+        "Longitude": "8.728739",
+        "Address": "ESSO Station\nDKV-Nr: 0003546\nButzbacher Str. 26\nDE-35516 M\u00fcnzenberg\nTel.: 06033 60139"
+    },
+    {
+        "Number": "509",
+        "Latitude": "50.0334",
+        "Longitude": "8.15752",
+        "Address": "SB Station\nDKV-Nr: 0050340\nHauptstr. 14 a\nDE-65396 Walluf\nTel.: 06123 990336"
+    },
+    {
+        "Number": "510",
+        "Latitude": "49.962613",
+        "Longitude": "9.169121",
+        "Address": "CALPAM Station\nDKV-Nr: 0047013\nS\u00e4lzerweg 19\nDE-63743 Aschaffenburg\nTel.: 06021 585558"
+    },
+    {
+        "Number": "511",
+        "Latitude": "50.45763",
+        "Longitude": "8.736475",
+        "Address": "FREIE Station\nDKV-Nr: 0098122\nAm R\u00f6merhof 2\nDE-35516 M\u00fcnzenberg\nTel.: 06033 9509029"
+    },
+    {
+        "Number": "512",
+        "Latitude": "49.983739",
+        "Longitude": "8.177215",
+        "Address": "ESSO Station\nDKV-Nr: 3403863\nKurmainzstr. 19\nDE-55126 Mainz\nTel.: 06131 472087"
+    },
+    {
+        "Number": "513",
+        "Latitude": "49.93737",
+        "Longitude": "8.210108",
+        "Address": "ESSO Station\nDKV-Nr: 0003980\nPariser Str. 53\nDE-55270 Klein-Winternheim\nTel.: 06136 88243"
+    },
+    {
+        "Number": "514",
+        "Latitude": "50.201343",
+        "Longitude": "9.209403",
+        "Address": "ESSO Station\nDKV-Nr: 0003669\nBarbarossastr. 66\nDE-63571 Gelnhausen\nTel.: 06051 2092"
+    },
+    {
+        "Number": "515",
+        "Latitude": "49.961439",
+        "Longitude": "9.177961",
+        "Address": "ARAL Station\nDKV-Nr: 3470059\nW\u00fcrzburger Str. 190\nDE-63743 Aschaffenburg\nTel.: 06021 31000"
+    },
+    {
+        "Number": "516",
+        "Latitude": "49.983189",
+        "Longitude": "8.17084",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045043\nFlugplatzstr. 26\nDE-55126 Mainz\nTel.: 06131 40805"
+    },
+    {
+        "Number": "517",
+        "Latitude": "50.46166",
+        "Longitude": "8.584694",
+        "Address": "BELL OIL Station\nDKV-Nr: 0010892\nHauptstr. 62\nDE-35428 Langg\u00f6ns\nTel.: 06447 887360"
+    },
+    {
+        "Number": "518",
+        "Latitude": "50.005105",
+        "Longitude": "9.211119",
+        "Address": "ARAL Station\nDKV-Nr: 0010424\nHauptstr. 163\nDE-63768 H\u00f6sbach\nTel.: 06021 8525180"
+    },
+    {
+        "Number": "519",
+        "Latitude": "49.91716",
+        "Longitude": "9.148109",
+        "Address": "CALPAM Station\nDKV-Nr: 0047036\nBahnhofstr. 66\nDE-63834 Sulzbach\nTel.: 06028 9985377"
+    },
+    {
+        "Number": "520",
+        "Latitude": "49.774506",
+        "Longitude": "8.87338",
+        "Address": "SHELL Station\nDKV-Nr: 0004577\nAn der Hornsm\u00fchle 1\nDE-64395 Brensbach\nTel.: 06161 415"
+    },
+    {
+        "Number": "521",
+        "Latitude": "49.964078",
+        "Longitude": "9.189875",
+        "Address": "JET Station\nDKV-Nr: 0018039\nIndustriestr.-Ost 5\nDE-63808 Haibach\nTel.: 06021 69095"
+    },
+    {
+        "Number": "522",
+        "Latitude": "49.7537036",
+        "Longitude": "8.6108315",
+        "Address": "SHELL Station\nDKV-Nr: 0004548\nZwingenberger Str. 6\nDE-64404 Bickenbach\nTel.: 06257 903392"
+    },
+    {
+        "Number": "523",
+        "Latitude": "49.751659",
+        "Longitude": "8.631154",
+        "Address": "AGIP Station\nDKV-Nr: 0006332\nZwingenberger Str. 25\nDE-64342 Seeheim-Jugenheim\nTel.: 06257 903650"
+    },
+    {
+        "Number": "524",
+        "Latitude": "49.769368",
+        "Longitude": "8.495479",
+        "Address": "SHELL Station\nDKV-Nr: 3404598\nRobert-Bunsen-Str. 54\nDE-64579 Gernsheim\nTel.: 06258 941949"
+    },
+    {
+        "Number": "525",
+        "Latitude": "49.76963",
+        "Longitude": "8.49324",
+        "Address": "BFT Station\nDKV-Nr: 3499817\nRobert-Bunsen-Str. 46\nDE-64579 Gernsheim\nTel.: 06204 9776440"
+    },
+    {
+        "Number": "526",
+        "Latitude": "50.005984",
+        "Longitude": "9.221038",
+        "Address": "SHELL Station\nDKV-Nr: 3404679\nIndustriestr. 1\nDE-63768 H\u00f6sbach\nTel.: 06021 599031"
+    },
+    {
+        "Number": "527",
+        "Latitude": "49.964876",
+        "Longitude": "9.19825",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082074\nW\u00fcrzburger Str. 75\nDE-63808 Haibach\nTel.: 06021 69931"
+    },
+    {
+        "Number": "528",
+        "Latitude": "49.909132",
+        "Longitude": "9.151236",
+        "Address": "OIL! Station\nDKV-Nr: 3474089\nBahnhofstr. 86\nDE-63834 Sulzbach am Main"
+    },
+    {
+        "Number": "529",
+        "Latitude": "50.082147",
+        "Longitude": "9.246342",
+        "Address": "AGIP Station\nDKV-Nr: 3406383\nAschaffenburger Str. 42\nDE-63825 Sch\u00f6llkrippen"
+    },
+    {
+        "Number": "530",
+        "Latitude": "49.815163",
+        "Longitude": "9.011466",
+        "Address": "ELAN Station\nDKV-Nr: 0051036\nH\u00f6chster Str. 33\nDE-64747 Breuberg\nTel.: 06163 3359"
+    },
+    {
+        "Number": "531",
+        "Latitude": "50.054165",
+        "Longitude": "8.121014",
+        "Address": "STAR Station\nDKV-Nr: 0002479\nM\u00fchlbergweg 1\nDE-65344 Eltville am Rhein\nTel.: 06123 72836"
+    },
+    {
+        "Number": "532",
+        "Latitude": "50.40858",
+        "Longitude": "9.013189",
+        "Address": "ARAL Station\nDKV-Nr: 0070784\nRaun 112\nDE-63667 Nidda\nTel.: 06043 2456"
+    },
+    {
+        "Number": "533",
+        "Latitude": "50.056278",
+        "Longitude": "8.119449",
+        "Address": "ARAL Station\nDKV-Nr: 0070666\nSchlangenbader Str. 8\nDE-65344 Eltville am Rhein\nTel.: 06123 71407"
+    },
+    {
+        "Number": "534",
+        "Latitude": "50.209208",
+        "Longitude": "9.234617",
+        "Address": "AGIP Station\nDKV-Nr: 3406351\nLeipziger Allee 40\nDE-63571 Gelnhausen\nTel.: 06051 9711372"
+    },
+    {
+        "Number": "535",
+        "Latitude": "49.747085",
+        "Longitude": "8.591802",
+        "Address": "SHELL Station\nAlsbach West\nDKV-Nr: 0004797\nA 5\nDE-64665 Alsbach-H\u00e4hnlein\nTel.: 06257 3922"
+    },
+    {
+        "Number": "536",
+        "Latitude": "50.338353",
+        "Longitude": "8.227065",
+        "Address": "AVIA Station\nDKV-Nr: 0098985\nHaintchener Str. 3\nDE-65618 Selters (Taunus)\nTel.: 06483 806103"
+    },
+    {
+        "Number": "537",
+        "Latitude": "49.9076339",
+        "Longitude": "8.1992026",
+        "Address": "SHELL Station\nDKV-Nr: 0004060\nPariser Str. 131\nDE-55268 Nieder-Olm\nTel.: 06136 2688"
+    },
+    {
+        "Number": "538",
+        "Latitude": "50.00177",
+        "Longitude": "8.12991",
+        "Address": "BFT Station\nDKV-Nr: 3499814\nBudenheimer Weg 69\nDE-55262 Heidesheim\nTel.: 06204 9776440"
+    },
+    {
+        "Number": "539",
+        "Latitude": "49.907277",
+        "Longitude": "8.199052",
+        "Address": "ARAL Station\nDKV-Nr: 3470045\nPariser Str. 142\nDE-55268 Nieder-Olm\nTel.: 06136 2201"
+    },
+    {
+        "Number": "540",
+        "Latitude": "50.4200643",
+        "Longitude": "9.0091715",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051285\nHoherodskopfstr. 2\nDE-63667 Nidda\nTel.: 06043 7031"
+    },
+    {
+        "Number": "541",
+        "Latitude": "49.759451",
+        "Longitude": "8.483698",
+        "Address": "OIL! Station\nDKV-Nr: 0074016\nMainzer Str. 22\nDE-64579 Gernsheim\nTel.: 06258 3035"
+    },
+    {
+        "Number": "542",
+        "Latitude": "50.0241356",
+        "Longitude": "8.116059",
+        "Address": "ARAL Station\nDKV-Nr: 3475327\nErbacher Str. 2\nDE-65343 Eltville am Rhein\nTel.: 06123 2483"
+    },
+    {
+        "Number": "543",
+        "Latitude": "49.795336",
+        "Longitude": "8.998887",
+        "Address": "JET Station\nDKV-Nr: 3418155\nErbacher Str. 57\nDE-64739 H\u00f6chst im Odenwald\nTel.: 06163 912109"
+    },
+    {
+        "Number": "544",
+        "Latitude": "50.434095",
+        "Longitude": "8.374488",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3451287\nWeilstr. 112\nDE-35789 Weilm\u00fcnster\nTel.: 06472 8313603"
+    },
+    {
+        "Number": "545",
+        "Latitude": "49.913223",
+        "Longitude": "8.177658",
+        "Address": "SHELL Station\nDKV-Nr: 3404607\nAm Giener 25\nDE-55268 Nieder-Olm\nTel.: 06136 922080"
+    },
+    {
+        "Number": "546",
+        "Latitude": "49.73664",
+        "Longitude": "8.566257",
+        "Address": "CALPAM Station\nDKV-Nr: 0047044\nGernsheimer Str. 92\nDE-64665 Alsbach\nTel.: 06257 2511"
+    },
+    {
+        "Number": "547",
+        "Latitude": "50.467421",
+        "Longitude": "8.89708",
+        "Address": "HESSOL Station\nDKV-Nr: 0010988\nFriedberger Str. 22\nDE-35410 Hungen\nTel.: 06402 8093512"
+    },
+    {
+        "Number": "548",
+        "Latitude": "50.492788",
+        "Longitude": "8.648804",
+        "Address": "FREIE Station\nDKV-Nr: 3498768\nPerchstetten 4 - 6\nDE-35428 Langg\u00f6ns\nTel.: 06403 5018"
+    },
+    {
+        "Number": "549",
+        "Latitude": "49.729491",
+        "Longitude": "8.609609",
+        "Address": "ELAN Station\nDKV-Nr: 0051180\nDarmst\u00e4dter Str. 44\nDE-64673 Zwingenberg\nTel.: 06251 71746"
+    },
+    {
+        "Number": "550",
+        "Latitude": "50.002405",
+        "Longitude": "8.109219",
+        "Address": "AGIP Station\nDKV-Nr: 3406413\nA 60\nDE-55262 Heidesheim am Rhein\nTel.: 06132 56539"
+    },
+    {
+        "Number": "551",
+        "Latitude": "50.496231",
+        "Longitude": "8.648697",
+        "Address": "MENGIN Station\nDKV-Nr: 0098939\nMandlerweg 1\nDE-35428 Langg\u00f6ns\nTel.: 06403 7785990"
+    },
+    {
+        "Number": "552",
+        "Latitude": "50.149114",
+        "Longitude": "8.082021",
+        "Address": "CALPAM Station\nDKV-Nr: 0047028\nBahnhofstr. 35\nDE-65307 Bad Schwalbach\nTel.: 06124 7789619"
+    },
+    {
+        "Number": "553",
+        "Latitude": "49.777575",
+        "Longitude": "8.371378",
+        "Address": "OIL! Station\nDKV-Nr: 0074150\nAlsheimer Str. 10\nDE-67578 Gimbsheim\nTel.: 06249 4289"
+    },
+    {
+        "Number": "554",
+        "Latitude": "50.309616",
+        "Longitude": "8.160662",
+        "Address": "SHELL Station\nDKV-Nr: 0050568\nHainbuchenstr. 1\nDE-65597 H\u00fcnfelden-Kirberg\nTel.: 06438 2224"
+    },
+    {
+        "Number": "555",
+        "Latitude": "50.501162",
+        "Longitude": "8.675337",
+        "Address": "ROTH Station\nDKV-Nr: 3498036\nLeihgesterner Str. 19\nDE-35428 Langg\u00f6ns"
+    },
+    {
+        "Number": "556",
+        "Latitude": "50.009949",
+        "Longitude": "9.278356",
+        "Address": "SHELL Station\nDKV-Nr: 3404759\nHauptstr. 89\nDE-63846 Laufach\nTel.: 06093 500"
+    },
+    {
+        "Number": "557",
+        "Latitude": "50.333607",
+        "Longitude": "9.200492",
+        "Address": "AVIA XPRESS Station\nDKV-Nr: 3434068\nWehrtbornstr. 60\nDE-63654 Wolferborn\nTel.: 0661 83910"
+    },
+    {
+        "Number": "558",
+        "Latitude": "49.846631",
+        "Longitude": "9.151493",
+        "Address": "ARAL Station\nDKV-Nr: 0070348\nR\u00f6merstr. 98\nDE-63785 Obernburg am Main\nTel.: 06022 72033"
+    },
+    {
+        "Number": "559",
+        "Latitude": "50.492095",
+        "Longitude": "8.475936",
+        "Address": "MENGIN Station\nDKV-Nr: 0099829\nSteuterweg 23\nDE-35641 Sch\u00f6ffengrund\nTel.: 06403 7785999"
+    },
+    {
+        "Number": "560",
+        "Latitude": "49.980906",
+        "Longitude": "9.275288",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445014\nAm Heerbach 1\nDE-63857 Waldaschaff\nTel.: 06095 3373"
+    },
+    {
+        "Number": "561",
+        "Latitude": "49.855946",
+        "Longitude": "9.168043",
+        "Address": "ARAL Station\nDKV-Nr: 3475021\nIm H\u00f6ning 22\nDE-63820 Elsenfeld\nTel.: 06022 5062265"
+    },
+    {
+        "Number": "562",
+        "Latitude": "49.837387",
+        "Longitude": "9.143573",
+        "Address": "BFT Station\nDKV-Nr: 3499571\nMiltenberger Str. 13 a\nDE-63785 Obernburg\nTel.: 06022 1257"
+    },
+    {
+        "Number": "563",
+        "Latitude": "50.504911",
+        "Longitude": "8.832262",
+        "Address": "ROTH Station\nDKV-Nr: 3498022\nHungener Str. 73\nDE-35423 Lich"
+    },
+    {
+        "Number": "564",
+        "Latitude": "49.901414",
+        "Longitude": "9.221258",
+        "Address": "AVIA Station\nDKV-Nr: 0023112\nHauptstr. 110\nDE-63849 Leidersbach\nTel.: 06028 4482"
+    },
+    {
+        "Number": "565",
+        "Latitude": "49.707036",
+        "Longitude": "8.617702",
+        "Address": "JET Station\nDKV-Nr: 3418188\nDarmst\u00e4dter Str. 238\nDE-64625 Bensheim\nTel.: 06251 789015"
+    },
+    {
+        "Number": "566",
+        "Latitude": "49.78826",
+        "Longitude": "9.0653",
+        "Address": "AVIA Station\nDKV-Nr: 3434050\nM\u00fcmlingstr. 70\nDE-64750 L\u00fctzelbach\nTel.: 06165 1305"
+    },
+    {
+        "Number": "567",
+        "Latitude": "49.722502",
+        "Longitude": "8.868198",
+        "Address": "ARAL Station\nDKV-Nr: 0010926\nSiegfriedstr. 64\nDE-64385 Reichelsheim\nTel.: 06164 1214"
+    },
+    {
+        "Number": "568",
+        "Latitude": "49.856693",
+        "Longitude": "9.175832",
+        "Address": "ROTH Station\nDKV-Nr: 3498039\nDaimlerring 22\nDE-63839 Kleinwallstadt\nTel.: 06483 7703"
+    },
+    {
+        "Number": "569",
+        "Latitude": "49.757905",
+        "Longitude": "8.99909",
+        "Address": "BFT Station\nDKV-Nr: 0098788\nErbacher Str. 26\nDE-64732 Bad K\u00f6nig\nTel.: 06063 1474"
+    },
+    {
+        "Number": "570",
+        "Latitude": "50.51821367849",
+        "Longitude": "8.625831912254",
+        "Address": "BFT Station\nDKV-Nr: 3499740\nDorfgraben 1\nDE-35625 H\u00fcttenberg\nTel.: 06403 779990"
+    },
+    {
+        "Number": "571",
+        "Latitude": "49.840255",
+        "Longitude": "9.158075",
+        "Address": "OIL! Station\nDKV-Nr: 0074087\nErlenbacher Str. 12\nDE-63820 Elsenfeld\nTel.: 06022 623710"
+    },
+    {
+        "Number": "572",
+        "Latitude": "50.013741",
+        "Longitude": "8.063675",
+        "Address": "SHELL Station\nDKV-Nr: 0004681\nRheinallee 2\nDE-65347 Eltville am Rhein\nTel.: 0672 35815"
+    },
+    {
+        "Number": "573",
+        "Latitude": "50.43745",
+        "Longitude": "8.29107",
+        "Address": "BFT Station\nDKV-Nr: 3498877\nElkersh\u00e4user Str. 29\nDE-35796 Weinbach\nTel.: 06471 942015"
+    },
+    {
+        "Number": "574",
+        "Latitude": "49.710127",
+        "Longitude": "8.833346",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051132\nHeidelberger Str. 71\nDE-64385 Reichelsheim\nTel.: 06164 913955"
+    },
+    {
+        "Number": "575",
+        "Latitude": "50.361681",
+        "Longitude": "8.170588",
+        "Address": "ARAL Station\nDKV-Nr: 0010109\nLimburger Str. 15\nDE-65611 Brechen\nTel.: 06438 914532"
+    },
+    {
+        "Number": "576",
+        "Latitude": "49.699483",
+        "Longitude": "8.610873",
+        "Address": "HEM Station\nDKV-Nr: 0058103\nBerliner Ring 139\nDE-64625 Bensheim\nTel.: 06251 703520"
+    },
+    {
+        "Number": "577",
+        "Latitude": "50.250985",
+        "Longitude": "9.289852",
+        "Address": "GLOBUS Station\nDKV-Nr: 0040023\nMain-Kinzig-Str. 21\nDE-63607 W\u00e4chtersbach"
+    },
+    {
+        "Number": "578",
+        "Latitude": "49.695694",
+        "Longitude": "8.660504",
+        "Address": "AVIA Station\nDKV-Nr: 3434045\nNibelungenstr. 332\nDE-64625 Bensheim\nTel.: 06251 2458"
+    },
+    {
+        "Number": "579",
+        "Latitude": "49.696895",
+        "Longitude": "8.621736",
+        "Address": "AGIP Station\nDKV-Nr: 0006320\nDarmst\u00e4dter Str. 136\nDE-64625 Bensheim\nTel.: 06251 983733"
+    },
+    {
+        "Number": "580",
+        "Latitude": "50.5219817",
+        "Longitude": "8.5724359",
+        "Address": "ARAL Station\nDKV-Nr: 0010327\nFrankfurter Str. 12\nDE-35625 H\u00fcttenberg\nTel.: 06441 74273"
+    },
+    {
+        "Number": "581",
+        "Latitude": "50.249716",
+        "Longitude": "9.295034",
+        "Address": "ESSO Station\nDKV-Nr: 0003743\nIndustriestr. 31\nDE-63607 W\u00e4chtersbach\nTel.: 06053 617605"
+    },
+    {
+        "Number": "582",
+        "Latitude": "50.524587",
+        "Longitude": "8.59309",
+        "Address": "TP24Automat\nDKV-Nr: 0081399\nAm Surbach 3\nDE-35625 H\u00fcttenberg"
+    },
+    {
+        "Number": "583",
+        "Latitude": "49.69506",
+        "Longitude": "8.62242",
+        "Address": "ESSO Station\nDKV-Nr: 3403009\nDarmst\u00e4dter Str. 113\nDE-64625 Bensheim\nTel.: 06251/1039150"
+    },
+    {
+        "Number": "584",
+        "Latitude": "50.524669",
+        "Longitude": "8.593036",
+        "Address": "ROTH Station\nDKV-Nr: 3498034\nAm Surbach 3\nDE-35625 H\u00fcttenberg"
+    },
+    {
+        "Number": "585",
+        "Latitude": "49.747741",
+        "Longitude": "9.003307",
+        "Address": "ESSO Station\nDKV-Nr: 0003602\nFrankfurter Str. 75\nDE-64732 Bad K\u00f6nig\nTel.: 06063 5779733"
+    },
+    {
+        "Number": "586",
+        "Latitude": "50.394543",
+        "Longitude": "8.201112",
+        "Address": "FREIE Station\nDKV-Nr: 0099340\nBrotweg 4\nDE-65606 Villmar\nTel.: 06482 9490340"
+    },
+    {
+        "Number": "587",
+        "Latitude": "50.528154",
+        "Longitude": "8.749108",
+        "Address": "ROTH Station\nDKV-Nr: 3498028\nAm Pfahlgraben 14\nDE-35415 Pohlheim"
+    },
+    {
+        "Number": "588",
+        "Latitude": "50.401102",
+        "Longitude": "9.154986",
+        "Address": "FREIE Station\nDKV-Nr: 0098400\nGederner Str. 4\nDE-63697 Hirzenhain\nTel.: 06045 951614"
+    },
+    {
+        "Number": "589",
+        "Latitude": "50.233286",
+        "Longitude": "8.056111",
+        "Address": "SHELL Station\nDKV-Nr: 0050426\nIm Aartal 9\nDE-65326 Aarbergen\nTel.: 06120 92355"
+    },
+    {
+        "Number": "590",
+        "Latitude": "50.522694",
+        "Longitude": "8.816979",
+        "Address": "AVIA Station\nDKV-Nr: 3498741\nGie\u00dfener Str. 28\nDE-35423 Lich\nTel.: 06404 2507"
+    },
+    {
+        "Number": "591",
+        "Latitude": "50.529061",
+        "Longitude": "8.606426",
+        "Address": "SHELL Station\nDKV-Nr: 0004270\nRheinfelser Str. 101\nDE-35398 Gie\u00dfen\nTel.: 06403 77537-23"
+    },
+    {
+        "Number": "592",
+        "Latitude": "50.16089",
+        "Longitude": "9.333159",
+        "Address": "FREIE Station\nDKV-Nr: 3498905\nB\u00fcchelbach 8\nDE-63599 Biebergem\u00fcnd\nTel.: 06050 1890"
+    },
+    {
+        "Number": "593",
+        "Latitude": "50.362681",
+        "Longitude": "8.154898",
+        "Address": "SHELL Station\nDKV-Nr: 0050373\nLimburger Str. 108\nDE-65611 Brechen\nTel.: 06438 2218"
+    },
+    {
+        "Number": "594",
+        "Latitude": "50.532242",
+        "Longitude": "8.659399",
+        "Address": "MENGIN Station\nDKV-Nr: 0098938\nSudetenstr. 22\nDE-35440 Linden\nTel.: 06403 7785990"
+    },
+    {
+        "Number": "595",
+        "Latitude": "50.532519",
+        "Longitude": "8.650129",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045042\nFrankfurter Str. 2\nDE-35440 Linden\nTel.: 06403 2522"
+    },
+    {
+        "Number": "596",
+        "Latitude": "50.524403",
+        "Longitude": "8.817617",
+        "Address": "ARAL Station\nDKV-Nr: 0010044\nGie\u00dfener Str. 29\nDE-35423 Lich\nTel.: 06404 950220"
+    },
+    {
+        "Number": "597",
+        "Latitude": "50.533211",
+        "Longitude": "8.705689",
+        "Address": "AVIA Station\nDKV-Nr: 0098986\nWilhelmstr. 23\nDE-35415 Pohlheim\nTel.: 06403 61097"
+    },
+    {
+        "Number": "598",
+        "Latitude": "49.842746",
+        "Longitude": "8.174928",
+        "Address": "OIL! Station\nDKV-Nr: 0074148\nW\u00f6rrst\u00e4dter Str. 33\nDE-55288 Schornsheim\nTel.: 06732 916540"
+    },
+    {
+        "Number": "599",
+        "Latitude": "50.155422",
+        "Longitude": "8.026639",
+        "Address": "SHELL Station\nDKV-Nr: 0050431\nAn der Bundesstr. 260\nDE-65321 Heidenrod\nTel.: 06124 2456"
+    },
+    {
+        "Number": "600",
+        "Latitude": "49.688968",
+        "Longitude": "8.603078",
+        "Address": "ARAL Station\nBergstra\u00dfe Ost\nDKV-Nr: 0070921\nA 5\nDE-64625 Bensheim\nTel.: 06251 65100"
+    },
+    {
+        "Number": "601",
+        "Latitude": "50.536051",
+        "Longitude": "8.674886",
+        "Address": "FREIE Station\nCardtank 24\nDKV-Nr: 3498748\nGiessener Str. 95\nDE-35440 Linden\nTel.: 06033 950900"
+    },
+    {
+        "Number": "602",
+        "Latitude": "49.979043",
+        "Longitude": "8.054132",
+        "Address": "ARAL Station\nDKV-Nr: 0070614\nKonrad-Adenauer-Str. 15\nDE-55218 Ingelheim am Rhein\nTel.: 06132 431937"
+    },
+    {
+        "Number": "603",
+        "Latitude": "49.720921",
+        "Longitude": "8.948155",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082095\nOberd\u00f6rfer Str. 20\nDE-64753 Brombachtal\nTel.: 06063 2327"
+    },
+    {
+        "Number": "604",
+        "Latitude": "50.506204",
+        "Longitude": "8.933226",
+        "Address": "FREIE Station\nCardtank 24\nDKV-Nr: 3498747\nKreuzstr. 3 - 5\nDE-35410 Hungen\nTel.: 06033 950900"
+    },
+    {
+        "Number": "605",
+        "Latitude": "50.537879",
+        "Longitude": "8.65374",
+        "Address": "AGIP Station\nDKV-Nr: 0006004\nRobert-Bosch-Str. 14\nDE-35440 Linden\nTel.: 06403 72026"
+    },
+    {
+        "Number": "606",
+        "Latitude": "50.54",
+        "Longitude": "8.653889",
+        "Address": "METRO C&C Station\nDKV-Nr: 0018402\nSiemensstr. 7\nDE-35440 Linden\nTel.: 06403 779433"
+    },
+    {
+        "Number": "607",
+        "Latitude": "50.542505",
+        "Longitude": "8.70578",
+        "Address": "MENGIN Station\nDKV-Nr: 0098943\nGie\u00dfener Str. 126\nDE-35415 Pohlheim\nTel.: 06403 7785999"
+    },
+    {
+        "Number": "608",
+        "Latitude": "49.92967233993",
+        "Longitude": "9.290952853953",
+        "Address": "BFT Station\nDKV-Nr: 3499764\nHauptstr. 8\nDE-63875 Mespelbrunn\nTel.: 06092 8231614"
+    },
+    {
+        "Number": "609",
+        "Latitude": "49.80637",
+        "Longitude": "9.158531",
+        "Address": "SHELL Station\nDKV-Nr: 0050092\nElsenfelder Str. 34\nDE-63906 Erlenbach\nTel.: 09372 941819"
+    },
+    {
+        "Number": "610",
+        "Latitude": "49.768017",
+        "Longitude": "8.265249",
+        "Address": "AVIA XPRESS Station\nDKV-Nr: 3434000\nJahnstr. 2\nDE-67585 Dorn-D\u00fcrkheim\nTel.: 0661 83910"
+    },
+    {
+        "Number": "611",
+        "Latitude": "50.5379352",
+        "Longitude": "8.5361778",
+        "Address": "JET Station\nDKV-Nr: 0018190\nH\u00f6rnsheimer Eck 2\nDE-35578 Wetzlar\nTel.: 06441 8706902"
+    },
+    {
+        "Number": "612",
+        "Latitude": "49.676054",
+        "Longitude": "8.6117097",
+        "Address": "ARAL Station\nDKV-Nr: 0070216\nWormser Str. 53\nDE-64625 Bensheim\nTel.: 06251 2416"
+    },
+    {
+        "Number": "613",
+        "Latitude": "49.797742",
+        "Longitude": "9.156831",
+        "Address": "BFT Station\nDKV-Nr: 0098289\nLandstr. 6 a\nDE-63939 W\u00f6rth am Main\nTel.: 09372 8873"
+    },
+    {
+        "Number": "614",
+        "Latitude": "50.233931",
+        "Longitude": "9.337714",
+        "Address": "AVIA XPRESS Station\nDKV-Nr: 0034037\nGewerbestr. 30\nDE-63619 Bad Orb\nTel.: 0661 83910"
+    },
+    {
+        "Number": "615",
+        "Latitude": "49.694754",
+        "Longitude": "8.465244",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045327\nDarmst\u00e4dter Str. 143\nDE-68647 Biblis\nTel.: 06245 2007479"
+    },
+    {
+        "Number": "616",
+        "Latitude": "50.312297",
+        "Longitude": "9.291392",
+        "Address": "ESSO Station\nDKV-Nr: 0003952\nBirsteiner Str. 49\nDE-63636 Brachttal\nTel.: 06054 458"
+    },
+    {
+        "Number": "617",
+        "Latitude": "50.302858",
+        "Longitude": "8.064233",
+        "Address": "ESSO Station\nDKV-Nr: 0003690\nAarstr. 57\nDE-65623 Hahnst\u00e4tten\nTel.: 06430 7033"
+    },
+    {
+        "Number": "618",
+        "Latitude": "49.840024",
+        "Longitude": "8.14288",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3451336\nSophie-Opel-Str. 4\nDE-55286 W\u00f6rrstadt\nTel.: 17641323607"
+    },
+    {
+        "Number": "619",
+        "Latitude": "49.693193",
+        "Longitude": "8.463595",
+        "Address": "ESSO Station\nDKV-Nr: 3403135\nDarmst\u00e4dter Str. 129\nDE-68647 Biblis"
+    },
+    {
+        "Number": "620",
+        "Latitude": "50.2291423",
+        "Longitude": "9.3437382",
+        "Address": "ARAL Station\nDKV-Nr: 0010751\nFrankfurter Str. 11\nDE-63619 Bad Orb\nTel.: 06052 900313"
+    },
+    {
+        "Number": "621",
+        "Latitude": "49.672856",
+        "Longitude": "8.597381",
+        "Address": "ARAL Station\nDKV-Nr: 0070478\nAmp\u00e8restr. 1\nDE-64625 Bensheim\nTel.: 06251 581734"
+    },
+    {
+        "Number": "622",
+        "Latitude": "49.852615",
+        "Longitude": "8.123177",
+        "Address": "ARAL Station\nDKV-Nr: 0070524\nOber-Saulheimer-Str. 15\nDE-55286 W\u00f6rrstadt\nTel.: 06732 1403"
+    },
+    {
+        "Number": "623",
+        "Latitude": "50.372832",
+        "Longitude": "8.122072",
+        "Address": "ED Station\nDKV-Nr: 0068063\nFrankfurter Str. 13\nDE-65551 Limburg an der Lahn\nTel.: 06431 973940"
+    },
+    {
+        "Number": "624",
+        "Latitude": "50.480929",
+        "Longitude": "8.2917536",
+        "Address": "Q1 Waschstation\nDKV-Nr: 0049233\nAuf der Platte 2\nDE-35781 Weilburg\nTel.: 0541 602521"
+    },
+    {
+        "Number": "625",
+        "Latitude": "50.517626",
+        "Longitude": "8.392605",
+        "Address": "AGIP Station\nDKV-Nr: 0006898\nKaiser-Friedrich-Str. 1A\nDE-35619 Braunfels\nTel.: 06442 9320047"
+    },
+    {
+        "Number": "626",
+        "Latitude": "49.971515",
+        "Longitude": "8.0226",
+        "Address": "SHELL Station\nDKV-Nr: 3404417\nRheinstr. 53\nDE-55435 Gau-Algesheim\nTel.: 06725 6940"
+    },
+    {
+        "Number": "627",
+        "Latitude": "49.670447",
+        "Longitude": "8.551571",
+        "Address": "ESSO Station\nDKV-Nr: 0003417\nMathildenstr. 69 - 71\nDE-64683 Einhausen\nTel.: 06251 51199"
+    },
+    {
+        "Number": "628",
+        "Latitude": "49.83972",
+        "Longitude": "8.12625",
+        "Address": "BFT Station\nDKV-Nr: 3403213\nHinter dem Turm 3\nDE-55286 W\u00f6rrstadt\nTel.: 06204 9776440"
+    }
+]

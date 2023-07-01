@@ -1,5 +1,6 @@
 from selenium import webdriver
 import pandas as pd
+import json
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
@@ -8,9 +9,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 LINK = 'https://www.dkv-euroservice.com/DKVMaps/'
 LOCATION = "Frankfurt"
-AREA = 'Range: 10 km'
+AREA = 'Range: 50 km'
 
-coordinates = []
+coordinates_list = []
+coordinates_list_2 = []
 
 options = Options()
 options.add_experimental_option('detach', True)
@@ -61,15 +63,21 @@ for index in range(1, result_count+1):
 
     lat_data = data.text.split(" ")[0]
     lon_data = data.text.split(" ")[2]
+    address = address_full.text
     print(index.text, lat_data, lon_data)
 
-    coordinates.append([index.text, lat_data, lon_data, address_full.text])
+    coordinates_list.append([index.text, lat_data, lon_data, address])
+    coordinates_list_2.append({'Number': index.text, 'Latitude': lat_data, 'Longitude': lon_data, 'Address': address})
 
     for scrolling in range(1, 6):
         WebDriverWait(scrollbar, 40).until(EC.presence_of_all_elements_located((By.TAG_NAME, "img")))[2].click()
 
-df = pd.DataFrame(coordinates, columns=['Number', 'Latitude', 'Longitude', 'Address'])
 
-df.to_csv('DKV Coords' + f'-{LOCATION}-{AREA.split(" ")[1]}km' + '.csv')
+file_name = 'DKV Coords' + f'-{LOCATION}-{AREA.split(" ")[1]}km'
+df = pd.DataFrame(coordinates_list, columns=['Number', 'Latitude', 'Longitude', 'Address'])
+df.to_csv(file_name + '.csv')
+
+with open(file_name + '.json', 'w') as outfile:
+    json.dump(coordinates_list_2, outfile, indent=4)
 
 # driver.quit()
