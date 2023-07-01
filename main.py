@@ -7,7 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 LINK = 'https://www.dkv-euroservice.com/DKVMaps/'
-LOCATION_AREA = "Frankfurt"
+LOCATION = "Frankfurt"
+AREA = 'Range: 10 km'
 
 coordinates = []
 
@@ -17,16 +18,20 @@ driver = webdriver.Chrome(options=options)
 
 driver.get(LINK)
 
-# Popup Button Click
+# Popup Button - Click
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler"))).click()
 
-# Search Bar Type Location
-WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="isc_26"]'))).send_keys(LOCATION_AREA)
+# Search Bar - Type Location
+WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="isc_26"]'))).send_keys(LOCATION)
 
-# Find Button Click
+# Range - Dropdown Menu
+WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="isc_29"]'))).clear()
+WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="isc_29"]'))).send_keys(AREA)
+
+# Find Button - Click
 WebDriverWait(driver, 50).until(EC.element_to_be_clickable((By.ID, "isc_21"))).click()
 
-result_count = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, 'sstCount')))
+result_count = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.CLASS_NAME, 'sstCount')))
 result_count = int(result_count.text)
 
 print("Number of Location: " + str(result_count))
@@ -43,30 +48,28 @@ scrollbar = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.C
 
 print("Coordinates:")
 
-for i in range(1, result_count+1):
-    xpath_to_list_item = f'//*[@id="isc_9Atable"]/tbody/tr[{i}]/td[1]'
-    xpath_to_list_item_index = f'//*[@id="isc_9Atable"]/tbody/tr[{i}]/td[1]/div'
-    xpath_to_list_item_address = f'//*[@id="isc_9Atable"]/tbody/tr[{i}]/td[2]/div/div'
+for index in range(1, result_count+1):
+    xpath_to_list_item = f'//*[@id="isc_9Atable"]/tbody/tr[{index}]/td[1]'
+    xpath_to_list_item_index = f'//*[@id="isc_9Atable"]/tbody/tr[{index}]/td[1]/div'
+    xpath_to_list_item_address = f'//*[@id="isc_9Atable"]/tbody/tr[{index}]/td[2]/div/div'
 
     WebDriverWait(driver, 50).until(EC.element_to_be_clickable((By.XPATH, xpath_to_list_item))).click()
-    index = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, xpath_to_list_item_index)))
-    address = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, xpath_to_list_item_address)))
 
+    index = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, xpath_to_list_item_index)))
+    address_full = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.XPATH, xpath_to_list_item_address)))
     data = WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.CLASS_NAME, 'mapBalloonGeoposCoords')))
 
     lat_data = data.text.split(" ")[0]
     lon_data = data.text.split(" ")[2]
-
     print(index.text, lat_data, lon_data)
 
-    coordinates.append([index.text, lat_data, lon_data, address.text])
+    coordinates.append([index.text, lat_data, lon_data, address_full.text])
 
-    for j in range(1, 6):
+    for scrolling in range(1, 6):
         WebDriverWait(scrollbar, 40).until(EC.presence_of_all_elements_located((By.TAG_NAME, "img")))[2].click()
-        j = j+1
 
 df = pd.DataFrame(coordinates, columns=['Number', 'Latitude', 'Longitude', 'Address'])
 
-df.to_csv('DKV Coords.csv')
+df.to_csv('DKV Coords' + f'-{LOCATION}-{AREA.split(" ")[1]}km' + '.csv')
 
-driver.quit()
+# driver.quit()
