@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 LINK = 'https://www.dkv-euroservice.com/DKVMaps/'
 LOCATION = "Paderborn"
-AREA = 'Range: 5 km'
+AREA = 'Range: 10 km'
 
 coordinates_list = []
 coordinates_list_2 = []
