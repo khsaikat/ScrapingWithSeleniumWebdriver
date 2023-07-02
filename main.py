@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 LINK = 'https://www.dkv-euroservice.com/DKVMaps/'
 # Location of the search
 LOCATION = "Bonn"
-# Range of search
+# Range of search (1, 5, 10, 20, 50)
 AREA = 'Range: 5 km'
 
 # This list is for CSV files. It will be best suited for conversion.
