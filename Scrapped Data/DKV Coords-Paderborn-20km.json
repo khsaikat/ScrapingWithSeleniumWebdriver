@@ -1,0 +1,380 @@
+[
+    {
+        "Number": "1",
+        "Latitude": "51.710725",
+        "Longitude": "8.74646",
+        "Address": "ARAL Station\nDKV-Nr: 0071439\nBorchener Str. 42\nDE-33098 Paderborn\nTel.: 05251 72335"
+    },
+    {
+        "Number": "2",
+        "Latitude": "51.732231",
+        "Longitude": "8.764933",
+        "Address": "ARAL Station\nDKV-Nr: 0070410\nDetmolder Str. 75\nDE-33100 Paderborn\nTel.: 05251 527584"
+    },
+    {
+        "Number": "3",
+        "Latitude": "51.712618",
+        "Longitude": "8.736459",
+        "Address": "ARAL Station\nDKV-Nr: 0010108\nBahnhofstr. 58\nDE-33102 Paderborn\nTel.: 05251 37111"
+    },
+    {
+        "Number": "4",
+        "Latitude": "51.726194",
+        "Longitude": "8.735155",
+        "Address": "Q1 Station\nDKV-Nr: 0049148\nNeuh\u00e4user Str. 102\nDE-33102 Paderborn\nTel.: 05251 870944"
+    },
+    {
+        "Number": "5",
+        "Latitude": "51.712153",
+        "Longitude": "8.733916",
+        "Address": "MARKANT Station\nDKV-Nr: 0096074\nBahnhofstr. 76\nDE-33102 Paderborn\nTel.: 05251 34367"
+    },
+    {
+        "Number": "6",
+        "Latitude": "51.703468",
+        "Longitude": "8.76657",
+        "Address": "REAL Station\nDKV-Nr: 0018261\nHusener Str. 121\nDE-33100 Paderborn\nTel.: 05251 61601"
+    },
+    {
+        "Number": "7",
+        "Latitude": "51.734733",
+        "Longitude": "8.767004",
+        "Address": "WESTFALEN Station\nDKV-Nr: 0096007\nDetmolder Str. 112\nDE-33100 Paderborn\nTel.: 05251 56824"
+    },
+    {
+        "Number": "8",
+        "Latitude": "51.706226",
+        "Longitude": "8.777159",
+        "Address": "ARAL Station\nDKV-Nr: 3470025\nWarburger Str. 128\nDE-33100 Paderborn\nTel.: 05251 62703"
+    },
+    {
+        "Number": "9",
+        "Latitude": "51.706638",
+        "Longitude": "8.72941",
+        "Address": "SHELL Station\nDKV-Nr: 0050087\nGr\u00fcner Weg 24\nDE-33098 Paderborn\nTel.: 05251 750079"
+    },
+    {
+        "Number": "10",
+        "Latitude": "51.72484",
+        "Longitude": "8.79496",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499173\nRandebrockstr. 1\nDE-33100 Paderborn\nTel.: 02921 39971"
+    },
+    {
+        "Number": "11",
+        "Latitude": "51.6981",
+        "Longitude": "8.73232",
+        "Address": "AVIA Station\nDKV-Nr: 0005012\nFrankfurter Weg 29\nDE-33106 Paderborn\nTel.: 05251 760268"
+    },
+    {
+        "Number": "12",
+        "Latitude": "51.70917",
+        "Longitude": "8.71458",
+        "Address": "TP24Automat\nDKV-Nr: 0081302\nBalhorner Feld 4\nDE-33106 Paderborn"
+    },
+    {
+        "Number": "13",
+        "Latitude": "51.7455849",
+        "Longitude": "8.7415599",
+        "Address": "ARAL Station\nDKV-Nr: 0010090\nMarienloher Str. 87\nDE-33104 Paderborn\nTel.: 05254 2430"
+    },
+    {
+        "Number": "14",
+        "Latitude": "51.693356",
+        "Longitude": "8.736733",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499175\nHaller Str. 4\nDE-33106 Paderborn\nTel.: 02921 39971"
+    },
+    {
+        "Number": "15",
+        "Latitude": "51.7453775",
+        "Longitude": "8.731506",
+        "Address": "ARAL Station\nDKV-Nr: 0010583\nDubelohstr. 143\nDE-33104 Paderborn\nTel.: 05254 939178"
+    },
+    {
+        "Number": "16",
+        "Latitude": "51.702381",
+        "Longitude": "8.714696",
+        "Address": "HOYER Station\nDKV-Nr: 0099257\nOberes Feld 13\nDE-33106 Paderborn"
+    },
+    {
+        "Number": "17",
+        "Latitude": "51.742802",
+        "Longitude": "8.7077",
+        "Address": "SHELL Station\nDKV-Nr: 0004682\nM\u00fcnsterstr. 7\nDE-33104 Paderborn\nTel.: 05254 977580"
+    },
+    {
+        "Number": "18",
+        "Latitude": "51.743227",
+        "Longitude": "8.706585",
+        "Address": "JET Station\nDKV-Nr: 0018777\nM\u00fcnsterstr. 13 - 15\nDE-33104 Paderborn\nTel.: 05254 6638134"
+    },
+    {
+        "Number": "19",
+        "Latitude": "51.683249",
+        "Longitude": "8.721085",
+        "Address": "ARAL Station\nDKV-Nr: 0070764\nBorchener Str. 336\nDE-33106 Paderborn\nTel.: 05251 892905"
+    },
+    {
+        "Number": "20",
+        "Latitude": "51.733788",
+        "Longitude": "8.6892775",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045430\nVon-Ketteler-Str. 13\nDE-33106 Paderborn\nTel.: 05254 5150"
+    },
+    {
+        "Number": "21",
+        "Latitude": "51.692621",
+        "Longitude": "8.697025",
+        "Address": "AVIA Station\nDKV-Nr: 0005076\nKleestr. 39\nDE-33106 Paderborn\nTel.: 05251 930168"
+    },
+    {
+        "Number": "22",
+        "Latitude": "51.666928",
+        "Longitude": "8.723103",
+        "Address": "ESSO Station\nDKV-Nr: 0003737\nPaderborner Str. 32\nDE-33178 Borchen\nTel.: 05251 391916"
+    },
+    {
+        "Number": "23",
+        "Latitude": "51.721917",
+        "Longitude": "8.850346",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499184\nDriburger Str. 317\nDE-33100 Paderborn\nTel.: 05293 930520"
+    },
+    {
+        "Number": "24",
+        "Latitude": "51.788272",
+        "Longitude": "8.701569",
+        "Address": "SHELL Station\nDKV-Nr: 3404504\nBielefelder Str. 215\nDE-33104 Paderborn\nTel.: 05254 3137"
+    },
+    {
+        "Number": "25",
+        "Latitude": "51.64315",
+        "Longitude": "8.710018",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499633\nRudolf-Diesel-Str. 8\nDE-33178 Borchen\nTel.: 05251 69099126"
+    },
+    {
+        "Number": "26",
+        "Latitude": "51.789537",
+        "Longitude": "8.82677",
+        "Address": "MARKANT Station\nDKV-Nr: 0096142\nDetmolder Str. 230\nDE-33175 Bad Lippspringe\nTel.: 05252 9336467"
+    },
+    {
+        "Number": "27",
+        "Latitude": "51.67849",
+        "Longitude": "8.62673",
+        "Address": "SB Station\nDKV-Nr: 0050197\nPaderborner Str. 71\nDE-33154 Salzkotten\nTel.: 05258 930759"
+    },
+    {
+        "Number": "28",
+        "Latitude": "51.800763",
+        "Longitude": "8.83716",
+        "Address": "ACCESS Station\nDKV-Nr: 3451275\nPaderborner Str. 78\nDE-33189 Schlangen\nTel.: 05252 7109"
+    },
+    {
+        "Number": "29",
+        "Latitude": "51.640963",
+        "Longitude": "8.665082",
+        "Address": "ARAL Station\nDKV-Nr: 3470097\nKleiner Hellweg 2\nDE-33154 Salzkotten\nTel.: 05258 940605"
+    },
+    {
+        "Number": "30",
+        "Latitude": "51.80286",
+        "Longitude": "8.839477",
+        "Address": "STAR Station\nDKV-Nr: 0002455\nPaderborner Str. 47\nDE-33189 Schlangen\nTel.: 05252 973782"
+    },
+    {
+        "Number": "31",
+        "Latitude": "51.674159",
+        "Longitude": "8.61304",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082135\nPaderborner Str. 22\nDE-33154 Salzkotten\nTel.: 04251 812235"
+    },
+    {
+        "Number": "32",
+        "Latitude": "51.782229",
+        "Longitude": "8.624171",
+        "Address": "WESTFALEN Station\nDKV-Nr: 0096221\nBursdamm 1\nDE-33129 Delbr\u00fcck\nTel.: 05250 98780"
+    },
+    {
+        "Number": "33",
+        "Latitude": "51.717664",
+        "Longitude": "8.931118",
+        "Address": "AVIA Station\nDKV-Nr: 0005036\nPaderborner Str. 28\nDE-33184 Altenbeken\nTel.: 05255 930810"
+    },
+    {
+        "Number": "34",
+        "Latitude": "51.671141",
+        "Longitude": "8.600031",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499186\nGeseker Str. 8\nDE-33154 Salzkotten\nTel.: 02921 39971"
+    },
+    {
+        "Number": "35",
+        "Latitude": "51.669987",
+        "Longitude": "8.598282",
+        "Address": "ARAL Station\nDKV-Nr: 0010986\nGeseker Str. 21\nDE-33154 Salzkotten\nTel.: 05258 935377"
+    },
+    {
+        "Number": "36",
+        "Latitude": "51.738803",
+        "Longitude": "8.938633",
+        "Address": "AVIA Station\nDKV-Nr: 0098341\nAn der B 64 1\nDE-33184 Altenbeken\nTel.: 05255 930860"
+    },
+    {
+        "Number": "37",
+        "Latitude": "51.763258",
+        "Longitude": "8.928199",
+        "Address": "SAUERWALD Station\nDKV-Nr: 0099061\nAdenauerstr. 1a\nDE-33184 Altenbeken\nTel.: 05255 931 277"
+    },
+    {
+        "Number": "38",
+        "Latitude": "51.81756621",
+        "Longitude": "8.66084212",
+        "Address": "WESTFALEN Station\nDKV-Nr: 0096082\nPaderborner Str. 32\nDE-33161 H\u00f6velhof\nTel.: 05257 97990"
+    },
+    {
+        "Number": "39",
+        "Latitude": "51.8185784",
+        "Longitude": "8.659728",
+        "Address": "ARAL Station\nDKV-Nr: 0010401\nPaderborner Str. 22\nDE-33161 H\u00f6velhof\nTel.: 05257 2631"
+    },
+    {
+        "Number": "40",
+        "Latitude": "51.76414",
+        "Longitude": "8.58116",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499697\nPaderborner Str. 19\nDE-33129 Delbr\u00fcck\nTel.: 0572 1972529"
+    },
+    {
+        "Number": "41",
+        "Latitude": "51.823876",
+        "Longitude": "8.653713",
+        "Address": "AVIA Station\nDKV-Nr: 0005022\nG\u00fctersloher Str. 15\nDE-33161 H\u00f6velhof\nTel.: 05257 3388"
+    },
+    {
+        "Number": "42",
+        "Latitude": "51.596438",
+        "Longitude": "8.782631",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499187\nSiebentalweg 1\nDE-33165 Lichtenau\nTel.: 02921 39971"
+    },
+    {
+        "Number": "43",
+        "Latitude": "51.763368",
+        "Longitude": "8.568971",
+        "Address": "FREIE Station\nDKV-Nr: 0010086\nOststr. 28\nDE-33129 Delbr\u00fcck\nTel.: 05250 933286"
+    },
+    {
+        "Number": "44",
+        "Latitude": "51.763438",
+        "Longitude": "8.568826",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082138\nOststr. 28\nDE-33129 Delbr\u00fcck\nTel.: 04251 812235"
+    },
+    {
+        "Number": "45",
+        "Latitude": "51.620831",
+        "Longitude": "8.887762",
+        "Address": "SHELL Station\nDKV-Nr: 3404749\nLange Str. 2\nDE-33165 Lichtenau\nTel.: 05295 930587"
+    },
+    {
+        "Number": "46",
+        "Latitude": "51.759968",
+        "Longitude": "8.562368",
+        "Address": "JET Station\nDKV-Nr: 3418041\nBoker Str. 8 b\nDE-33129 Delbr\u00fcck\nTel.: 05250 9364917"
+    },
+    {
+        "Number": "47",
+        "Latitude": "51.828597",
+        "Longitude": "8.642539",
+        "Address": "TP24Automat\nDKV-Nr: 0081071\nIndustriestr. 3\nDE-33161 H\u00f6velhof"
+    },
+    {
+        "Number": "48",
+        "Latitude": "51.763956",
+        "Longitude": "8.556307",
+        "Address": "ESSO Station\nDKV-Nr: 0003717\nRietberger Str. 16\nDE-33129 Delbr\u00fcck\nTel.: 05250 53421"
+    },
+    {
+        "Number": "49",
+        "Latitude": "51.754868",
+        "Longitude": "8.548603",
+        "Address": "TP24Automat\nDKV-Nr: 0081303\nB\u00f6sendamm 10\nDE-33129 Delbr\u00fcck"
+    },
+    {
+        "Number": "50",
+        "Latitude": "51.6164536",
+        "Longitude": "8.9015835",
+        "Address": "STAR Station\nDKV-Nr: 0002125\nLange Str. 72\nDE-33165 Lichtenau\nTel.: 05295 / 1090"
+    },
+    {
+        "Number": "51",
+        "Latitude": "51.616498",
+        "Longitude": "8.905647",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499176\nTorfbruchstr. 1\nDE-33165 Lichtenau\nTel.: 02921 39971"
+    },
+    {
+        "Number": "52",
+        "Latitude": "51.575729",
+        "Longitude": "8.715833",
+        "Address": "SCHALLENKAMP Station\nDKV-Nr: 0098391\nGraf-Zeppelin-Str. 24\nDE-33181 Bad W\u00fcnnenberg\nTel.: 02957 98440"
+    },
+    {
+        "Number": "53",
+        "Latitude": "51.84118",
+        "Longitude": "8.611822",
+        "Address": "AVIA Station\nDKV-Nr: 0098286\nDetmolder Str. 41\nDE-33161 H\u00f6velhof\nTel.: 05257 938368"
+    },
+    {
+        "Number": "54",
+        "Latitude": "51.56746",
+        "Longitude": "8.716",
+        "Address": "RAIFFEISEN Station\nDKV-Nr: 3499178\nGraf-Zeppelin-Str. 43\nDE-33181 Bad W\u00fcnnenberg\nTel.: 02957 98300"
+    },
+    {
+        "Number": "55",
+        "Latitude": "51.567147",
+        "Longitude": "8.715962",
+        "Address": "TP24Automat\nDKV-Nr: 0081305\nGraf-Zeppelin-Str. 43\nDE-33181 Bad W\u00fcnnenberg"
+    },
+    {
+        "Number": "56",
+        "Latitude": "51.56344",
+        "Longitude": "8.72521",
+        "Address": "SCHALLENKAMP Station\nDKV-Nr: 0097998\nB\u00fcrener Str. 9\nDE-33181 Bad W\u00fcnnenberg\nTel.: 02957 98440"
+    },
+    {
+        "Number": "57",
+        "Latitude": "51.71726",
+        "Longitude": "9.01649",
+        "Address": "TP24Automat\nDKV-Nr: 0081300\nGroppendiek 5\nDE-33014 Bad Driburg"
+    },
+    {
+        "Number": "58",
+        "Latitude": "51.722183",
+        "Longitude": "9.017249",
+        "Address": "Q1 Station\nDKV-Nr: 0049039\nDringenberger Str. 83\nDE-33014 Bad Driburg\nTel.: 05253 931279"
+    },
+    {
+        "Number": "59",
+        "Latitude": "51.740998",
+        "Longitude": "9.01896",
+        "Address": "HEM Station\nDKV-Nr: 0058206\nPyrmonter Str. 48\nDE-33014 Bad Driburg\nTel.: 05253 934893"
+    },
+    {
+        "Number": "60",
+        "Latitude": "51.7048",
+        "Longitude": "8.4825628",
+        "Address": "AVIA Station\nDKV-Nr: 3499401\nLippestr. 30\nDE-33154 Salzkotten\nTel.: 02948 1400"
+    },
+    {
+        "Number": "61",
+        "Latitude": "51.631068",
+        "Longitude": "8.51289",
+        "Address": "ARAL Station\nDKV-Nr: 3475607\nB\u00fcrener Str. 15\nDE-59590 Geseke\nTel.: 02942 6061"
+    },
+    {
+        "Number": "62",
+        "Latitude": "51.635856",
+        "Longitude": "8.505644",
+        "Address": "ARAL Station\nDKV-Nr: 0010088\nErwitterstr. 13\nDE-59590 Geseke\nTel.: 02942 1371"
+    },
+    {
+        "Number": "63",
+        "Latitude": "51.6360124",
+        "Longitude": "8.503016",
+        "Address": "STAR Station\nDKV-Nr: 0002345\nErwitter Str. 21\nDE-59590 Geseke\nTel.: 02942/799157"
+    }
+]
