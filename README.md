@@ -1,8 +1,8 @@
 ## Scrapping Website with Selenium Webdriver and Python
 
-I am testing Selenium on a Map-based website. Here I used DKV Maps (https://www.dkv-euroservice.com/DKVMaps/)
+I am testing Selenium on a Map-based website. Here I used [DKV Maps](https://www.dkv-euroservice.com/DKVMaps/).
 
-## Built With
+### Built With
 
 Frameworks/Libraries used in this project,
 
@@ -13,7 +13,7 @@ Frameworks/Libraries used in this project,
 
 
 
-## Setup
+### Setup
 1. Download the driver (chromedriver.exe) from [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)
 2. Add the driver (chromedriver.exe) to the project location
 3. Run requirements.txt to install packages
@@ -23,7 +23,7 @@ Frameworks/Libraries used in this project,
 5. Replace the LOCATION variable in `main.py` with your desired location
 6. Replace the AREA variable in `main.py` to change the search range (1, 5, 10, 20, 50)
 
-## Result
+### Result
 The script will perform live scrapping and save data to CSV & JSON files at the end.
 
 
