@@ -1,0 +1,398 @@
+[
+    {
+        "Number": "1",
+        "Latitude": "50.738295",
+        "Longitude": "7.101143",
+        "Address": "BFT Station\nDKV-Nr: 0092062\nK\u00f6lnstr. 10 - 16\nDE-53111 Bonn\nTel.: 0228 94498970"
+    },
+    {
+        "Number": "2",
+        "Latitude": "50.7463504",
+        "Longitude": "7.0995962",
+        "Address": "ARAL Station\nDKV-Nr: 0070956\nR\u00f6merstr. 102 - 110\nDE-53111 Bonn\nTel.: 0228 636321"
+    },
+    {
+        "Number": "3",
+        "Latitude": "50.7324683",
+        "Longitude": "7.0822964",
+        "Address": "SHELL Station\nDKV-Nr: 0050117\nEndenicher Str. 92\nDE-53115 Bonn\nTel.: 0228 696110"
+    },
+    {
+        "Number": "4",
+        "Latitude": "50.744928",
+        "Longitude": "7.083859",
+        "Address": "ED Station\nDKV-Nr: 0068029\nLievelingsweg 10\nDE-53119 Bonn\nTel.: 0228 676991"
+    },
+    {
+        "Number": "5",
+        "Latitude": "50.730591",
+        "Longitude": "7.080039",
+        "Address": "BFT Station\nDKV-Nr: 0092022\nEndenicher Str. 157\nDE-53115 Bonn\nTel.: 0228 7668982"
+    },
+    {
+        "Number": "6",
+        "Latitude": "50.743203",
+        "Longitude": "7.078949",
+        "Address": "ARAL Station\nDKV-Nr: 0070955\nPotsdamer Platz 2\nDE-53119 Bonn\nTel.: 0228 7668731"
+    },
+    {
+        "Number": "7",
+        "Latitude": "50.742186",
+        "Longitude": "7.07755",
+        "Address": "SVG Station\nDKV-Nr: 0105090\nPotsdamer Platz 7\nDE-53119 Bonn\nTel.: 0228 654851"
+    },
+    {
+        "Number": "8",
+        "Latitude": "50.739979",
+        "Longitude": "7.075983",
+        "Address": "JET Station\nDKV-Nr: 3418324\nBornheimer Str. 145\nDE-53119 Bonn\nTel.: 0228 655558"
+    },
+    {
+        "Number": "9",
+        "Latitude": "50.741082",
+        "Longitude": "7.074616",
+        "Address": "Mr. Wash Waschstation\nDKV-Nr: 9984031\nBornheimer Str. 153\nDE-53119 Bonn\nTel.: 0228 18999110"
+    },
+    {
+        "Number": "10",
+        "Latitude": "50.720567",
+        "Longitude": "7.107591",
+        "Address": "ESSO Station\nDKV-Nr: 0003112\nReuterstr. 108\nDE-53129 Bonn\nTel.: 0228 216797"
+    },
+    {
+        "Number": "11",
+        "Latitude": "50.745814",
+        "Longitude": "7.124293",
+        "Address": "SHELL Station\nDKV-Nr: 0050543\nSankt Augustiner Str. 118\nDE-53225 Bonn\nTel.: 0228 460786"
+    },
+    {
+        "Number": "12",
+        "Latitude": "50.746626",
+        "Longitude": "7.124172",
+        "Address": "ESSO Station\nDKV-Nr: 0003808\nSankt Augustiner Str. 145\nDE-53225 Bonn\nTel.: 0228 476790"
+    },
+    {
+        "Number": "13",
+        "Latitude": "50.7181406",
+        "Longitude": "7.091131",
+        "Address": "ARAL Station\nDKV-Nr: 0010738\nIm Wingert 20\nDE-53115 Bonn\nTel.: 0228 2123 48"
+    },
+    {
+        "Number": "14",
+        "Latitude": "50.734826",
+        "Longitude": "7.13144",
+        "Address": "SHELL Station\nDKV-Nr: 0050542\nK\u00f6nigswinterer Str. 90\nDE-53227 Bonn\nTel.: 0228 946540"
+    },
+    {
+        "Number": "15",
+        "Latitude": "50.75213",
+        "Longitude": "7.073853",
+        "Address": "ESSO Station\nDKV-Nr: 0003674\nK\u00f6lnstr. 455\nDE-53117 Bonn\nTel.: 0228 670463"
+    },
+    {
+        "Number": "16",
+        "Latitude": "50.7474127",
+        "Longitude": "7.0670927",
+        "Address": "ARAL Station\nDKV-Nr: 0010356\nLandsberger Str. 2\nDE-53119 Bonn\nTel.: 0228 661806"
+    },
+    {
+        "Number": "17",
+        "Latitude": "50.72638",
+        "Longitude": "7.06774",
+        "Address": "H2 MOBILITY Wasserstoff Station\nDKV-Nr: 3493010\nErich-Hoffmann-Stra\u00dfe 9\nDE-53121 Bonn"
+    },
+    {
+        "Number": "18",
+        "Latitude": "50.7261456",
+        "Longitude": "7.0674878",
+        "Address": "SHELL Station\nDKV-Nr: 3404528\nErich-Hoffmann-Str. 9\nDE-53121 Bonn\nTel.: 0228 616660"
+    },
+    {
+        "Number": "19",
+        "Latitude": "50.709144",
+        "Longitude": "7.109769",
+        "Address": "HEM Station\nDKV-Nr: 0058034\nHausdorffstr. 223\nDE-53129 Bonn\nTel.: 0228 235520"
+    },
+    {
+        "Number": "20",
+        "Latitude": "50.7192917",
+        "Longitude": "7.0567587",
+        "Address": "ARAL Station\nDKV-Nr: 0010572\nRochusstr. 46\nDE-53123 Bonn\nTel.: 0228 624902"
+    },
+    {
+        "Number": "21",
+        "Latitude": "50.71184",
+        "Longitude": "7.06713",
+        "Address": "AGIP Station\nDKV-Nr: 3406394\nProvinzialstr. 55\nDE-53127 Bonn\nTel.: 0228254392"
+    },
+    {
+        "Number": "22",
+        "Latitude": "50.711814",
+        "Longitude": "7.067181",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3498120\nProvinzialstr. 55\nDE-53127 Bonn\nTel.: 0228 254392"
+    },
+    {
+        "Number": "23",
+        "Latitude": "50.741833",
+        "Longitude": "7.149664",
+        "Address": "CLASSIC Station\nDKV-Nr: 0082166\nHoltorfer Str. 11\nDE-53229 Bonn\nTel.: 04251 812207"
+    },
+    {
+        "Number": "24",
+        "Latitude": "50.762407",
+        "Longitude": "7.056833",
+        "Address": "SHELL Station\nDKV-Nr: 3404619\nK\u00f6lnstr. 653\nDE-53117 Bonn\nTel.: 0228 673966"
+    },
+    {
+        "Number": "25",
+        "Latitude": "50.702757",
+        "Longitude": "7.116083",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051105\nKessenicher Str. 212\nDE-53129 Bonn\nTel.: 0228 231116"
+    },
+    {
+        "Number": "26",
+        "Latitude": "50.7244001",
+        "Longitude": "7.1526895",
+        "Address": "ARAL Station\nDKV-Nr: 0070930\nK\u00f6nigswinterer Str. 409\nDE-53227 Bonn\nTel.: 0228 442219"
+    },
+    {
+        "Number": "27",
+        "Latitude": "50.751893",
+        "Longitude": "7.155592",
+        "Address": "Q1 Station\nDKV-Nr: 0049199\nFr\u00e4nkische Str. 15\nDE-53229 Bonn\nTel.: 0228 43378870"
+    },
+    {
+        "Number": "28",
+        "Latitude": "50.709432",
+        "Longitude": "7.054801",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445090\nJulius-Leber-Str. 2 c\nDE-53123 Bonn\nTel.: 0228 96285704"
+    },
+    {
+        "Number": "29",
+        "Latitude": "50.701211",
+        "Longitude": "7.136537",
+        "Address": "ARAL Station\nDKV-Nr: 0010208\nGodesberger Allee 131\nDE-53175 Bonn\nTel.: 0228 376016"
+    },
+    {
+        "Number": "30",
+        "Latitude": "50.780204",
+        "Longitude": "7.083199",
+        "Address": "MUNDORF Station\nDKV-Nr: 0073016\nHertzstr. 4\nDE-53844 Troisdorf\nTel.: 0228 9455360"
+    },
+    {
+        "Number": "31",
+        "Latitude": "50.714305",
+        "Longitude": "7.039477",
+        "Address": "JET Station\nDKV-Nr: 3418329\nRochusstr. 337\nDE-53123 Bonn\nTel.: 0228 9862052"
+    },
+    {
+        "Number": "32",
+        "Latitude": "50.712218",
+        "Longitude": "7.040691",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0051381\nKonrad-Adenauer-Damm 200\nDE-53123 Bonn\nTel.: 0228 644806"
+    },
+    {
+        "Number": "33",
+        "Latitude": "50.696162",
+        "Longitude": "7.141446",
+        "Address": "AGIP Station\nDKV-Nr: 0006107\nGodesberger Allee 63\nDE-53175 Bonn\nTel.: 0228 374035"
+    },
+    {
+        "Number": "34",
+        "Latitude": "50.756685",
+        "Longitude": "7.02497",
+        "Address": "TP24Automat\nDKV-Nr: 0081469\nJohann-Philipp-Reis-Str. 22\nDE-53332 Bornheim"
+    },
+    {
+        "Number": "35",
+        "Latitude": "50.695071",
+        "Longitude": "7.14261",
+        "Address": "BFT Station\nDKV-Nr: 0092027\nGodesberger Allee 55\nDE-53175 Bonn\nTel.: 0228 3727123"
+    },
+    {
+        "Number": "36",
+        "Latitude": "50.761273",
+        "Longitude": "7.027342",
+        "Address": "WESTFALEN Station\nDKV-Nr: 0096335\nAlexander-Bell-Str. 1\nDE-53332 Bornheim\nTel.: 02222 6480965"
+    },
+    {
+        "Number": "37",
+        "Latitude": "50.691907",
+        "Longitude": "7.137097",
+        "Address": "ARAL Station\nDKV-Nr: 3475595\nFriesdorfer Str. 195\nDE-53175 Bonn\nTel.: 0228 310151"
+    },
+    {
+        "Number": "38",
+        "Latitude": "50.683185",
+        "Longitude": "7.075683",
+        "Address": "WESTFALEN Station\nDKV-Nr: 0096022\nReichsstr. 3\nDE-53125 Bonn\nTel.: 0228 9180695"
+    },
+    {
+        "Number": "39",
+        "Latitude": "50.753964",
+        "Longitude": "7.013574",
+        "Address": "PM24 Station\nDKV-Nr: 0050501\nG\u00fcterbahnhofstr. 3\nDE-53332 Bornheim\nTel.: 02401 919946"
+    },
+    {
+        "Number": "40",
+        "Latitude": "50.69468",
+        "Longitude": "7.161562",
+        "Address": "TotalEnergies Station\nDKV-Nr: 0045101\nUbierstr. 8\nDE-53173 Bonn\nTel.: 0228 363298"
+    },
+    {
+        "Number": "41",
+        "Latitude": "50.79555",
+        "Longitude": "7.120889",
+        "Address": "BFT Station\nDKV-Nr: 0092060\nIm Kirchtal 16\nDE-53844 Troisdorf\nTel.: 02241 41136"
+    },
+    {
+        "Number": "42",
+        "Latitude": "50.7563861",
+        "Longitude": "7.0084562",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445354\nBonner Str. 71\nDE-53332 Bornheim\nTel.: 02222 9890200"
+    },
+    {
+        "Number": "43",
+        "Latitude": "50.70311",
+        "Longitude": "7.175993",
+        "Address": "ARAL Station\nDKV-Nr: 0010975\nIm M\u00fchlenbruch 2\nDE-53639 K\u00f6nigswinter\nTel.: 02223 298229"
+    },
+    {
+        "Number": "44",
+        "Latitude": "50.783348",
+        "Longitude": "7.168638",
+        "Address": "BFT Station\nDKV-Nr: 0092010\nSiegstr. 143\nDE-53757 Sankt Augustin\nTel.: 02241 311650"
+    },
+    {
+        "Number": "45",
+        "Latitude": "50.797927",
+        "Longitude": "7.052295",
+        "Address": "HIT Station\nDKV-Nr: 0073027\nMarktstr. 109\nDE-53859 Niederkassel\nTel.: 02241911071"
+    },
+    {
+        "Number": "46",
+        "Latitude": "50.772568",
+        "Longitude": "7.189195",
+        "Address": "BFT Station\nDKV-Nr: 0092020\nHennefer Str. 42\nDE-53757 Sankt Augustin"
+    },
+    {
+        "Number": "47",
+        "Latitude": "50.772568",
+        "Longitude": "7.1892",
+        "Address": "BFT Station\nDKV-Nr: 0092040\nHennefer Str. 19 a\nDE-53757 Sankt Augustin\nTel.: 02241 9440273"
+    },
+    {
+        "Number": "48",
+        "Latitude": "50.793739",
+        "Longitude": "7.165988",
+        "Address": "STAR Station\nDKV-Nr: 0002155\nSiegstr. 2 B\nDE-53757 Sankt Augustin\nTel.: 02241 / 311841"
+    },
+    {
+        "Number": "49",
+        "Latitude": "50.778511",
+        "Longitude": "7.19097",
+        "Address": "ARAL Station\nDKV-Nr: 0070958\nBonner Str. 134\nDE-53757 Sankt Augustin\nTel.: 02241 203231"
+    },
+    {
+        "Number": "50",
+        "Latitude": "50.791769",
+        "Longitude": "7.023134",
+        "Address": "ED Station\nDKV-Nr: 0068071\nK\u00f6lner Landstr. 67\nDE-53332 Bornheim\nTel.: 02236 2770"
+    },
+    {
+        "Number": "51",
+        "Latitude": "50.80707",
+        "Longitude": "7.130159",
+        "Address": "SHELL Station\nDKV-Nr: 0004046\nLarstr. 2 a\nDE-53844 Troisdorf\nTel.: 02241 404598"
+    },
+    {
+        "Number": "52",
+        "Latitude": "50.677592",
+        "Longitude": "7.168499",
+        "Address": "ARAL Station\nDKV-Nr: 3470011\nKoblenzer Str. 171\nDE-53177 Bonn\nTel.: 0228 333097"
+    },
+    {
+        "Number": "53",
+        "Latitude": "50.681253",
+        "Longitude": "7.017984",
+        "Address": "AVIA Station\nDKV-Nr: 0060066\nHauptstr. 521\nDE-53347 Alfter\nTel.: 0214 52005"
+    },
+    {
+        "Number": "54",
+        "Latitude": "50.811928",
+        "Longitude": "7.123094",
+        "Address": "HIT Station\nDKV-Nr: 0073011\nSpicher Str. 101\nDE-53844 Troisdorf\nTel.: 02241 47385"
+    },
+    {
+        "Number": "55",
+        "Latitude": "50.676412",
+        "Longitude": "7.170618",
+        "Address": "FREIE Station\nDKV-Nr: 0051158\nKoblenzer Str. 195\nDE-53177 Bonn\nTel.: 0228 332515"
+    },
+    {
+        "Number": "56",
+        "Latitude": "50.80966",
+        "Longitude": "7.038712",
+        "Address": "MUNDORF Station\nDKV-Nr: 0073030\nHauptstr. 1\nDE-53859 Niederkassel\nTel.: 02208 4516"
+    },
+    {
+        "Number": "57",
+        "Latitude": "50.762322",
+        "Longitude": "6.975718",
+        "Address": "TotalEnergies Station\nDKV-Nr: 3445350\nAm Hellenkreuz 1\nDE-53332 Bornheim\nTel.: 02222 9891379"
+    },
+    {
+        "Number": "58",
+        "Latitude": "50.748435",
+        "Longitude": "7.225796",
+        "Address": "MUNDORF Station\nDKV-Nr: 0073024\nPleistalstr. 231\nDE-53757 Sankt Augustin\nTel.: 02241 335204"
+    },
+    {
+        "Number": "59",
+        "Latitude": "50.810172",
+        "Longitude": "7.157593",
+        "Address": "ARAL Station\nDKV-Nr: 0010724\nMoselstr. 2\nDE-53842 Troisdorf\nTel.: 02241 809276"
+    },
+    {
+        "Number": "60",
+        "Latitude": "50.818968",
+        "Longitude": "7.113331",
+        "Address": "MUNDORF Station\nDKV-Nr: 0073013\nEchternacher Str. 2\nDE-53842 Troisdorf\nTel.: 02241 493580"
+    },
+    {
+        "Number": "61",
+        "Latitude": "50.818242",
+        "Longitude": "7.123856",
+        "Address": "TP24Automat\nDKV-Nr: 0081121\nOtto-Hahn-Str. 1\nDE-53842 Troisdorf"
+    },
+    {
+        "Number": "62",
+        "Latitude": "50.671989",
+        "Longitude": "7.178395",
+        "Address": "ESSO Station\nDKV-Nr: 0003263\nMainzer Str. 3\nDE-53179 Bonn\nTel.: 0228 93399290"
+    },
+    {
+        "Number": "63",
+        "Latitude": "50.791417",
+        "Longitude": "7.20458",
+        "Address": "ARAL Station\nDKV-Nr: 3475596\nBonner Str. 32\nDE-53721 Siegburg\nTel.: 02241 62409"
+    },
+    {
+        "Number": "64",
+        "Latitude": "50.8189487",
+        "Longitude": "7.1437078",
+        "Address": "ARAL Station\nDKV-Nr: 0070462\nM\u00fclheimer Str. 15\nDE-53840 Troisdorf\nTel.: 02241 809505"
+    },
+    {
+        "Number": "65",
+        "Latitude": "50.664356",
+        "Longitude": "7.175671",
+        "Address": "STAR Station\nDKV-Nr: 0002138\nEllesdorfer Str. 28\nDE-53179 Bonn\nTel.: 0228-345222"
+    },
+    {
+        "Number": "66",
+        "Latitude": "50.7923579",
+        "Longitude": "7.2073225",
+        "Address": "SHELL Station\nDKV-Nr: 0004554\nKaiser-Wilhelm-Platz 16\nDE-53721 Siegburg\nTel.: 02241 53222"
+    }
+]
